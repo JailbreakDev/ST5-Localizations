@@ -1,0 +1,490 @@
+/* General - Everything that appears in multiple places */
+"None" = "None";
+"Default" = "Default";
+"Blur" = "Blur";
+"Reset" = "Reset";
+"Hide Labels" = "Hide Labels";
+"Original" = "Original";
+"Hidden" = "Hidden";
+"Custom Text" = "Custom Text";
+"Disable" = "Disable";
+"Font Size" = "Font Size";
+"Hide Items" = "Hide Items";
+"Do Not Disturb" = "Do Not Disturb";
+"Time" = "Time";
+"Cancel" = "Cancel";
+"Continue" = "Continue";
+"Dismiss" = "Dismiss";
+"[Springtomize].thanks" = "Thank you for using Springtomize 5";
+
+/* Versions */
+"Unsupported Version" = "Unsupported Version";
+"[Unsupported Version].description %@ %f" = "iOS %@ (%f) is currently not supported. If your version is too new, I am working on it 😎. If it is too old, please check out other Springtomize versions.";
+
+/* Reset & Respring */
+"[Reset].description" = "This will reset the settings for this section";
+"[Reset].message" = "Please respring after a reset";
+"'%@' requires a respring" = "'%@' requires a respring";
+"[Respring].message" = "Do you really want to respring?";
+
+/* Application List */
+"Available Applications" = "Available Applications";
+"System Apps" = "System Apps";
+"User Apps" = "User Apps";
+
+/* Colors & Color Picker */
+"Light Color" = "Light Color";
+"Dark Color" = "Dark Color";
+"Light Background Color" = "Light Background Color";
+"Dark Background Color" = "Dark Background Color";
+"Color Picker" = "Color Picker";
+"Red" = "Red";
+"Green" = "Green";
+"Blue" = "Blue";
+"Alpha" = "Alpha";
+"[Alpha].description" = "The alpha level of your color";
+"Hex" = "Hex";
+"[Hex].description" = "Enter a hex value";
+
+/* App List */
+"Available Apps" = "Available Apps";
+"System Apps" = "System Apps";
+"User Apps" = "User Apps";
+
+/* Main View Header */
+"Respring" = "Respring";
+"[Springtomize].description" = "Customize your iOS Device like never before";
+
+/* Sections */
+"Settings" = "Settings";
+"Enabled" = "Enabled";
+"Animations" = "Animations";
+"App Switcher" = "App Switcher";
+"Control Center" = "Control Center";
+"Dock" = "Dock";
+"Folders" = "Folders";
+"Icons" = "Icons";
+"Lock Screen" = "Lock Screen";
+"Miscellaneous" = "Miscellaneous";
+"Notification Center" = "Notification Center";
+"Pages" = "Pages";
+"Status Bar" = "Status Bar";
+"Profiles" = "Profiles";
+"[Profiles].description" = "Save configurations into profiles";
+"More" = "More";
+"Bug Reporting" = "Bug Reporting";
+"Request a Feature" = "Request a Feature";
+"Credits" = "Credits";
+
+/* Animations */
+"Custom Speed" = "Custom Speed";
+"Affect App Switcher" = "Affect App Switcher";
+"[Custom Speed].description" = "Change the speed of animations";
+"Lock Animation" = "Lock Animation";
+
+/* Lock Animations */
+"Explode" = "Explode";
+"Old TV" = "Old TV";
+"Slide Away" = "Slide Away";
+"Slide left to right" = "Slide left to right";
+"Zoom out" = "Zoom out";
+"Disable Icons Fly In" = "Disable Icons Fly In";
+"[Disable Icons Fly In].description" = "Disables the icons flying in after unlocking";
+"Only perform on Lock" = "Only perform on lock";
+"[Lock Animation].description" = "Select a lock animation and change the speed using the slider. Only performing on Lock means that the lock animation only activates when using the physical lock button.";
+"Page Scroll Animation" = "Page Scroll Animation";
+
+"Disable Battery Animation" = "Disable Battery Animation";
+"[Disable Battery Animation].description" = "Disables the animation on Lockscreen when plugging in a charger. It will show instantly.";
+
+/* Page Scroll Animations */
+"Alternate Pulse" = "Alternate Pulse";
+"Alternate Roll" = "Alternate Roll";
+"Alternate Shuffle" = "Alternate Shuffle";
+"Bubble" = "Bubble";
+"Clash" = "Clash";
+"Come in and go down" = "Come in and go down";
+"Come in and go up" = "Come in and go up";
+"Compress" = "Compress";
+"Cube Inside" = "Cube Inside";
+"Cube Outside" = "Cube Outside";
+"Fade In Place" = "Fade In Place";
+"Interlace" = "Interlace";
+"Light Fade" = "Light Fade";
+"Long Leap" = "Long Leap";
+"Magic Flip Icons" = "Magic Flip Icons";
+"Magic Flip Page" = "Magic Flip Page";
+"Pulse" = "Pulse";
+"Railway Horizontal" = "Railway Horizontal";
+"Railway Vertical" = "Railway Vertical";
+"Random" = "Random";
+"Rollerblade" = "Rollerblade";
+"Roll Page" = "Roll Page";
+"Rotate Clockwise" = "Rotate Clockwise";
+"Rotate Counter Clockwise" = "Rotate Counter Clockwise";
+"Seaside" = "Seaside";
+"Shrink" = "Shrink";
+"Shuffle" = "Shuffle";
+"Slide and Zoom" = "Slide and Zoom";
+"Spread" = "Spread";
+"Stairway Down" = "Stairway Down";
+"Stairway Up" = "Stairway Up";
+"Stretch" = "Stretch";
+"Tear Apart" = "Tear Apart";
+"Time Machine" = "Time Machine";
+"Vertical Down" = "Vertical Down";
+"Vertical Up" = "Vertical Up";
+"Windmill" = "Windmill";
+"Zoom In" = "Zoom In";
+"Zoom Out" = "Zoom Out";
+"[Page Scroll Animation].description" = "Select your favorite animation when scrolling from one page to another.";
+
+"Use Old Screenshot Style" = "Use Old Screenshot Style";
+"Light Screenshot Color" = "Light Screenshot Color";
+"Dark Screenshot Color" = "Dark Screenshot Color";
+"[Flash Color].description" = "Specify a custom color for the flash shown when taking a screenshot.";
+
+/* App Switcher */
+"Hide Icons" = "Hide Icons";
+"[Hide Stuff].description" = "Hide the icons and text above App Switcher cards";
+"Label Appearance" = "Label Appearance";
+"Title Font Size" = "Title Font Size";
+"Light Title Color" = "Light Title Color";
+"Dark Title Color" = "Dark Title Color";
+"Subtitle Font Size" = "Subtitle Font Size";
+"Custom Subtitle" = "Custom Subtitle";
+"[App Switcher Title Label].description" = "Define how the label looks like";
+"Use Grid Switcher" = "Use Grid Switcher";
+"Hide Suggestions" = "Hide Suggestions";
+"Card Corner Radius" = "Card Corner Radius";
+"Corner Radius" = "Corner Radius";
+"Resize Percentage" = "Resize Percentage";
+"[Resize Pages].description" = "Resizes the App Switcher Cards";
+"Inactive Apps" = "Inactive Apps";
+
+/* Inactive Apps mode */
+"Darken" = "Darken";
+"Hide" = "Hide";
+"Mark as inactive" = "Mark as inactive";
+
+/* Control Center */
+"[Disable CC].description" = "Disable the Control Center everywhere";
+"[CC Background Color].description" = "Change the background color of the Control Center.";
+"Light Toggle Color" = "Light Toggle Color";
+"Dark Toggle Color" = "Dark Toggle Color";
+"[CC Toggle Color].description" = "Change the background color of the Control Center toggles.";
+"Hide Sections" = "Hide Sections";
+
+/* CC Sections */
+"AirPlay Mirroring" = "AirPlay Mirroring";
+"Brightness" = "Brightness";
+"Connectivity" = "Connectivity";
+"Now Playing" = "Now Playing";
+"Rotation Lock" = "Rotation Lock";
+"Volume" = "Volume";
+"[CC Sections].description" = "Hide sections in Control Center by turning the switch on.";
+
+"Blur Effect" = "Blur Effect";
+"Disable Blur" = "Disable Blur";
+"[CC Disable Blur].description" = "Disable the blur effect on Control Center.";
+
+/* Dock */
+"Hide Dock" = "Hide Dock";
+"[Hide Dock].description" = "Hide the Dock from SpringBoard.";
+"Hide Background" = "Hide Background";
+"[Hide Background].description" = "Hide the Dock background.";
+"Dock on Top" = "Dock on Top";
+"[Dock on Top].description" = "Puts the dock on top of the screen.";
+
+/* Folders */
+"Nested Folders" = "Nested Folders";
+"[Nested Folders].description" = "Create Folders inside Folders.";
+"Experimental Nested Folders" = "Experimental Nested Folders";
+"[Experimental Nested Folders].description" = "Create Folders inside Folders. You might get UI bugs when closing / opening a folder inside a folder. I suggest saving the icon state before.";
+"Show Status Bar" = "Show Status Bar";
+"[Show Status Bar].description" = "Show the Status Bar in Folders.";
+"Lock Folder Names" = "Lock Folder Names";
+"[Lock Folder Names].description" = "Prevent Folder Name Changes.";
+"Hide Folder Title" = "Hide Folder Title";
+"[Hide Folder Title].description" = "Hide the title of a Folder when it is opened.";
+"Pinch to Close" = "Pinch to Close";
+"[Pinch to Close].description" = "Pinch on an open Folder to close it.";
+"Tap Inside to Close" = "Tap Inside to Close";
+"[Tap Inside to Close].description" = "Tap the Folder inside to close it.";
+"Close Folder on Launch" = "Close Folder on Launch";
+"[Close Folder on Launch].description" = "Close the Folder when launching an app within that Folder";
+"[Folder Background Color].description" = "Customize the background color of open Folders.";
+"Hide Background" = "Hide Background";
+"[Hide Background].description" = "Hides the Folder background entirely.";
+"Hide Grid Icon" = "Hide Grid Icon";
+"[Hide Grid Icon].description" = "Hides the Icon Grid inside Folder Icons.";
+"Squared Background" = "Squared Background";
+"[Squared Background].description" = "Makes the Folder background squared";
+"Hide Blur Background" = "Hide Blur Background";
+"[Hide Blur Background].description" = "Hides the Folder blur background when opened";
+"Fast Open / Close Folders" = "Fast Open / Close Folders";
+"[Fast Open / Close Folders].description" = "Launch and close Folders instantly.";
+
+/* Icons */
+"Dock Settings" = "Dock Settings";
+"Folder Settings" = "Folder Settings";
+"Page Settings" = "Page Settings";
+"Sort alphabetically" = "Sort alphabetically";
+"[Sort alphabetically].description" = "Sorts your apps alphabetically. Be aware that if you turn it off, your apps will still be sorted alphabetically until you manually change the layout. You should save the icon state before reapply it later.";
+"Icon State" = "Icon State";
+"Save Icon State" = "Save Icon State";
+"[Save Icon State].message" = "Do you really want to save your current icon state?";
+"[Save Icon State].hud" = "Icon State saved!";
+"Apply Icon State" = "Apply Icon State";
+"[Apply Icon State].message" = "Do you really want to apply the saved icon state?";
+"[Apply Icon State].hud" = "Icon State applied!";
+"[Icon State].description" = "Save icon state if you are happy with it and in case you need to rejailbreak or if you get into safe mode, you can later apply the previously saved state instead of reordering icons manually.";
+"App Context Menus (3D Touch)" = "App Context Menus (3D Touch)";
+"Hide Delete Item" = "Hide Delete Item";
+"Hide Share Item" = "Hide Share Item";
+"Hide Edit Homescreen Item" = "Hide Edit Homescreen Item";
+"[Hide Context Menu Items].description" = "Hide different items from the context menu";
+"Hide Updated Dot" = "Hide Updated Dot";
+"Hide Newly Installed Dot" = "Hide Newly Installed Dot";
+"Hide Beta Dot" = "Hide Beta Dot";
+"[Hide Dot].description" = "Hide the 'recently updated', the 'newly installed' or the 'beta' dot.'";
+"Lock Layout" = "Lock Layout";
+"[Lock Layout].description" = "Prevents icons from being moved.";
+"Disable Jittering" = "Disable Jittering";
+"[Disable Jittering].description" = "Disables the jittering animation when editing icons.";
+"Hide Badge Text" = "Hide Badge Text";
+"[Hide Badge Text].description" = "Hide the text of the badge while keeping the background.";
+"Badge Colors" = "Badge Colors";
+"Light Text Color" = "Light Text Color";
+"Dark Text Color" = "Dark Text Color";
+"[Badge Colors].description" = "Customize the background and text color of icon badges.";
+"Icon Image Effect" = "Icon Image Effect";
+"[Icon Image Effect].description" = "Apply different effects to icon images";
+
+/* Icon Image Effect */
+"Invert Colors" = "Invert Colors";
+"Black & White" = "Black & White";
+"High Contrast" = "High Contrast";
+"Sepia" = "Sepia";
+"Faded Colors" = "Faded Colors";
+"Psycho Colors" = "Psycho Colors";
+"Red Ascendant" = "Red Ascendant";
+"Green Ascendant" = "Green Ascendant";
+
+"[Transparency].description" = "Change to transparency of icon images.";
+"Icon Labels" = "Icon Labels";
+"Light Label Color" = "Light Label Color";
+"Dark Label Color" = "Dark Label Color";
+"Custom Font Type" = "Custom Font Type";
+"[Icon Labels].description" = "Customize different aspects of icon labels.";
+"Hide Icons" = "Hide Icons";
+"Hide Apps" = "Hide Apps";
+"[Hide Apps].description" = "Hide any installed application.";
+"Disable Live Icons" = "Disable Live Icons";
+"Live Clock" = "Live Clock";
+"All Live Icons" = "All Live Icons";
+"[Live Icons].description" = "Disables the live icons on SpringBoard. Note that disabling the live clock will stop it at the current time, while disabling all live icons uses the default static icon for that app, which might look better.";
+
+/* Dock / Folder / Pages Settings */
+"Tweak Information" = "Tweak Information";
+"[Tweak Installed] %@" = "It seems that you have %@ installed. Due to known UI Bugs between the Tweak and Springtomize, settings such as rows / columns and insets are disabled to avoid problems. If there is a unique setting that Springtomize provides which falsely has been disabled, you can overwrite it above with the switch.";
+"Override" = "Override";
+"Icon Settings" = "Icon Settings";
+"[Icon Settings].description" = "Ignoring while editing will snap back to normal size to make moving easier.";
+"Resize" = "Resize";
+"Choose A Size" = "Choose A Size";
+"Ignore while editing" = "Ignore while editing";
+"Hide Things" = "Hide Things";
+"Hide Badges" = "Hide Badges";
+"[Hide Badges Moved].description" = "Hide badges on all icons has been moved to individual sections for Dock, Folders and Pages.";
+"Coverflow" = "Coverflow";
+"Landscape Icons" = "Landscape Icons"; /* Dock */
+"Columns" = "Columns";
+"Rows" = "Rows";
+"Landscape Columns" = "Landscape Columns";
+"Landscape Rows" = "Landscape Rows";
+"Insets" = "Insets";
+"[Insets].description" = "Change the distance from the edges of the screen.";
+"Change Top Inset" = "Change Top Inset";
+"Change Left Inset" = "Change Left Inset";
+"Change Bottom Inset" = "Change Bottom Inset";
+"Change Right Inset" = "Change Right Inset";
+"Top Inset" = "Top Inset";
+"Left Inset" = "Left Inset";
+"Bottom Inset" = "Bottom Inset";
+"Right Inset" = "Right Inset";
+"Invert" = "Invert";
+"[Coverflow].description" = "Change several settings for the Coverflow effect";
+"Factor" = "Factor";
+"Perspective" = "Perspective";
+
+/* Lock Screen / Notification Center */
+"Information" = "Information";
+"[LS / NC - %@].info" = "Lockscreen and Notification Center are the same on iOS 13. Therefore changing settings here might also show up in %@.";
+
+/* Lock Screen */
+"Camera" = "Camera";
+"Today View" = "Today View / Spotlight";
+"Now Playing" = "Now Playing";
+"Face ID Lock" = "Face ID Lock";
+"Large Battery" = "Large Battery";
+"Flashlight Quick Action" = "Flashlight Quick Action";
+"Camera Quick Action" = "Camera Quick Action";
+"[Hide Items].description" = "Hide / Disable Lockscreen items if enabled";
+"Label Style" = "Label Style";
+
+/* Label Style */
+"Current Time" = "Current Time";
+
+"[Label Style].description" = "Choose a text for the 'Press home to unlock' label.";
+"Hide Grabber" = "Hide Grabber";
+"[Hide Grabber].description" = "Hide the grabber in Notification Center / Lockscreen. If you have the Home Bar disabled, it may not show up.";
+"Hide CC Grabber" = "Hide CC Grabber";
+"[Hide CC Grabber].description" = "Hide the CC Grabber on the top right.";
+"Auto Dismiss" = "Auto Dismiss";
+"[Auto Dismiss].description" = "Automatically dismisses the Lockscreen once unlocked.";
+"Light Time Color" = "Light Time Color";
+"Dark Time Color" = "Dark Time Color";
+"Time Font Size" = "Time Font Size";
+"Time Style" = "Time Style";
+"[Time].description" = "Customize the looks of the time on Lockscreen";
+
+/* Time Style */
+"Display Seconds" = "Display Seconds";
+
+"Date" = "Date";
+"Hide Date" = "Hide Date";
+"Light Date Color" = "Light Date Color";
+"Dark Date Color" = "Dark Date Color";
+"Date Font Size" = "Date Font Size";
+"Date Style" = "Date Style";
+
+/* Date Style */
+"Compact Date Format" = "Compact Date Format";
+
+"[Date].description" = "Customize the looks of the date on Lockscreen";
+
+/* Miscellaneous */
+"Disable Charging Sound" = "Disable Charging Sound";
+"[Disable Charging Sound].description" = "Disable the Chime sound when connecting a charger";
+"Disable Screenshot Sound" = "Disable Screenshot Sound";
+
+/* Notification Center */
+"Disable in Apps" = "Disable in Apps";
+"[Disable NC].description" = "Disable the Notification Center entirely or only in specific apps";
+"Disable DND Notification" = "Disable DND Notification";
+"[Disable DND Notification].description" = "Disable the Do not Disturb Notification.";
+"Background Color" = "Background Color";
+"[Background Color].description" = "Customize the background color fo the Notification Center";
+"Hide Label" = "Hide Label";
+"No Notifications Label" = "'No Notifications' label";
+"[No Notifications Label].description" = "Change the 'No Notifications' text and its size.";
+"[Blur strength].description" = "Change the blur strength";
+"Today View" = "Today View";
+"Hide Edit Button" = "Hide Edit Button";
+"[Today View].description" = "Customization for the Widgets View.";
+
+/* Pages */
+"Hide Dots" = "Hide Dots";
+"[Hide Dots].description" = "Hide the page dots.";
+"Hide Home Bar" = "Hide Home Bar";
+"[Hide Home Bar].description" = "Hides the Home Bar system wide. Will show effect after dismissing the app.";
+"Disable Spotlight" = "Disable Spotlight / Today View";
+"[Disable Spotlight].description" = "Prevent the activation of Spotlight. Which is the Widgets View or Today View.";
+"Disable Search" = "Disable Search";
+"[Disable Search].description" = "You can no longer pull down the search if you turn this on.";
+"Return to first page" = "Return to first page";
+"[Return to first page].description" = "Return to the first SpringBoard page when locking the device.";
+"Prevent Rotation" = "Prevent Rotation";
+"[Prevent Rotation].description" = "Prevent rotation of the Home Screen.";
+"Disable Parallax" = "Disable Parallax";
+"[Disable Parallax].description" = "Disables the parallax effect entirely.";
+"Disable Reachability" = "Disable Reachability";
+"[Disable Reachability].description" = "Disables Reachability. You can also find this in iOS Settings.";
+"Disable Search Blur" = "Disable Search Blur";
+"[Disable Search Blur].description" = "Disables the blurred background behind search.";
+"Hide Context Menu Blur" = "Hide Context Menu Blur";
+"[Hide Context Menu Blur].description" = "Hides the blurred background for 3D Touch / Context Menus on SpringBoard.";
+"Disable Status Bar" = "Disable Status Bar";
+"[Disable Status Bar].description" = "Disables the Status Bar on Homescreen.";
+
+/* Status Bar */
+"Custom Carrier" = "Custom Carrier";
+"[Custom Carrier].description" = "Insert a custom string to be displayed in place of the name of your carrier.";
+"Custom Time Mode" = "Custom Time Mode";
+
+/* Custom Time Mode */
+"IP Address" = "IP Address";
+"WiFi SSID" = "WiFi SSID";
+"Lowercase AM / PM Symbol" = "Lowercase AM/PM Symbol";
+"No AM / PM" = "No AM/PM";
+"Display Free RAM" = "Display Free RAM";
+"Custom Time Format" = "Custom Time Format";
+
+"[Time Mode].description" = "Select what to show in the Status Bar as the time string.";
+"Breadcrumbs" = "Breadcrumbs";
+"Disable Breadcrumbs" = "Disable Breadcrumbs";
+"Hide Text" = "Hide Text";
+"[Disable Breadcrumbs].description" = "Disables the breadcrumbs in the Status Bar or just hide the text";
+"Temperature" = "Temperature";
+"Weather Conditions" = "Weather Conditions";
+"Weather (Conditions + Temperature)" = "Weather (Conditions + Temperature)";
+
+/* Status Bar Items */
+"Airplane" = "Airplane";
+"AirPlay" = "AirPlay";
+"Alarm" = "Alarm";
+"Battery Image" = "Battery Image";
+"Battery Percentage" = "Battery Percentage";
+"Bluetooth Battery" = "Battery Battery";
+"Bluetooth Signal" = "Battery Signal";
+"Call Forwarding" = "Call Forwarding";
+"Carrier" = "Carrier";
+"Location" = "Location";
+"Lock" = "Lock";
+"Network Activity" = "Network Activity";
+"Network Type" = "Network Type";
+"Nike+" = "Nike+";
+"Rotation Lock" = "Rotation Lock";
+"Signal Strength" = "Signal Strength";
+"TTY" = "TTY";
+"VPN" = "VPN";
+
+"[Status Bar Items].description" = "Enable an item to hide it from the Status Bar.";
+
+/* Profiles */
+"Add Profile" = "Add Profile";
+"Save" = "Save";
+"Profile Name" = "Profile Name";
+"Apply" = "Apply";
+"Duplicate" = "Duplicate";
+"Copy" = "Copy";
+"Delete" = "Delete";
+"[Profile Respring].message" = "Please respring to activate this Profile";
+"Error" = "Error";
+"Okay" = "Okay";
+"[Profile Name Empty].message" = "Profile name field must not be empty";
+"[Profile Name Reserved].message" = "The name you have chosen is reserved by Springtomize, please use a different one.";
+"[Profile Name Exists].message" = "A profile with this name already exists, please choose a different one.";
+"[Profile Action].message %@" = "Choose what to do with '%@'";
+"Profile Actions" = "Profile Actions";
+
+/* More Section */
+"Version %@" = "Version %@";
+"Mail not configured" = "Mail not configured";
+"[Mail not configured].message" = "It seems that you do not have any mail account configured on this device.";
+"Error sending Email" = "Error sending Email";
+"[Error sending Email].message" = "We were unable to send your email. Please try again later.";
+"Bug Report Options" = "Bug Report Options";
+"[Bug Report Options].message" = "Choose an option for reporting bugs";
+"Mail" = "Mail";
+"Discord" = "Discord";
+"Request a Feature Options" = "Request a Feature options";
+"[Request a Feature Options].message" = "Choose an option for requesting a feature";
+
+/* Credits */
+"Developer" = "Developer";
+"Previous Developer" = "Previous Developer";
+"Designer" = "Designer";
+"Translators" = "Translators";
+"Beta Testers" = "Beta Testers";
