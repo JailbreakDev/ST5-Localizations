@@ -16,6 +16,7 @@
 "Continue" = "Continue";
 "Dismiss" = "Dismiss";
 "[Springtomize].thanks" = "Thank you for using Springtomize 5";
+"Hide Background" = "Hide Background";
 
 /* Versions */
 "Unsupported Version" = "Unsupported Version";
@@ -191,7 +192,6 @@
 /* Dock */
 "Hide Dock" = "Hide Dock";
 "[Hide Dock].description" = "Hide the Dock from SpringBoard.";
-"Hide Background" = "Hide Background";
 "[Hide Background].description" = "Hide the Dock background.";
 "Dock on Top" = "Dock on Top";
 "[Dock on Top].description" = "Puts the dock on top of the screen.";
@@ -214,8 +214,7 @@
 "Close Folder on Launch" = "Close Folder on Launch";
 "[Close Folder on Launch].description" = "Close the Folder when launching an app within that Folder";
 "[Folder Background Color].description" = "Customize the background color of open Folders.";
-"Hide Background" = "Hide Background";
-"[Hide Background].description" = "Hides the Folder background entirely.";
+"[Folder Hide Background].description" = "Hides the Folder background entirely.";
 "Hide Grid Icon" = "Hide Grid Icon";
 "[Hide Grid Icon].description" = "Hides the Icon Grid inside Folder Icons.";
 "Squared Background" = "Squared Background";
@@ -436,8 +435,8 @@
 "Alarm" = "Alarm";
 "Battery Image" = "Battery Image";
 "Battery Percentage" = "Battery Percentage";
-"Bluetooth Battery" = "Battery Battery";
-"Bluetooth Signal" = "Battery Signal";
+"Bluetooth Battery" = "Bluetooth Battery";
+"Bluetooth Signal" = "Bluetooth Signal";
 "Call Forwarding" = "Call Forwarding";
 "Carrier" = "Carrier";
 "Location" = "Location";
