@@ -251,6 +251,8 @@
 "[Lock Layout].description" = "Prevents icons from being moved.";
 "Disable Jittering" = "Disable Jittering";
 "[Disable Jittering].description" = "Disables the jittering animation when editing icons.";
+"Disable Uninstall" = "Disable Uninstall";
+"[Disable Uninstall].description" = "Prevent all apps from being uninstalled.";
 "Hide Badge Text" = "Hide Badge Text";
 "[Hide Badge Text].description" = "Hide the text of the badge while keeping the background.";
 "Badge Colors" = "Badge Colors";
