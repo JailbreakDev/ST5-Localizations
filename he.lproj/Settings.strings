@@ -330,6 +330,8 @@
 "[Disable DND Notification].description"="מבטל את התראת נא לא להפריע.";
 "[Disable Icons Fly In].description"="מבטל את אנימציית האייקונים הנכנסים בעת פתיחת הנעילה.";
 "[Disable Jittering].description"="מבטל את אנימציית הרעידה בעת עריכת פריסת האייקונים.";
+"Disable Uninstall" = "ביטול הסרה";
+"[Disable Uninstall].description" = "מונע הסרת התקנה של אפליקציות.";
 "[Disable NC].description"="מבטל את מרכז העדכונים לגמרי או רק באפליקציות מסוימות.";
 "[Disable Parallax].description"="מבטל את אפקט התנועה לחלוטין.";
 "[Disable Reachability].description"="מבטל את הגישה הקלה, ניתן למצוא זאת גם בהגדרות נגישות iOS.";
