@@ -251,6 +251,8 @@
 "[Lock Layout].description" = "Prevents icons from being moved.";
 "Disable Jittering" = "Disable Jittering";
 "[Disable Jittering].description" = "Disables the jittering animation when editing icons.";
+"Disable Uninstall" = "Disable Uninstall";
+"[Disable Uninstall].description" = "Prevent all apps from being uninstalled.";
 "Hide Badge Text" = "Hide Badge Text";
 "[Hide Badge Text].description" = "Hide the text of the badge while keeping the background.";
 "Badge Colors" = "Badge Colors";
@@ -374,7 +376,7 @@
 "Disable DND Notification" = "Disable DND Notification";
 "[Disable DND Notification].description" = "Disable the Do not Disturb Notification.";
 "Background Color" = "Background Color";
-"[Background Color].description" = "Customize the background color fo the Notification Center";
+"[Background Color].description" = "Customize the background color for the Notification Center";
 "Hide Label" = "Hide Label";
 "No Notifications Label" = "'No Notifications' label";
 "[No Notifications Label].description" = "Change the 'No Notifications' text and its size.";

@@ -1,0 +1,493 @@
+/* General - Everything that appears in multiple places */
+"None" = "无";
+"Default" = "默认";
+"Blur" = "模糊";
+"Reset" = "重置";
+"Hide Labels" = "隐藏标签";
+"Original" = "原始";
+"Hidden" = "隐藏";
+"Custom Text" = "自定义文字";
+"Disable" = "禁用";
+"Font Size" = "字体大小";
+"Hide Items" = "隐藏项目";
+"Do Not Disturb" = "勿扰模式";
+"Time" = "时间";
+"Cancel" = "取消";
+"Continue" = "继续";
+"Dismiss" = "关闭";
+"[Springtomize].thanks" = "感谢您使用 Springtomize 5";
+"Hide Background" = "隐藏背景";
+
+/* Versions */
+"Unsupported Version" = "不支持的系统版本";
+"[Unsupported Version].description %@ %f" = "当前不支持 iOS %@ (%f)。如果您的系统版本比较新，我正在努力适配这个版本😎。如果太老了，请使用其他版本的Springtomize";
+
+/* Reset & Respring */
+"[Reset].description" = "此操作会重置这个页面的所有设置";
+"[Reset].message" = "在重置设置后请注销您的设备(Respring)";
+"'%@' requires a respring" = "'%@'需要注销设备(Respring)";
+"[Respring].message" = "您是否想注销您的设备(Respring)?";
+
+/* Application List */
+"Available Applications" = "支持的App";
+"System Apps" = "系统App";
+"User Apps" = "用户App";
+
+/* Colors & Color Picker */
+"Light Color" = "浅色模式颜色";
+"Dark Color" = "深色模式颜色";
+"Light Background Color" = "浅色模式背景色";
+"Dark Background Color" = "深色模式背景色";
+"Color Picker" = "选择颜色";
+"Red" = "红 R";
+"Green" = "绿 G";
+"Blue" = "蓝 B";
+"Alpha" = "Alpha";
+"[Alpha].description" = "您选择的颜色的Alpha值";
+"Hex" = "Hex";
+"[Hex].description" = "或者输入一个十六进制值";
+
+/* App List */
+"Available Apps" = "支持的App";
+"System Apps" = "系统App";
+"User Apps" = "用户App";
+
+/* Main View Header */
+"Respring" = "Respring";
+"[Springtomize].description" = "前所未有地定制您的iOS设备";
+
+/* Sections */
+"Settings" = "设置";
+"Enabled" = "启用";
+"Animations" = "动画效果";
+"App Switcher" = "App后台切换";
+"Control Center" = "控制中心";
+"Dock" = "程序坞(Dock)";
+"Folders" = "文件夹";
+"Icons" = "图标";
+"Lock Screen" = "锁屏界面";
+"Miscellaneous" = "其他";
+"Notification Center" = "通知中心";
+"Pages" = "主页面";
+"Status Bar" = "状态栏";
+"Profiles" = "配置文件";
+"[Profiles].description" = "将您的选项设定保存到配置文件中";
+"More" = "更多";
+"Bug Reporting" = "提交Bug报告";
+"Request a Feature" = "我想要更多功能";
+"Credits" = "Credits";
+
+/* Animations */
+"Custom Speed" = "自定义动画速度";
+"Affect App Switcher" = "应用于App后台切换动画";
+"[Custom Speed].description" = "改变动画的速度";
+"Lock Animation" = "锁屏动画";
+
+/* Lock Animations */
+"Explode" = "炸碎屏幕";
+"Old TV" = "老电视机";
+"Slide Away" = "向上滑出";
+"Slide left to right" = "向右滑出";
+"Zoom out" = "页面缩小";
+"Disable Icons Fly In" = "禁用图标飞入效果";
+"[Disable Icons Fly In].description" = "禁用解锁后图标飞入效果";
+"Only perform on Lock" = "仅在锁屏时生效";
+"[Lock Animation].description" = "选择一个动画效果并用滑条改变动画速度，仅在锁屏时生效是指锁屏动画效果仅在按下锁屏键锁屏时生效";
+"Page Scroll Animation" = "翻页动画";
+
+"Disable Battery Animation" = "禁用电池动画效果";
+"[Disable Battery Animation].description" = "当设备接上电源时去掉电池动画效果，而是立即显示电池电量";
+
+/* Page Scroll Animations */
+"Alternate Pulse" = "放大脉冲";
+"Alternate Roll" = "交错滚动";
+"Alternate Shuffle" = "交错洗牌";
+"Bubble" = "大小气泡";
+"Clash" = "聚拢发散";
+"Come in and go down" = "右进下出";
+"Come in and go up" = "右进上出";
+"Compress" = "压缩滑动";
+"Cube Inside" = "立方体内";
+"Cube Outside" = "立方体外";
+"Fade In Place" = "原地淡出";
+"Interlace" = "交错穿插";
+"Light Fade" = "滑动淡出";
+"Long Leap" = "大步扯蛋";
+"Magic Flip Icons" = "原地翻牌";
+"Magic Flip Page" = "原地翻页";
+"Pulse" = "缩小脉冲";
+"Railway Horizontal" = "水平轨道";
+"Railway Vertical" = "竖直轨道";
+"Random" = "随机动画";
+"Rollerblade" = "滚动图标";
+"Roll Page" = "滚动页面";
+"Rotate Clockwise" = "顺时针转";
+"Rotate Counter Clockwise" = "逆时针转";
+"Seaside" = "海浪滑动";
+"Shrink" = "缩小滑动";
+"Shuffle" = "右进右出";
+"Slide and Zoom" = "放大左出";
+"Spread" = "由小变大";
+"Stairway Down" = "走下楼梯";
+"Stairway Up" = "走上楼梯";
+"Stretch" = "略微伸展";
+"Tear Apart" = "左右撕开";
+"Time Machine" = "时间机器";
+"Vertical Down" = "竖直向下";
+"Vertical Up" = "竖直向上";
+"Windmill" = "磨坊风车";
+"Zoom In" = "页面放大";
+"Zoom Out" = "页面缩小";
+"[Page Scroll Animation].description" = "选择您最喜欢的翻页效果";
+
+"Use Old Screenshot Style" = "回到老版本截图效果";
+"Light Screenshot Color" = "浅色模式屏幕截图颜色";
+"Dark Screenshot Color" = "深色模式屏幕截图颜色";
+"[Flash Color].description" = "设定截图时的屏幕闪烁颜色";
+
+/* App Switcher */
+"Hide Icons" = "隐藏图标";
+"[Hide Stuff].description" = "在后台程序卡上隐藏图标或文字";
+"Label Appearance" = "标签外观";
+"Title Font Size" = "标题字体大小";
+"Light Title Color" = "浅色模式标题颜色";
+"Dark Title Color" = "深色模式标题颜色";
+"Subtitle Font Size" = "副标题字体大小";
+"Custom Subtitle" = "自定义副标题";
+"[App Switcher Title Label].description" = "自定义标签外观";
+"Use Grid Switcher" = "使用网格样式后台切换";
+"Hide Suggestions" = "隐藏建议";
+"Card Corner Radius" = "程序卡圆角半径";
+"Corner Radius" = "圆角半径";
+"Resize Percentage" = "缩放百分比";
+"[Resize Pages].description" = "改变后台程序卡的大小";
+"Inactive Apps" = "非活动状态App外观";
+
+/* Inactive Apps mode */
+"Darken" = "变暗";
+"Hide" = "隐藏";
+"Mark as inactive" = "标记为非活动状态";
+
+/* Control Center */
+"[Disable CC].description" = "在所有地方都禁用控制中心";
+"[CC Background Color].description" = "改变控制中心的背景颜色";
+"Light Toggle Color" = "浅色模式开关颜色";
+"Dark Toggle Color" = "深色模式开关颜色";
+"[CC Toggle Color].description" = "改变控制中心开关按钮的背景颜色";
+"Hide Sections" = "隐藏组件";
+
+/* CC Sections */
+"AirPlay Mirroring" = "AirPlay镜像";
+"Brightness" = "亮度控制";
+"Connectivity" = "连接组件";
+"Now Playing" = "播放控制";
+"Rotation Lock" = "旋转锁定";
+"Volume" = "音量控制";
+"[CC Sections].description" = "开启开关就可以在控制中心隐藏对应组件";
+
+"Blur Effect" = "模糊效果";
+"Disable Blur" = "禁用模糊效果";
+"[CC Disable Blur].description" = "在控制中心中禁用模糊效果";
+
+/* Dock */
+"Hide Dock" = "隐藏程序坞";
+"[Hide Dock].description" = "在主页面隐藏程序坞";
+"[Hide Background].description" = "隐藏程序坞背景";
+"Dock on Top" = "程序坞置顶";
+"[Dock on Top].description" = "把程序坞移动到主页面顶端";
+
+/* Folders */
+"Nested Folders" = "嵌套文件夹";
+"[Nested Folders].description" = "在文件夹中嵌套创建文件夹";
+"Experimental Nested Folders" = "测试版嵌套文件夹功能";
+"[Experimental Nested Folders].description" = "在文件夹中创建更多文件夹。您也许会在开关内部文件夹时遇到UI显示问题，我建议您在使用这个功能前先保存图标布局。";
+"Show Status Bar" = "显示状态栏";
+"[Show Status Bar].description" = "在文件夹中显示状态栏";
+"Lock Folder Names" = "锁定文件夹名称";
+"[Lock Folder Names].description" = "防止文件夹名称被修改";
+"Hide Folder Title" = "隐藏文件夹名称";
+"[Hide Folder Title].description" = "打开一个文件夹时隐藏文件夹名称";
+"Pinch to Close" = "捏合手指关闭文件夹";
+"[Pinch to Close].description" = "在打开的文件夹上捏合手指来关闭文件夹";
+"Tap Inside to Close" = "点按内部关闭文件夹";
+"[Tap Inside to Close].description" = "在打开的文件夹内部点一下来关闭文件夹";
+"Close Folder on Launch" = "自动关闭文件夹";
+"[Close Folder on Launch].description" = "启动文件夹内的App时自动关闭打开的文件夹";
+"[Folder Background Color].description" = "自定义打开的文件夹的背景颜色";
+"[Folder Hide Background].description" = "完全隐藏打开的文件夹的背景";
+"Hide Grid Icon" = "隐藏文件夹内部图标";
+"[Hide Grid Icon].description" = "不显示主页面上的文件夹内部App图标";
+"Squared Background" = "方形背景";
+"[Squared Background].description" = "把打开的文件夹背景改成方形";
+"Hide Blur Background" = "隐藏模糊背景";
+"[Hide Blur Background].description" = "隐藏打开的文件夹背景的模糊效果";
+"Fast Open / Close Folders" = "快速打开/关闭文件夹";
+"[Fast Open / Close Folders].description" = "迅速打开或者关闭文件夹，去掉动画效果";
+
+/* Icons */
+"Dock Settings" = "程序坞(Dock)设置";
+"Folder Settings" = "文件夹设置";
+"Page Settings" = "主页面设置";
+"Sort alphabetically" = "按字母顺序排列";
+"[Sort alphabetically].description" = "将您的App图标按照名称字母顺序进行排列。请注意即使您把这个功能再关闭，图标不会自动变回原状，您依然需要手动排列图标。建议您在开启这个功能前先保存图标布局。";
+"Icon State" = "图标布局";
+"Save Icon State" = "保存图标布局";
+"[Save Icon State].message" = "您是否需要保存您当前的图标布局？";
+"[Save Icon State].hud" = "图标布局保存成功！";
+"Apply Icon State" = "恢复图标布局";
+"[Apply Icon State].message" = "您是否需要恢复您先前保存的图标布局？";
+"[Apply Icon State].hud" = "图标布局恢复成功！";
+"[Icon State].description" = "如果您满意您当前的图标布局，您可以把他们保存下来。这样万一以后您重新越狱设备或者遇到其他什么幺蛾子事情，您就可以在这里一键恢复您的图标布局而不用一个一个图标去重新排布了。";
+"App Context Menus (3D Touch)" = "App长按菜单 (3D Touch菜单)";
+"Hide Delete Item" = "隐藏删除App按钮";
+"Hide Share Item" = "隐藏分享App按钮";
+"Hide Edit Homescreen Item" = "隐藏编辑主屏幕按钮";
+"[Hide Context Menu Items].description" = "在长按菜单中隐藏部分按钮";
+"Hide Updated Dot" = "隐藏最近更新小点点";
+"Hide Newly Installed Dot" = "隐藏最近安装小点点";
+"Hide Beta Dot" = "隐藏Beta版本小点点";
+"[Hide Dot].description" = "隐藏用于标示最近更新、最近安装和Beta版本软件的小点点";
+"Lock Layout" = "锁定图标布局";
+"[Lock Layout].description" = "防止图标被改变位置重新排列";
+"Disable Jittering" = "禁用抖动";
+"[Disable Jittering].description" = "编辑图标布局时禁用图标抖动效果";
+"Disable Uninstall" = "禁用卸载";
+"[Disable Uninstall].description" = "防止任何程序被卸载";
+"Hide Badge Text" = "隐藏角标文字";
+"[Hide Badge Text].description" = "保留角标图样但是隐藏角标上的文字";
+"Badge Colors" = "角标颜色";
+"Light Text Color" = "浅色模式文字颜色";
+"Dark Text Color" = "深色模式文字颜色";
+"[Badge Colors].description" = "自定义图标角标的填充颜色和文字颜色";
+"Icon Image Effect" = "图标特殊效果";
+"[Icon Image Effect].description" = "设定图标的特殊显示效果";
+
+/* Icon Image Effect */
+"Invert Colors" = "反色";
+"Black & White" = "黑白";
+"High Contrast" = "高对比度";
+"Sepia" = "棕褐色";
+"Faded Colors" = "褪色";
+"Psycho Colors" = "精神色";
+"Red Ascendant" = "红色调";
+"Green Ascendant" = "绿色调";
+
+"[Transparency].description" = "改变图标的透明度";
+"Icon Labels" = "图标标签";
+"Light Label Color" = "浅色模式图标标签";
+"Dark Label Color" = "深色模式图标标签";
+"Custom Font Type" = "自定义字体样式";
+"[Icon Labels].description" = "自定义图标标签";
+"Hide Icons" = "隐藏图标";
+"Hide Apps" = "隐藏App";
+"[Hide Apps].description" = "隐藏已安装的App";
+"Disable Live Icons" = "禁用活动图标";
+"Live Clock" = "活动时钟图标";
+"All Live Icons" = "所有活动图标";
+"[Live Icons].description" = "禁用主页面的活动图标。请注意仅禁用活动时钟图标会让图标上的指针停在当前时间，而禁用所有活动图标则会使用默认的静态图标，这样看起来可能会更好点。";
+
+/* Dock / Folder / Pages Settings */
+"Tweak Information" = "插件信息";
+"[Tweak Installed] %@" = "您似乎安装了%@插件。据反馈，该插件与Springtomize会有冲突，我们禁用了部分功能保证不会崩溃。如果有些功能是您认为没有问题的，那么您可以用这个开关手动开启。";
+"Override" = "手动开启";
+"Icon Settings" = "图标设置";
+"[Icon Settings].description" = "在编辑主页面的时候忽略自定义尺寸可以让移动图标更容易些";
+"Resize" = "自定义尺寸";
+"Choose A Size" = "选择自定义尺寸";
+"Ignore while editing" = "忽略自定义尺寸";
+"Hide Things" = "隐藏内容";
+"Hide Badges" = "隐藏角标";
+"[Hide Badges Moved].description" = "隐藏所有图标的角标已经被分别移动到程序坞(Dock)、文件夹和主页面的独立设置中。";
+"Coverflow" = "Coverflow";
+"Landscape Icons" = "横向屏幕图标";
+
+/* Dock */
+"Columns" = "列数";
+"Rows" = "行数";
+"Landscape Columns" = "横向屏幕列数";
+"Landscape Rows" = "横向屏幕行数";
+"Insets" = "边距";
+"[Insets].description" = "改变图标距离屏幕边缘的距离";
+"Change Top Inset" = "改变上边距";
+"Change Left Inset" = "改变左边距";
+"Change Bottom Inset" = "改变下边距";
+"Change Right Inset" = "改变右边距";
+"Top Inset" = "上边距";
+"Left Inset" = "左边距";
+"Bottom Inset" = "下边距";
+"Right Inset" = "右边距";
+"Invert" = "反转";
+"[Coverflow].description" = "改变Coverflow效果的设置";
+"Factor" = "参数";
+"Perspective" = "视角";
+
+/* Lock Screen / Notification Center */
+"Information" = "提示";
+"[LS / NC - %@].info" = "锁屏界面和通知中心在iOS 13是一样的，因此在这里修改的设置可能也会在%@显示。";
+
+/* Lock Screen */
+"Camera" = "相机";
+"Today View" = "今日视图 / Spotlight";
+"Now Playing" = "正在播放";
+"Face ID Lock" = "面容ID锁定";
+"Large Battery" = "大号电池";
+"Flashlight Quick Action" = "快捷手电筒开关";
+"Camera Quick Action" = "快捷相机开关";
+"[Hide Items].description" = "开启开关就可以在通知中心隐藏/禁用对应组件";
+"Label Style" = "标签样式";
+
+/* Label Style */
+"Current Time" = "当前时间";
+
+"[Label Style].description" = "选择屏幕底部解锁字样处显示内容";
+"Hide Grabber" = "隐藏抓手";
+"[Hide Grabber].description" = "在通知中心/锁屏界面隐藏抓手。如果您禁用了屏幕横条，他可能不会显示。";
+"Hide CC Grabber" = "隐藏控制中心抓手";
+"[Hide CC Grabber].description" = "在右上角隐藏控制中心抓手。";
+"Auto Dismiss" = "自动消失";
+"[Auto Dismiss].description" = "解锁后锁屏界面将自动消失";
+"Light Time Color" = "浅色模式时间颜色";
+"Dark Time Color" = "深色模式时间颜色";
+"Time Font Size" = "时间字体大小";
+"Time Style" = "时间样式";
+"[Time].description" = "自定义锁屏界面的时间显示样式";
+
+/* Time Style */
+"Display Seconds" = "显示秒数";
+
+"Date" = "日期";
+"Hide Date" = "隐藏日期";
+"Light Date Color" = "浅色模式日期颜色";
+"Dark Date Color" = "深色模式日期颜色";
+"Date Font Size" = "日期字体大小";
+"Date Style" = "日期样式";
+
+/* Date Style */
+"Compact Date Format" = "紧凑日期格式";
+
+"[Date].description" = "自定义锁屏界面的日期显示样式";
+
+/* Miscellaneous */
+"Disable Charging Sound" = "禁用充电声音效果";
+"[Disable Charging Sound].description" = "禁用设备接入外接电源时的叮咚声";
+"Disable Screenshot Sound" = "禁用截图声音效果";
+
+/* Notification Center */
+"Disable in Apps" = "在App中禁用";
+"[Disable NC].description" = "完全禁用通知中心或者仅在部分App中禁用通知中心";
+"Disable DND Notification" = "禁用勿扰模式提醒";
+"[Disable DND Notification].description" = "在通知中心去掉勿扰模式启用的提醒";
+"Background Color" = "背景颜色";
+"[Background Color].description" = "自定义通知中心的背景颜色";
+"Hide Label" = "隐藏标签";
+"No Notifications Label" = "去掉'没有新的通知'标签";
+"[No Notifications Label].description" = "改变'没有新的通知'的文字和大小";
+"[Blur strength].description" = "修改模糊强度";
+"Today View" = "今日视图";
+"Hide Edit Button" = "隐藏编辑按钮";
+"[Today View].description" = "自定义组件Widgets视图";
+
+/* Pages */
+"Hide Dots" = "隐藏页面点";
+"[Hide Dots].description" = "隐藏主页面代表各页面的点点";
+"Hide Home Bar" = "隐藏屏幕横条";
+"[Hide Home Bar].description" = "在全系统隐藏屏幕横条，在关闭App程序后会看到效果";
+"Disable Spotlight" = "禁用Spotlight/今日视图";
+"[Disable Spotlight].description" = "防止Spotlight页面出现，包括组件Widgets和今日视图";
+"Disable Search" = "禁用搜索";
+"[Disable Search].description" = "开启此项后，您就不能在主页面下拉来呼出搜索栏";
+"Return to first page" = "回到首页";
+"[Return to first page].description" = "锁定设备时自动回到主页面首页";
+"Prevent Rotation" = "防止旋转";
+"[Prevent Rotation].description" = "在主页面防止屏幕旋转";
+"Disable Parallax" = "禁用视差";
+"[Disable Parallax].description" = "完全禁用视差效果";
+"Disable Reachability" = "禁用便捷访问 (Reachability)";
+"[Disable Reachability].description" = "禁用便捷访问功能，您也可以在iOS的设置中找到这个选项";
+"Disable Search Blur" = "禁用搜索模糊";
+"[Disable Search Blur].description" = "在搜索界面去掉模糊背景";
+"Hide Context Menu Blur" = "禁用长按菜单模糊";
+"[Hide Context Menu Blur].description" = "在3D Touch菜单/长按菜单弹出时去掉模糊背景";
+"Disable Status Bar" = "禁用状态栏";
+"[Disable Status Bar].description" = "在主页面不显示状态栏";
+
+/* Status Bar */
+"Custom Carrier" = "自定义运营商";
+"[Custom Carrier].description" = "在运营商位置输入您想要显示的内容";
+"Custom Time Mode" = "自定义时间格式";
+
+/* Custom Time Mode */
+"IP Address" = "IP地址";
+"WiFi SSID" = "WiFi SSID";
+"Lowercase AM / PM Symbol" = "把AM/PM改成am/pm"; 
+"No AM / PM" = "不显示AM/PM";
+"Display Free RAM" = "显示空闲RAM";
+"Custom Time Format" = "自定义时间格式";
+
+"[Time Mode].description" = "选择您想在状态栏的时间位置显示什么内容";
+"Breadcrumbs" = "面包屑导航";
+"Disable Breadcrumbs" = "禁用面包屑导航";
+"Hide Text" = "隐藏文字";
+"[Disable Breadcrumbs].description" = "选择在状态栏禁用面包屑导航或是仅隐藏文字";
+"Temperature" = "温度";
+"Weather Conditions" = "天气实况";
+"Weather (Conditions + Temperature)" = "天气 (实况+温度)";
+
+/* Status Bar Items */
+"Airplane" = "飞行模式";
+"AirPlay" = "隔空投送 (AirPlay)";
+"Alarm" = "闹铃";
+"Battery Image" = "电池图片";
+"Battery Percentage" = "电量百分比";
+"Bluetooth Battery" = "蓝牙设备电量";
+"Bluetooth Signal" = "蓝牙信号强度";
+"Call Forwarding" = "来电转接";
+"Carrier" = "运营商";
+"Location" = "定位服务";
+"Lock" = "锁定";
+"Network Activity" = "网络活动";
+"Network Type" = "网络模式";
+"Nike+" = "Nike+";
+"Rotation Lock" = "旋转锁定";
+"Signal Strength" = "信号强度";
+"TTY" = "TTY";
+"VPN" = "VPN";
+
+"[Status Bar Items].description" = "开启开关就可以在状态栏隐藏对应内容";
+
+/* Profiles */
+"Add Profile" = "添加配置文件";
+"Save" = "保存";
+"Profile Name" = "配置文件名称";
+"Apply" = "应用";
+"Duplicate" = "复制";
+"Copy" = "复制";
+"Delete" = "删除";
+"[Profile Respring].message" = "请在更改配置后注销您的设备(Respring)";
+"Error" = "错误";
+"Okay" = "好";
+"[Profile Name Empty].message" = "配置文件名称不可以为空";
+"[Profile Name Reserved].message" = "您所选择的名称已经被Springtomize用掉了...请换一个名称吧。";
+"[Profile Name Exists].message" = "您所选择的名称已经存在，请重新选择一个名称。";
+"[Profile Action].message %@" = "选择您想对'%@'执行的操作";
+"Profile Actions" = "配置动作";
+
+/* More Section */
+"Version %@" = "版本 %@";
+"Mail not configured" = "邮箱信息没有正确设置";
+"[Mail not configured].message" = "似乎您没有在这台设备上设置任何邮箱信息";
+"Error sending Email" = "邮件发送失败";
+"[Error sending Email].message" = "我们没能成功发送您的邮件，请稍后再试。";
+"Bug Report Options" = "提交Bug选项";
+"[Bug Report Options].message" = "选择提交Bug的方式";
+"Mail" = "通过邮件";
+"Discord" = "通过Discord";
+"Request a Feature Options" = "功能需求选项";
+"[Request a Feature Options].message" = "选择提出功能需求的方式";
+
+/* Credits */
+"Developer" = "开发者";
+"Previous Developer" = "原开发者";
+"Designer" = "设计者";
+"Translators" = "翻译人员";
+"Beta Testers" = "内测人员";
