@@ -251,6 +251,8 @@
 "[Lock Layout].description" = "防止圖示被改變位置重新排列";
 "Disable Jittering" = "禁用抖動";
 "[Disable Jittering].description" = "編輯圖示佈局時禁用圖示抖動效果";
+"Disable Uninstall" = "禁用卸載";
+"[Disable Uninstall].description" = "防止任何程式被卸載";
 "Hide Badge Text" = "隱藏角標文字";
 "[Hide Badge Text].description" = "保留角標圖樣但是隱藏角標上的文字";
 "Badge Colors" = "角標顏色";
