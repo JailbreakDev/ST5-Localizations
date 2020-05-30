@@ -105,6 +105,7 @@
 "Disable Spotlight"="Spotlight \/ Bugün Görünümü D.Dışı";
 "Disable Status Bar"="Durum Çubuğu Devre Dışı";
 "Disable in Apps"="Uygulamalarda Devre Dışı";
+"Disable Uninstall"="Kaldırmayı Devre Dışı Bırak";
 "Discord"="Discord";
 "Dismiss"="Yoksay";
 "Display Free RAM"="Kullanılabilir RAM’i Göster";
@@ -336,6 +337,7 @@
 "[Disable Search].description"="Bunu açarsanız artık ana menüdeki arama kısmını aşağı çekemezsiniz.";
 "[Disable Spotlight].description"="Spot Light etkinleştirilmesini önleyin. Widget Görünümü veya Bugün Görünümüdür.";
 "[Disable Status Bar].description"="Ana Ekrandaki Durum Çubuğunu devre dışı bırakır.";
+"[Disable Uninstall].description"="Tüm Uygulamaların Kaldırılmasını Önleyin.";
 "[Dock on Top].description"="Dock’ı ekranın üstün kısmına yerleştirir";
 "[Error sending Email].message"="E-postanızı gönderemedik. Lütfen daha sonra tekrar deneyiniz.";
 "[Experimental Nested Folders].description"="Klasörlerin İçinde Klasörler Oluşturun. Bir klasörün içindeki klasörü kapatırken \n \/ açarken UI hataları alabilirsiniz. Daha önce simge durumunu kaydetmenizi öneririm.";
