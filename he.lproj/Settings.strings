@@ -407,3 +407,9 @@
 "[Transparency].description"="שינוי שקיפות תמונות האייקונים.";
 "[Tweak Installed] %@"="נראה ש-%@ מותקן במכשירך. בעקבות תקלות תצוגה ידועות בין טוויק זה ו-Springtomize, הגדרות כמו שורות\/טורים ומרווחים יכובו כדי למנוע התנגשויות. במידה ויש הגדרות ייחודיות ש-Springtomize מספק וכובו בטעות, ניתן לדרוס אותן מעלה בעזרת המתג.";
 "[Unsupported Version].description %@ %f"="iOS %@ (%f) כרגע לא נתמך. אם הגירסא שלך חדשה מידיי, אני עובד על זה 😎. אם היא ישנה מידיי, אנא נסה גירסאות Springtomize אחרות.";
+/* Version 5.1.7 */
+"Folder Icon" = "אייקון תיקייה";
+"Folder Icon Rows" = "שורות באייקון תיקייה";
+"Folder Icon Columns" = "טורים באייקון תיקייה";
+"Hide Beta Feedback Item" = "הסתר אופציית משוב בטא";
+"Save automatically" = "שמירה אוטומטית";
