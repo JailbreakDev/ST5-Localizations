@@ -489,3 +489,10 @@
 "Designer" = "Designer";
 "Translators" = "Translators";
 "Beta Testers" = "Beta Testers";
+
+/* Version 5.1.7 */
+"Folder Icon" = "Folder Icon";
+"Folder Icon Rows" = "Folder Icon Rows";
+"Folder Icon Columns" = "Folder Icon Columns";
+"Hide Beta Feedback Item" = "Hide Beta Feedback Item";
+"Save automatically" = "Save automatically";
