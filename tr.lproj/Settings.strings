@@ -57,7 +57,7 @@
 "Connectivity"="Bağlantı";
 "Continue"="Devam Et";
 "Control Center"="Denetim Merkezi";
-"Copy"="Kopyala";
+"Copy"="Kopya";
 "Corner Radius"="Köşe Yarıçapı";
 "Coverflow"="Bükülme Efekti";
 "Credits"="Emeği Geçenler";
@@ -81,7 +81,7 @@
 "Dark Time Color"="Koyu Saat Rengi";
 "Dark Title Color"="Koyu Başlık Rengi";
 "Dark Toggle Color"="Koyu Geçiş Rengi";
-"Darken"="Karartma";
+"Darken"="Karart";
 "Date"="Tarih";
 "Date Font Size"="Tarih Font Boyutu";
 "Date Style"="Tarih Stili";
@@ -106,7 +106,7 @@
 "Disable Spotlight"="Spotlight \/ Bugün Görünümü D.Dışı";
 "Disable Status Bar"="Durum Çubuğu Devre Dışı";
 "Disable Uninstall"="Kaldırmayı Devre Dışı Bırak";
-"Disable in Apps"="Uygulamalarda Devre Dışı";
+"Disable in Apps"="Uygulamalar'da Devre Dışı";
 "Discord"="Discord";
 "Dismiss"="Yoksay";
 "Display Free RAM"="Kullanılabilir RAM’i Göster";
@@ -175,7 +175,7 @@
 "Icon Settings"="Simge Ayarları";
 "Icon State"="Simge Durumu";
 "Icons"="Simgeler";
-"Ignore while editing"="Düzenlerken yoksay";
+"Ignore while editing"="Düzenlerken Yoksay";
 "Inactive Apps"="Etkin Olmayan Uygulamalar";
 "Information"="Bilgi";
 "Insets"="Kenar Boşlukları";
@@ -267,14 +267,14 @@
 "Sepia"="Sepya";
 "Settings"="Ayarlar";
 "Show Status Bar"="Durum Çubuğunu Göster";
-"Shrink"="Küçültmek";
+"Shrink"="Küçültme";
 "Shuffle"="Karıştır";
 "Signal Strength"="Sinyal Gücü";
 "Slide Away"="Devamlı Slayt";
 "Slide and Zoom"="Slayt ve Yakınlaştırma";
 "Slide left to right"="Slayt Soldan Sağa";
 "Sort alphabetically"="Alfabetik Olarak Sırala";
-"Spread"="Yaymak";
+"Spread"="Yayılma";
 "Squared Background"="Kare Arka Plan";
 "Stairway Down"="Merdiven Aşağı";
 "Stairway Up"="Merdiven Yukarı";
@@ -284,7 +284,7 @@
 "System Apps"="Sistem Uygulamaları";
 "TTY"="TTY";
 "Tap Inside to Close"="Kapatmak İçin İçine Dokunun";
-"Tear Apart"="Parçalara Ayırmak";
+"Tear Apart"="Parçalara Ayrılma";
 "Temperature"="Sıcaklık";
 "Time"="Saat";
 "Time Font Size"="Saat Font Boyutu";
@@ -339,7 +339,7 @@
 "[Disable NC].description"="Bildirim Merkezi'ni tamamen veya yalnızca belirli uygulamalarda devre dışı bırakın";
 "[Disable Parallax].description"="Paralaks etkisini tamamen devre dışı bırakır.";
 "[Disable Reachability].description"="Erişilebilirliği devre dışı bırakır. Bunu iOS Ayarları'nda da bulabilirsiniz.";
-"[Disable Search Blur].description"="Aramanın arkasındaki bulanık arka planı devre dışı bırakır.";
+"[Disable Search Blur].description"="Arama kısmının arkasındaki bulanık arka planı devre dışı bırakır.";
 "[Disable Search].description"="Bunu açarsanız artık ana menüdeki arama kısmını aşağı çekemezsiniz.";
 "[Disable Spotlight].description"="Spot Light etkinleştirilmesini önleyin. Widget Görünümü veya Bugün Görünümüdür.";
 "[Disable Status Bar].description"="Ana Ekrandaki Durum Çubuğunu devre dışı bırakır.";
