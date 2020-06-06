@@ -277,6 +277,7 @@
 "Light Label Color" = "浅色模式图标标签";
 "Dark Label Color" = "深色模式图标标签";
 "Custom Font Type" = "自定义字体样式";
+"Custom Font" = "自定义字体";
 "[Icon Labels].description" = "自定义图标标签";
 "Hide Icons" = "隐藏图标";
 "Hide Apps" = "隐藏App";

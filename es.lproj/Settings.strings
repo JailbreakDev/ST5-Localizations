@@ -279,6 +279,7 @@
 "Light Label Color" = "Color etiqueta ligero";
 "Dark Label Color" = "Color etiqueta oscuro";
 "Custom Font Type" = "Tipo de fuente personalizada";
+"Custom Font" = "Fuente personalizada";
 "[Icon Labels].description" = "Personalizar diferentes aspectos de las etiquetas de iconos.";
 "Hide Icons" = "Ocultar iconos";
 "Hide Apps" = "Ocultar apps";
@@ -491,3 +492,10 @@
 "Designer" = "Diseñador"; # Diseñador (male), Diseñadora (female) For if you wish to personalize it
 "Translators" = "Traductores";
 "Beta Testers" = "Beta Testers";
+
+/* Version 5.1.7 */
+"Folder Icon" = "Icono carpeta";
+"Folder Icon Rows" = "Filas iconos carpeta";
+"Folder Icon Columns" = "Columnas iconos carpeta";
+"Hide Beta Feedback Item" = "Ocultar elemento de comentarios beta";
+"Save automatically" = "Guardar automáticamente";
