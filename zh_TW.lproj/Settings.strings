@@ -15,7 +15,7 @@
 "Cancel" = "取消";
 "Continue" = "繼續";
 "Dismiss" = "關閉";
-"[Springtomize].thanks" = "感謝您使用 Springtomize 5";
+"[Springtomize].thanks" = "感謝您使用Springtomize 5！";
 "Hide Background" = "隱藏背景";
 
 /* Versions */
@@ -36,8 +36,8 @@
 /* Colors & Color Picker */
 "Light Color" = "淺色模式顏色";
 "Dark Color" = "深色模式顏色";
-"Light Background Color" = "淺色模式背景色";
-"Dark Background Color" = "深色模式背景色";
+"Light Background Color" = "淺色模式背景顏色";
+"Dark Background Color" = "深色模式背景顏色";
 "Color Picker" = "選擇顏色";
 "Red" = "紅 R";
 "Green" = "綠 G";
@@ -225,9 +225,9 @@
 "[Fast Open / Close Folders].description" = "迅速打開或者關閉資料夾，去掉動畫效果";
 
 /* Icons */
-"Dock Settings" = "程式塢(Dock)設置";
-"Folder Settings" = "資料夾設置";
-"Page Settings" = "主頁面設置";
+"Dock Settings" = "程式塢(Dock)圖示設置";
+"Folder Settings" = "資料夾圖示設置";
+"Page Settings" = "主頁面圖示設置";
 "Sort alphabetically" = "按字母順序排列";
 "[Sort alphabetically].description" = "將您的App圖示按照名稱字母順序進行排列。請注意即使您把這個功能再關閉，圖示不會自動變回原狀，您依然需要手動排列圖示。建議您在開啟這個功能前先保存圖示佈局。";
 "Icon State" = "圖示佈局";
@@ -369,7 +369,7 @@
 
 /* Miscellaneous */
 "Disable Charging Sound" = "禁用充電聲音效果";
-"[Disable Charging Sound].description" = "禁用設備接入外接電源時的叮咚聲";
+"[Disable Charging Sound].description" = "禁用設備接入外接電源時的聲音效果";
 "Disable Screenshot Sound" = "禁用截圖聲音效果";
 
 /* Notification Center */
@@ -491,3 +491,10 @@
 "Designer" = "設計者";
 "Translators" = "翻譯人員";
 "Beta Testers" = "內測人員";
+
+/* Version 5.1.7 */
+"Folder Icon" = "資料夾圖示";
+"Folder Icon Rows" = "資料夾圖示行數";
+"Folder Icon Columns" = "資料夾圖示列數";
+"Hide Beta Feedback Item" = "隱藏測試版回饋項目";
+"Save automatically" = "自動保存";

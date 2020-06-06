@@ -277,6 +277,7 @@
 "Light Label Color" = "Light Label Color";
 "Dark Label Color" = "Dark Label Color";
 "Custom Font Type" = "Custom Font Type";
+"Custom Font" = "Custom Font";
 "[Icon Labels].description" = "Customize different aspects of icon labels.";
 "Hide Icons" = "Hide Icons";
 "Hide Apps" = "Hide Apps";
