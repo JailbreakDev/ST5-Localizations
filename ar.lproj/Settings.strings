@@ -19,62 +19,62 @@
 
 /* Versions */
 "Unsupported Version" = "إصدار غير مدعوم";
-"[Unsupported Version].description %@ %f" = "iOS %@ (%f) is currently not supported. If your version is too new, I am working on it 😎. If it is too old, please check out other Springtomize versions.";
+"[Unsupported Version].description %@ %f" = "إصدار iOS %@ (%f) غير مدعوم حاليًا. إذا كان إصدارك جديدًا فأنا أعمل على دعمه 😎، أما إذا كان قديمًا فيرجى التحقق من إصدارات Springtomize الأخرى.";
 
 /* Reset & Respring */
-"[Reset].description" = "This will reset the settings for this section";
-"[Reset].message" = "Please respring after a reset";
-"'%@' requires a respring" = "'%@' requires a respring";
-"[Respring].message" = "Do you really want to respring?";
+"[Reset].description" = "سيؤدي هذا إلى إعادة تعيين الإعدادات لهذا القسم.";
+"[Reset].message" = "يرجى عمل إعادة تشغيل سريع بعد إعادة التعيين";
+"'%@' requires a respring" = "يتطلب '%@' إعادة تشغيل سريع";
+"[Respring].message" = "هل تريد حقًا عمل إعادة تشغيل سريع؟";
 
 /* Application List */
-"Available Applications" = "Available Applications";
-"System Apps" = "System Apps";
-"User Apps" = "User Apps";
+"Available Applications" = "التطبيقات المتاحة";
+"System Apps" = "تطبيقات النظام";
+"User Apps" = "تطبيقات المستخدم";
 
 /* Colors & Color Picker */
-"Light Color" = "Light Color";
-"Dark Color" = "Dark Color";
-"Light Background Color" = "Light Background Color";
-"Dark Background Color" = "Dark Background Color";
-"Color Picker" = "Color Picker";
-"Red" = "Red";
-"Green" = "Green";
-"Blue" = "Blue";
-"Alpha" = "Alpha";
-"[Alpha].description" = "The alpha level of your color";
-"Hex" = "Hex";
-"[Hex].description" = "Enter a hex value";
+"Light Color" = "اللون الفاتح";
+"Dark Color" = "اللون الداكن";
+"Light Background Color" = "لون خلفية فاتح";
+"Dark Background Color" = "لون خلفية داكن";
+"Color Picker" = "انتقاء الألوان";
+"Red" = "الأحمر";
+"Green" = "الأخضر";
+"Blue" = "الأزرق";
+"Alpha" = "الرئيسي";
+"[Alpha].description" = "المستوى الرئيسي للون الخاص بك.";
+"Hex" = "الرمز السداسي";
+"[Hex].description" = "أدخل قيمة الرمز السداسي.";
 
 /* App List */
-"Available Apps" = "Available Apps";
-"System Apps" = "System Apps";
-"User Apps" = "User Apps";
+"Available Apps" = "التطبيقات المتاحة";
+"System Apps" = "تطبيقات النظام";
+"User Apps" = "تطبيقات المستخدم";
 
 /* Main View Header */
-"Respring" = "Respring";
-"[Springtomize].description" = "Customize your iOS Device like never before";
+"Respring" = "إعادة تشغيل سريع";
+"[Springtomize].description" = "قم بتخصيص جهاز iOS الخاص بشكل لم يسبق له مثيل";
 
 /* Sections */
-"Settings" = "Settings";
-"Enabled" = "Enabled";
-"Animations" = "Animations";
-"App Switcher" = "App Switcher";
-"Control Center" = "Control Center";
+"Settings" = "الإعدادات";
+"Enabled" = "تفعيل";
+"Animations" = "التأثيرات الحركية";
+"App Switcher" = "مبدل التطبيقات";
+"Control Center" = "مركز التحكم";
 "Dock" = "Dock";
-"Folders" = "Folders";
-"Icons" = "Icons";
-"Lock Screen" = "Lock Screen";
-"Miscellaneous" = "Miscellaneous";
-"Notification Center" = "Notification Center";
-"Pages" = "Pages";
-"Status Bar" = "Status Bar";
-"Profiles" = "Profiles";
-"[Profiles].description" = "Save configurations into profiles";
-"More" = "More";
-"Bug Reporting" = "Bug Reporting";
-"Request a Feature" = "Request a Feature";
-"Credits" = "Credits";
+"Folders" = "المجلدات";
+"Icons" = "الأيقونات";
+"Lock Screen" = "شاشة القفل";
+"Miscellaneous" = "متنوع";
+"Notification Center" = "مركز الإشعارات";
+"Pages" = "الصفحات";
+"Status Bar" = "شريط الحالة";
+"Profiles" = "ملفات التعريف";
+"[Profiles].description" = "حفظ التكوينات في ملفات التعريف.";
+"More" = "المزيد";
+"Bug Reporting" = "الإبلاغ عن الأخطاء";
+"Request a Feature" = "طلب ميزة";
+"Credits" = "الاعتمادات";
 
 /* Animations */
 "Custom Speed" = "Custom Speed";
