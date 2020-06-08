@@ -1,0 +1,499 @@
+/* General - Everything that appears in multiple places */
+"None" = "Aucun";
+"Default" = "Par défaut";
+"Blur" = "Flou";
+"Reset" = "Réinitialiser";
+"Hide Labels" = "Masquer le texte";
+"Original" = "Original";
+"Hidden" = "Masqué";
+"Custom Text" = "Texte personnalisé";
+"Disable" = "Désactiver";
+"Font Size" = "Taille du texte";
+"Hide Items" = "Masquer les éléments";
+"Do Not Disturb" = "Ne pas déranger";
+"Time" = "Heure";
+"Cancel" = "Annuler";
+"Continue" = "Continuer";
+"Dismiss" = "Rejeter";
+"[Springtomize].thanks" = "Merci d'utiliser Springtomize 5";
+"Hide Background" = "Masquer l'arrière-plan";
+
+/* Versions */
+"Unsupported Version" = "Version non prise en charge";
+"[Unsupported Version].description %@ %f" = "iOS %@ (%f) n'est pas pris en charge. Si votre version est trop récente, je travaille dessus 😎. Si elle est trop vieille, veuillez consulter les autres versions de Springtomize.";
+
+/* Reset & Respring */
+"[Reset].description" = "Cela réinitialisera les paramètres de cette section";
+"[Reset].message" = "Veuillez effectuer un respring après une réinitialisation";
+"'%@' requires a respring" = "'%@' requiert un respring";
+"[Respring].message" = "Voulez-vous vraiment effectuer un respring ?";
+
+/* Application List */
+"Available Applications" = "Applications disponibles";
+"System Apps" = "Applications système";
+"User Apps" = "Applications utilisateur";
+
+/* Colors & Color Picker */
+"Light Color" = "Couleur claire";
+"Dark Color" = "Couleur sombre";
+"Light Background Color" = "Couleur d'arrière-plan claire";
+"Dark Background Color" = "Couleur d'arrière-plan sombre";
+"Color Picker" = "Pipette à couleurs";
+"Red" = "Rouge";
+"Green" = "Vert";
+"Blue" = "Bleu";
+"Alpha" = "Alpha";
+"[Alpha].description" = "Le niveau alpha de votre couleur";
+"Hex" = "Hex";
+"[Hex].description" = "Entrez une valeur hexadécimale";
+
+/* App List */
+"Available Apps" = "Applications disponibles";
+"System Apps" = "Applications système";
+"User Apps" = "Applications utilisateur";
+
+/* Main View Header */
+"Respring" = "Respring";
+"[Springtomize].description" = "Personnalisez votre appareil iOS comme jamais auparavant";
+
+/* Sections */
+"Settings" = "Réglages";
+"Enabled" = "Activé";
+"Animations" = "Animations";
+"App Switcher" = "Multitâche";
+"Control Center" = "Centre de contrôle";
+"Dock" = "Dock";
+"Folders" = "Dossiers";
+"Icons" = "Icônes";
+"Lock Screen" = "Écran verrouillé";
+"Miscellaneous" = "Divers";
+"Notification Center" = "Centre de notifications";
+"Pages" = "Pages";
+"Status Bar" = "Barre de statut";
+"Profiles" = "Profils";
+"[Profiles].description" = "Enregistrer des configurations dans des profils.";
+"More" = "Plus";
+"Bug Reporting" = "Rapport de bug";
+"Request a Feature" = "Demander une fonctionnalité";
+"Credits" = "Crédits";
+
+/* Animations */
+"Custom Speed" = "Vitesse personnalisée";
+"Affect App Switcher" = "Affecter le multitâche";
+"[Custom Speed].description" = "Change la vitesse des animations.";
+"Lock Animation" = "Animation de verrouillage";
+
+/* Lock Animations */
+"Explode" = "Explosion";
+"Old TV" = "Vieille TV";
+"Slide Away" = "Glissement au loin";
+"Slide left to right" = "Glissement de gauche à droite";
+"Zoom out" = "Dézoom";
+"Disable Icons Fly In" = "Désactiver le survol des icônes";
+"[Disable Icons Fly In].description" = "Désactive le survol des icônes au déverrouillage.";
+"Only perform on Lock" = "Seulement au verrouillage";
+"[Lock Animation].description" = "Sélectionnez une animation de verrouillage et changez la vitesse à l'aide du curseur. "Seulement au verrouillage" signifie que l'animation ne s'active que lorsque vous utilisez le bouton de verrouillage physique.";
+"Page Scroll Animation" = "Défilement de page";
+
+"Disable Battery Animation" = "Désactiver l'anim. de charge";
+"[Disable Battery Animation].description" = "Désactive l'animation de charge sur l'écran de verrouillage. L'icône saffichera instantanément.";
+
+/* Page Scroll Animations */
+"Alternate Pulse" = "Pulsation (alterné)";
+"Alternate Roll" = "Roulement (alterné)";
+"Alternate Shuffle" = "Mélange (alterné)";
+"Bubble" = "Bulle";
+"Clash" = "Choc";
+"Come in and go down" = "Entrer et descendre";
+"Come in and go up" = "Entrer et monter";
+"Compress" = "Compression";
+"Cube Inside" = "Cube (intérieur)";
+"Cube Outside" = "Cube (extérieur)";
+"Fade In Place" = "Estompassion (sur place)";
+"Interlace" = "Entrelacer";
+"Light Fade" = "Estompassion (légère)";
+"Long Leap" = "Saut en longueur";
+"Magic Flip Icons" = "Toupie (icônes)";
+"Magic Flip Page" = "Toupie (page)";
+"Pulse" = "Pulsation";
+"Railway Horizontal" = "Chemin de fer (horizontal)";
+"Railway Vertical" = "Chemin de fer (vertical)";
+"Random" = "Aléatoire";
+"Rollerblade" = "Rollers";
+"Roll Page" = "Roulement de la page";
+"Rotate Clockwise" = "Rotation (sens horaire)";
+"Rotate Counter Clockwise" = "Rotation (sens anti-horaire)";
+"Seaside" = "Bord de mer";
+"Shrink" = "Rétrécissement";
+"Shuffle" = "Mélange";
+"Slide and Zoom" = "Glisser et zoomer";
+"Spread" = "Propagation";
+"Stairway Down" = "Escalier (montant vers la gauche)";
+"Stairway Up" = "Escalier (montant vers la droite)";
+"Stretch" = "Étirement";
+"Tear Apart" = "Séparation";
+"Time Machine" = "Time Machine";
+"Vertical Down" = "Descendre (verticalement)";
+"Vertical Up" = "Monter (verticalement)";
+"Windmill" = "Moulin à vent";
+"Zoom In" = "Zoom";
+"Zoom Out" = "Dézoom";
+"[Page Scroll Animation].description" = "Sélectionnez votre animation préférée lors du défilement d'une page à l'autre.";
+
+"Use Old Screenshot Style" = "Ancien style de capture d'écran";
+"Light Screenshot Color" = "Capture d'écran claire";
+"Dark Screenshot Color" = "Capture d'écran sombre";
+"[Flash Color].description" = "Spécifiez une couleur personnalisée pour le flash affiché lors de la capture d'écran.";
+
+/* App Switcher */
+"Hide Icons" = "Masquer les icônes";
+"[Hide Stuff].description" = "Masque les icônes et le texte au dessus des cartes du multitâche.";
+"Label Appearance" = "Apparence du texte";
+"Title Font Size" = "Taille du titre";
+"Light Title Color" = "Couleur du titre claire";
+"Dark Title Color" = "Couleur du titre sombre";
+"Subtitle Font Size" = "Taille du sous-titre";
+"Custom Subtitle" = "Sous-titre personnalisé";
+"[App Switcher Title Label].description" = "Personnaliser l'apparence du texte.";
+"Use Grid Switcher" = "Multitâche en grille";
+"Hide Suggestions" = "Masquer les suggestions";
+"Card Corner Radius" = "Angles des cartes";
+"Corner Radius" = "Rayon des angles";
+"Resize Percentage" = "Redimensionner en pourcentages";
+"[Resize Pages].description" = "Redimensionner les cartes du multitâche.";
+"Inactive Apps" = "Applications inactives";
+
+/* Inactive Apps mode */
+"Darken" = "Assombrir";
+"Hide" = "Masquer";
+"Mark as inactive" = "Marquer comme inactive";
+
+/* Control Center */
+"[Disable CC].description" = "Désactive le centre de contrôle partout.";
+"[CC Background Color].description" = "Changer l'arrière-plan du centre de contrôle.";
+"Light Toggle Color" = "Couleur des boutons claire";
+"Dark Toggle Color" = "Couleur des boutons sombre";
+"[CC Toggle Color].description" = "Change la couleur de l'arrière-plan des boutons du centre de contrôle.";
+"Hide Sections" = "Masquer les sections";
+
+/* CC Sections */
+"AirPlay Mirroring" = "Mise en miroir d'écran";
+"Brightness" = "Luminosité";
+"Connectivity" = "Connectivité";
+"Now Playing" = "Contrôle musique";
+"Rotation Lock" = "Rotation verrouillé";
+"Volume" = "Volume";
+"[CC Sections].description" = "Masquez les sections du centre de contrôle en les cochant.";
+
+"Blur Effect" = "Effet de flou";
+"Disable Blur" = "Désactiver le flou";
+"[CC Disable Blur].description" = "Désactive l'effet de flou dans le centre de contrôle.";
+
+/* Dock */
+"Hide Dock" = "Masquer le Dock";
+"[Hide Dock].description" = "Masque le Dock de l'écran d'accueil.";
+"[Hide Background].description" = "Masque l'arrière-plan du Dock.";
+"Dock on Top" = "Dock en haut";
+"[Dock on Top].description" = "Place le Dock en haut de l'écran.";
+
+/* Folders */
+"Nested Folders" = "Dossiers imbriqués";
+"[Nested Folders].description" = "Crée des dossiers dans des dossiers.";
+"Experimental Nested Folders" = "Dossiers imbriqués (expérimental)";
+"[Experimental Nested Folders].description" = "Crée des dossiers dans des dossiers. Il est possible que vous obteniez des bugs d'interface lors de la fermeture / ouverture d'un dossier dans un dossier. Il est suggéré d'enregistrer l'état de l'icône avant.";
+"Show Status Bar" = "Afficher la barre de statut";
+"[Show Status Bar].description" = "Affiche la barre de statut dans les dossiers.";
+"Lock Folder Names" = "Verrouiller le nom";
+"[Lock Folder Names].description" = "Empêche la modification de nom de dossier.";
+"Hide Folder Title" = "Masquer le nom";
+"[Hide Folder Title].description" = "Masque le titre d'un dossier lorsqu'il est ouvert.";
+"Pinch to Close" = "Pincer pour fermer";
+"[Pinch to Close].description" = "Pincez dans un dossier ouvert pour le fermer.";
+"Tap Inside to Close" = "Toucher pour fermer";
+"[Tap Inside to Close].description" = "Touchez à l'intérieur d'un dossier ouvert pour le fermer.";
+"Close Folder on Launch" = "Fermer à l'ouverture";
+"[Close Folder on Launch].description" = "Ferme le dossier lorsqu'une application de ce dernier est ouverte.";
+"[Folder Background Color].description" = "Personnalise la couleur d'arrière-plan des dossiers ouverts.";
+"[Folder Hide Background].description" = "Masque entièrement l'arrière-plan des dossiers.";
+"Hide Grid Icon" = "Masquer l'aperçu des icônes";
+"[Hide Grid Icon].description" = "Masque l'aperçu des icônes présentes dans un dossier fermé.";
+"Squared Background" = "Arrière-plan carré";
+"[Squared Background].description" = "Rend l'arrière-plan des dossiers carré.";
+"Hide Blur Background" = "Masquer le flou";
+"[Hide Blur Background].description" = "Masque le flou d'arrière-plan des dossiers lorsqu'ils sont ouverts.";
+"Fast Open / Close Folders" = "Ouvrir / fermer instantanément";
+"[Fast Open / Close Folders].description" = "Ouvrez et fermez les dossiers instantanément.";
+
+/* Icons */
+"Dock Settings" = "Réglages du Dock";
+"Folder Settings" = "Réglages des dossiers";
+"Page Settings" = "Réglages des pages";
+"Sort alphabetically" = "Trier par ordre alphabétique";
+"[Sort alphabetically].description" = "Trie vos applications par ordre alphabétique. Sachez que si vous désactivez cette option, vos applications seront toujours triées par ordre alphabétique, jusqu'à ce que vous changiez manuellement leur disposition. Vous devriez enregistrer l'état de vos icônes avant de réappliquer l'option ultérieurement.";
+"Icon State" = "État des icônes";
+"Save Icon State" = "Sauvegarder l'état des icônes";
+"[Save Icon State].message" = "Voulez-vous vraiment enregistrer l'état actuel de vos icônes ?";
+"[Save Icon State].hud" = "État des icônes sauvegardé !";
+"Apply Icon State" = "Appliquer l'état des icônes";
+"[Apply Icon State].message" = "Voulez-vous vraiment appliquer l'état des icônes actuellement sauvegardé ?";
+"[Apply Icon State].hud" = "État des icônes appliqué !";
+"[Icon State].description" = "Enregistrez l'état de vos icônes pour les restaurer si vous avez besoin de re-jailbreak ou si vous passez en mode sans échec. Cela vous évitera de réorganiser les icônes manuellement.";
+"App Context Menus (3D Touch)" = "Menus contextuels d'apps (3D Touch)";
+"Hide Delete Item" = "Masquer Supprimer l'app";
+"Hide Share Item" = "Masquer Partager l'app";
+"Hide Edit Homescreen Item" = "Masquer Modifier l'écran d'accueil";
+"[Hide Context Menu Items].description" = "Masque différents éléments du menu contextuel.";
+"Hide Updated Dot" = "Masquer la pastille de mise à jour";
+"Hide Newly Installed Dot" = "Masquer la pastille de nouvelle app";
+"Hide Beta Dot" = "Masquer la pastille de bêta";
+"[Hide Dot].description" = "Masquer les pastilles de mise à jour récente, nouvelle application ou bêta.'";
+"Lock Layout" = "Verrouiller la disposition";
+"[Lock Layout].description" = "Empêche le déplacement des icônes.";
+"Disable Jittering" = "Désactiver le tremblement";
+"[Disable Jittering].description" = "Désactive l'animation de tremblement des icônes en mode édtion.";
+"Disable Uninstall" = "Désactiver la désinstallation";
+"[Disable Uninstall].description" = "Empêche la désinstallation de toutes les applications.";
+"Hide Badge Text" = "Masquer le texte des badges";
+"[Hide Badge Text].description" = "Masque le texte des badges tout en gardant l'arrière-plan.";
+"Badge Colors" = "Couleurs des badges";
+"Light Text Color" = "Couleur de texte claire";
+"Dark Text Color" = "Couleur de texte sombre";
+"[Badge Colors].description" = "Personnalise la couleur de l'arrière-plan et du texte des badges d'icônes.";
+"Icon Image Effect" = "Effet d'image d'icône";
+"[Icon Image Effect].description" = "Applique différents effets aux images d'icônes.";
+
+/* Icon Image Effect */
+"Invert Colors" = "Inversion des couleurs";
+"Black & White" = "Noir et blanc";
+"High Contrast" = "Contraste élevé";
+"Sepia" = "Sépia";
+"Faded Colors" = "Couleurs délavées";
+"Psycho Colors" = "Couleurs psycho";
+"Red Ascendant" = "Ascendant rouge";
+"Green Ascendant" = "Ascendant vert";
+
+"[Transparency].description" = "Modifie la transparence des icônes.";
+"Icon Labels" = "Texte d'icône";
+"Light Label Color" = "Couleur du texte claire";
+"Dark Label Color" = "Couleur du texte sombre";
+"Custom Font Type" = "Personnaliser le type de police";
+"Custom Font" = "Police personnalisée";
+"[Icon Labels].description" = "Personnalise différents aspects du texte des icônes.";
+"Hide Icons" = "Masquer les icônes";
+"Hide Apps" = "Masquer des applications";
+"[Hide Apps].description" = "Masquer n'importe quelle application installée.";
+"Disable Live Icons" = "Désactiver les icônes animées";
+"Live Clock" = "Horloge animée";
+"All Live Icons" = "Toutes les icônes animées";
+"[Live Icons].description" = "Désactive les icônes animées sur l'écran d'accueil. Notez que la désactivation de l'icône animée de l'horloge arrêtera cette dernière à l'heure actuelle, tandis que la désactivation de toutes les icônes animées utilise l'icône statique par défaut pour cette application, ce qui pourrait mieux rendre.";
+
+/* Dock / Folder / Pages Settings */
+"Tweak Information" = "Information de paquet";
+"[Tweak Installed] %@" = "Il semble que %@ soit installé. En raison de bugs d'UI connus entre ce paquet et Springtomize, les paramètres des lignes / colonnes et des marges sont désactivés pour éviter les problèmes. S'il existe un paramètre fourni par Springtomize qui a été faussement désactivé, vous pouvez le remplacer ci-dessus avec le bouton.";
+"Override" = "Remplacer";
+"Icon Settings" = "Réglages d'icône";
+"[Icon Settings].description" = "Ignorer lors de l'édition reviendra à la taille normale pour rendre le déplacement plus facile.";
+"Resize" = "Redimensionner";
+"Choose A Size" = "Choisir une taille";
+"Ignore while editing" = "Ignorer lors de l'édition";
+"Hide Things" = "Réglages de masquage";
+"Hide Badges" = "Masquer les badges";
+"[Hide Badges Moved].description" = "Masquer les badges sur toutes les icônes a été déplacé dans des sections individuelles pour le Dock, les dossiers et les pages.";
+"Coverflow" = "Coverflow";
+"Landscape Icons" = "Icônes en mode paysage"; /* Dock */
+"Columns" = "Colonnes";
+"Rows" = "Lignes";
+"Landscape Columns" = "Colonnes en mode paysage";
+"Landscape Rows" = "Lignes en mode paysage";
+"Insets" = "Marges";
+"[Insets].description" = "Modifie l'espacement depuis les bords de l'écran.";
+"Change Top Inset" = "Modifier la marge en haut";
+"Change Left Inset" = "Modifier la marge à gauche";
+"Change Bottom Inset" = "Modifier la marge en bas";
+"Change Right Inset" = "Modifier la marge à droite";
+"Top Inset" = "Marge en haut";
+"Left Inset" = "Marge à gauche";
+"Bottom Inset" = "Marge en bas";
+"Right Inset" = "Marge à droite";
+"Invert" = "Inverser";
+"[Coverflow].description" = "Modifie plusieurs paramètres pour l'effet Coverflow.";
+"Factor" = "Facteur";
+"Perspective" = "Perspective";
+
+/* Lock Screen / Notification Center */
+"Information" = "Information";
+"[LS / NC - %@].info" = "L'écran verrouillé et le centre de notifications sont la même chose dans iOS 13. Par conséquent, la modification de paramètres dans l'un, peut s'afficher également dans l'autre.";
+
+/* Lock Screen */
+"Camera" = "Appareil photo";
+"Today View" = "Affichage du jour / Spotlight";
+"Now Playing" = "Contrôle musique";
+"Face ID Lock" = "Face ID (icône de cadenas)";
+"Large Battery" = "Grande batterie";
+"Flashlight Quick Action" = "Lampe torche (action rapide)";
+"Camera Quick Action" = "Appareil photo (action rapide)";
+"[Hide Items].description" = "Masquer / Désactiver des éléments de l'écran verrouillé.";
+"Label Style" = "Style du texte";
+
+/* Label Style */
+"Current Time" = "Heure actuelle";
+
+"[Label Style].description" = "Choisissez un texte pour remplacer 'Appuyez sur le bouton principal pour ouvrir'.";
+"Hide Grabber" = "Masquer la poignée";
+"[Hide Grabber].description" = "Masquer la poignée dans le centre de notifications / écran verrouillé. Si la barre d'accueil est désactivée, elle peut ne pas s'afficher.";
+"Hide CC Grabber" = "Masquer la poignée du CC";
+"[Hide CC Grabber].description" = "Masque la poignée du centre de contrôle en haut à droite.";
+"Auto Dismiss" = "Déverrouillage automatique";
+"[Auto Dismiss].description" = "Affiche immédiatement l'écran d'accueil une fois l'appareil déverrouillé.";
+"Light Time Color" = "Couleur de l'heure claire";
+"Dark Time Color" = "Couleur de l'heure sombre";
+"Time Font Size" = "Taille du texte de l'heure";
+"Time Style" = "Style de l'heure";
+"[Time].description" = "Personnalise le style de l'heure sur l'écran verrouillé.";
+
+/* Time Style */
+"Display Seconds" = "Afficher les secondes";
+
+"Date" = "Date";
+"Hide Date" = "Masquer la date";
+"Light Date Color" = "Couleur de la date claire";
+"Dark Date Color" = "Couleur de la date sombre";
+"Date Font Size" = "Taille du texte de la date";
+"Date Style" = "Style de la date";
+
+/* Date Style */
+"Compact Date Format" = "Format de date compact";
+
+"[Date].description" = "Personnalise le style de la date sur l'écran verrouillé.";
+
+/* Miscellaneous */
+"Disable Charging Sound" = "Désactiver le son de charge";
+"[Disable Charging Sound].description" = "Désactive le son de carillon lorsque l'appareil est en charge.";
+"Disable Screenshot Sound" = "Désactiver le son de capture d'écran";
+
+/* Notification Center */
+"Disable in Apps" = "Désactiver dans des applications";
+"[Disable NC].description" = "Désactive le centre de notifications entièrement ou seulement dans certaines applications.";
+"Disable DND Notification" = "Désactiver la notification NPD";
+"[Disable DND Notification].description" = "Désactive la notification Ne pas déranger.";
+"Background Color" = "Couleur d'arrière-plan";
+"[Background Color].description" = "Personnalise la couleur de l'arrière-plan du centre de notifications.";
+"Hide Label" = "Masquer le texte";
+"No Notifications Label" = "Texte 'Aucune ancienne notification'";
+"[No Notifications Label].description" = "Modifie le texte 'Aucune ancienne notification' et sa taille.";
+"[Blur strength].description" = "Modifie l'intensité du flou";
+"Today View" = "Affichage du jour";
+"Hide Edit Button" = "Masquer le bouton d'édition";
+"[Today View].description" = "Personnalisation pour les widgets de l'affichage du jour.";
+
+/* Pages */
+"Hide Dots" = "Masquer les points";
+"[Hide Dots].description" = "Masque les repères au dessus du Dock.";
+"Hide Home Bar" = "Masquer la barre d'accueil";
+"[Hide Home Bar].description" = "Masque la barre d'accueil dans tout le système. Cela prendra effet après avoir fermé l'application.";
+"Disable Spotlight" = "Désactiver Spotlight / Aff. du jour";
+"[Disable Spotlight].description" = "Empêche l'activation du Spotlight.";
+"Disable Search" = "Désactiver la recherche";
+"[Disable Search].description" = "Vous ne pourrez plus glisser vers le bas pour l'afficher si cette option est activée.";
+"Return to first page" = "Retour à la première page";
+"[Return to first page].description" = "Retour à la première page de l'écran d'accueil lors du verrouillage de l'appareil.";
+"Prevent Rotation" = "Empêcher la rotation";
+"[Prevent Rotation].description" = "Empêche la rotation de l'écran d'accueil.";
+"Disable Parallax" = "Désactiver le parallax";
+"[Disable Parallax].description" = "Désactive entièrement l'effet parallax.";
+"Disable Reachability" = "Désactiver Accessibilité";
+"[Disable Reachability].description" = "Désactive Accessibilité. Vous pouvez également le trouver dans les réglages d'iOS.";
+"Disable Search Blur" = "Désactive le flou de recherche";
+"[Disable Search Blur].description" = "Désactive l'arrière-plan floutté derrière la recherche.";
+"Hide Context Menu Blur" = "Désactiver le flou du menu contextuel";
+"[Hide Context Menu Blur].description" = "Masque l'arrière-plan floutté pour 3D Touch / menus contextuels de l'écran d'accueil.";
+"Disable Status Bar" = "Désactiver la barre de statut";
+"[Disable Status Bar].description" = "Désactive la barre de statut sur l'écran d'accueil.";
+
+/* Status Bar */
+"Custom Carrier" = "Opérateur personnalisé";
+"[Custom Carrier].description" = "Affiche un texte personnalisé à la place du nom de votre opérateur.";
+"Custom Time Mode" = "Personnaliser l'heure";
+
+/* Custom Time Mode */
+"IP Address" = "Adresse IP";
+"WiFi SSID" = "SSID Wi-Fi";
+"Lowercase AM / PM Symbol" = "Symbole AM/PM en minuscules";
+"No AM / PM" = "Pas de symbole AM/PM";
+"Display Free RAM" = "RAM disponible";
+"Custom Time Format" = "Format d'heure personnalisé";
+
+"[Time Mode].description" = "Sélectionne ce qui est affiché dans la barre de statut à la place de l'heure.";
+"Breadcrumbs" = "Bouton de retour à l'app";
+"Disable Breadcrumbs" = "Désactiver le bouton";
+"Hide Text" = "Masquer le texte";
+"[Disable Breadcrumbs].description" = "Désactive le bouton de retour à l'app dans la barre de statut ou masque seulement le texte.";
+"Temperature" = "Température";
+"Weather Conditions" = "Conditions météorologiques";
+"Weather (Conditions + Temperature)" = "Météo (Conditions + Température)";
+
+/* Status Bar Items */
+"Airplane" = "Mode avion";
+"AirPlay" = "AirPlay";
+"Alarm" = "Alarme";
+"Battery Image" = "Image de la batterie";
+"Battery Percentage" = "Pourcentage de la batterie";
+"Bluetooth Battery" = "Bluetooth (batterie)";
+"Bluetooth Signal" = "Bluetooth";
+"Call Forwarding" = "Renvoi d'appel";
+"Carrier" = "Opérateur";
+"Location" = "Localisation";
+"Lock" = "Verrouillage";
+"Network Activity" = "Activité réseau";
+"Network Type" = "Type de réseau";
+"Nike+" = "Nike+";
+"Rotation Lock" = "Rotation verrouillé";
+"Signal Strength" = "Force du signal";
+"TTY" = "TTY";
+"VPN" = "VPN";
+
+"[Status Bar Items].description" = "Activez un élément pour le masquer dans la barre de statut.";
+
+/* Profiles */
+"Add Profile" = "Ajouter un profil";
+"Save" = "Sauvegarder";
+"Profile Name" = "Nom du profil";
+"Apply" = "Appliquer";
+"Duplicate" = "Duppliquer";
+"Copy" = "Copier";
+"Delete" = "Supprimer";
+"[Profile Respring].message" = "Veuillez effectuer un respring pour activer ce profil";
+"Error" = "Erreur";
+"Okay" = "OK";
+"[Profile Name Empty].message" = "Le champ du nom du profil ne doit pas être vide";
+"[Profile Name Reserved].message" = "Le nom que vous avez choisi est réservé par Springtomize, veuillez en utiliser un autre.";
+"[Profile Name Exists].message" = "Un profil avec ce nom existe déjà, veuillez en choisir un autre.";
+"[Profile Action].message %@" = "Que voulez-vous faire avec '%@' ?";
+"Profile Actions" = "Actions de profil";
+
+/* More Section */
+"Version %@" = "Version %@";
+"Mail not configured" = "Mail non configuré";
+"[Mail not configured].message" = "Il semble que vous n'ayez aucun compte de messagerie configuré sur cet appareil.";
+"Error sending Email" = "Erreur lors de l'envoi de l'email";
+"[Error sending Email].message" = "Nous n'avons pas pu envoyer votre email. Veuillez réessayer plus tard.";
+"Bug Report Options" = "Options de rapport de bug";
+"[Bug Report Options].message" = "Choisissez une option pour signaler les bugs";
+"Mail" = "Mail";
+"Discord" = "Discord";
+"Request a Feature Options" = "Options de demande de fonctionnalité";
+"[Request a Feature Options].message" = "Choisissez une option pour demander une fonctionnalité";
+
+/* Credits */
+"Developer" = "Développeur";
+"Previous Developer" = "Précédent développeur";
+"Designer" = "Designer";
+"Translators" = "Traducteurs";
+"Beta Testers" = "Bêta-testeurs";
+
+/* Version 5.1.7 */
+"Folder Icon" = "Icône de dossier";
+"Folder Icon Rows" = "Lignes d'icônes de dossier";
+"Folder Icon Columns" = "Colonnes d'icônes de dossier";
+"Hide Beta Feedback Item" = "Masquer l'élément de retour bêta";
+"Save automatically" = "Sauvegarder automatiquement";
