@@ -77,25 +77,25 @@
 "Credits" = "الاعتمادات";
 
 /* Animations */
-"Custom Speed" = "Custom Speed";
-"Affect App Switcher" = "Affect App Switcher";
-"[Custom Speed].description" = "Change the speed of animations";
-"Lock Animation" = "Lock Animation";
+"Custom Speed" = "سرعة مخصصة";
+"Affect App Switcher" = "تأثر مبدل التطبيقات";
+"[Custom Speed].description" = "تغيير سرعة التأثيرات الحركية.";
+"Lock Animation" = "تأثير القفل الحركي";
 
 /* Lock Animations */
-"Explode" = "Explode";
-"Old TV" = "Old TV";
-"Slide Away" = "Slide Away";
-"Slide left to right" = "Slide left to right";
-"Zoom out" = "Zoom out";
-"Disable Icons Fly In" = "Disable Icons Fly In";
-"[Disable Icons Fly In].description" = "Disables the icons flying in after unlocking";
-"Only perform on Lock" = "Only perform on lock";
-"[Lock Animation].description" = "Select a lock animation and change the speed using the slider. Only performing on Lock means that the lock animation only activates when using the physical lock button.";
-"Page Scroll Animation" = "Page Scroll Animation";
+"Explode" = "انفجار";
+"Old TV" = "تلفاز قديم";
+"Slide Away" = "التمرير بعيدًا";
+"Slide left to right" = "التمرير من اليسار لليمين";
+"Zoom out" = "التكبير للخارج";
+"Disable Icons Fly In" = "تعطيل تطاير الأيقونات للداخل";
+"[Disable Icons Fly In].description" = "تعطيل تطاير الأيقونات للداخل بعد فتح القفل.";
+"Only perform on Lock" = "تنفيذ على القفل فقط";
+"[Lock Animation].description" = "حدد تأثير قفل حركي وقم بتغيير السرعة باستخدام شريط التمرير. التنفيذ على القفل فقط يعني أن تأثير القفل الحركي يتم تنشيطه عند استخدام زر القفل الفعلي فقط.";
+"Page Scroll Animation" = "تأثير تمريرالصفحة الحركي";
 
-"Disable Battery Animation" = "Disable Battery Animation";
-"[Disable Battery Animation].description" = "Disables the animation on Lockscreen when plugging in a charger. It will show instantly.";
+"Disable Battery Animation" = "تعطيل تأثير البطارية الحركي";
+"[Disable Battery Animation].description" = "تعطيل التأثير الحركي في شاشة القفل الذي يحدث عند توصيل الشاحن. بدلًا من ذلك سيظهر على الفور.";
 
 /* Page Scroll Animations */
 "Alternate Pulse" = "Alternate Pulse";
