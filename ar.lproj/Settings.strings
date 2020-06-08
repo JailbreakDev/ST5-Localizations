@@ -1,24 +1,24 @@
 /* General - Everything that appears in multiple places */
-"None" = "None";
-"Default" = "Default";
-"Blur" = "Blur";
-"Reset" = "Reset";
-"Hide Labels" = "Hide Labels";
-"Original" = "Original";
-"Hidden" = "Hidden";
-"Custom Text" = "Custom Text";
-"Disable" = "Disable";
-"Font Size" = "Font Size";
-"Hide Items" = "Hide Items";
-"Do Not Disturb" = "Do Not Disturb";
-"Time" = "Time";
-"Cancel" = "Cancel";
-"Continue" = "Continue";
-"Dismiss" = "Dismiss";
-"[Springtomize].thanks" = "Thank you for using Springtomize 5";
+"None" = "لاشيء";
+"Default" = "افتراضي";
+"Blur" = "ضبابي";
+"Reset" = "إعادة تعيين";
+"Hide Labels" = "إخفاء التسميات";
+"Original" = "الأصلي";
+"Hidden" = "مخفي";
+"Custom Text" = "نص مخصص";
+"Disable" = "تعطيل";
+"Font Size" = "حجم الخط";
+"Hide Items" = "إخفاء العناصر";
+"Do Not Disturb" = "عدم الإزعاج";
+"Time" = "الوقت";
+"Cancel" = "إلغاء";
+"Continue" = "استمرار";
+"Dismiss" = "تجاهل";
+"[Springtomize].thanks" = "شكرًا لاستخدامك Springtomize 5";
 
 /* Versions */
-"Unsupported Version" = "Unsupported Version";
+"Unsupported Version" = "إصدار غير مدعوم";
 "[Unsupported Version].description %@ %f" = "iOS %@ (%f) is currently not supported. If your version is too new, I am working on it 😎. If it is too old, please check out other Springtomize versions.";
 
 /* Reset & Respring */
