@@ -360,53 +360,53 @@
 "Date Style" = "شكل التاريخ";
 
 /* Date Style */
-"Compact Date Format" = "Compact Date Format";
+"Compact Date Format" = "تنسيق التاريخ المدمج";
 
-"[Date].description" = "Customize the looks of the date on Lockscreen";
+"[Date].description" = "تخصيص مظهرالتاريخ على شاشة القفل.";
 
 /* Miscellaneous */
-"Disable Charging Sound" = "Disable Charging Sound";
-"[Disable Charging Sound].description" = "Disable the Chime sound when connecting a charger";
-"Disable Screenshot Sound" = "Disable Screenshot Sound";
+"Disable Charging Sound" = "تعطيل صوت الشحن";
+"[Disable Charging Sound].description" = "تعطيل الصوت الذي يصدر عند توصيل الشاحن.";
+"Disable Screenshot Sound" = "تعطيل صوت لقطة الشاشة";
 
 /* Notification Center */
-"Disable in Apps" = "Disable in Apps";
-"[Disable NC].description" = "Disable the Notification Center entirely or only in specific apps";
-"Disable DND Notification" = "Disable DND Notification";
-"[Disable DND Notification].description" = "Disable the Do not Disturb Notification.";
-"Background Color" = "Background Color";
-"[Background Color].description" = "Customize the background color fo the Notification Center";
-"Hide Label" = "Hide Label";
-"No Notifications Label" = "'No Notifications' label";
-"[No Notifications Label].description" = "Change the 'No Notifications' text and its size.";
-"[Blur strength].description" = "Change the blur strength";
-"Today View" = "Today View";
-"Hide Edit Button" = "Hide Edit Button";
-"[Today View].description" = "Customization for the Widgets View.";
+"Disable in Apps" = "تعطيل في التطبيقات";
+"[Disable NC].description" = "تعطيل مركز الإشعارات كليًا أو داخل تطبيقات معينة فقط.";
+"Disable DND Notification" = "تعطيل إشعار عدم الإزعاج";
+"[Disable DND Notification].description" = "تعطيل إشعار خاصية عدم الإزعاج.";
+"Background Color" = "لون الخلفية";
+"[Background Color].description" = "تخصيص لون خلفية مركز الإشعارات";
+"Hide Label" = "إخفاء التسمية";
+"No Notifications Label" = "تسمية 'لا توجد إشعارات'";
+"[No Notifications Label].description" = "تغيير نص 'لا توجد إشعارات' وحجمه.";
+"[Blur strength].description" = "تغيير قوة الضبابية.";
+"Today View" = "موجز اليوم";
+"Hide Edit Button" = "إخفاء زر التحرير";
+"[Today View].description" = "التخصيص لمظهر الأدوات.";
 
 /* Pages */
-"Hide Dots" = "Hide Dots";
-"[Hide Dots].description" = "Hide the page dots.";
-"Hide Home Bar" = "Hide Home Bar";
-"[Hide Home Bar].description" = "Hides the Home Bar system wide. Will show effect after dismissing the app.";
-"Disable Spotlight" = "Disable Spotlight / Today View";
-"[Disable Spotlight].description" = "Prevent the activation of Spotlight. Which is the Widgets View or Today View.";
-"Disable Search" = "Disable Search";
-"[Disable Search].description" = "You can no longer pull down the search if you turn this on.";
-"Return to first page" = "Return to first page";
-"[Return to first page].description" = "Return to the first SpringBoard page when locking the device.";
-"Prevent Rotation" = "Prevent Rotation";
-"[Prevent Rotation].description" = "Prevent rotation of the Home Screen.";
-"Disable Parallax" = "Disable Parallax";
-"[Disable Parallax].description" = "Disables the parallax effect entirely.";
-"Disable Reachability" = "Disable Reachability";
-"[Disable Reachability].description" = "Disables Reachability. You can also find this in iOS Settings.";
-"Disable Search Blur" = "Disable Search Blur";
-"[Disable Search Blur].description" = "Disables the blurred background behind search.";
-"Hide Context Menu Blur" = "Hide Context Menu Blur";
-"[Hide Context Menu Blur].description" = "Hides the blurred background for 3D Touch / Context Menus on SpringBoard.";
-"Disable Status Bar" = "Disable Status Bar";
-"[Disable Status Bar].description" = "Disables the Status Bar on Homescreen.";
+"Hide Dots" = "إخفاء النقاط";
+"[Hide Dots].description" = "إخفاء نقاط الصفحات";
+"Hide Home Bar" = "إخفاء شريط الرئيسية";
+"[Hide Home Bar].description" = "إخفاء شريط الرئيسية في النظام بأكمله. سيظهر تأثيره بعد إنهاء التطبيق.";
+"Disable Spotlight" = "تعطيل مركز البحث / موجز اليوم";
+"[Disable Spotlight].description" = "منع تنشيط مركز البحث. أيًا يكن سواءً مظهر الأدوات أو موجز اليوم.";
+"Disable Search" = "تعطيل البحث";
+"[Disable Search].description" = "بعد تشغيل هذا، لن تتمكن بعد الآن من السحب للأسفل للوصول إلى البحث.";
+"Return to first page" = "العودة إلى الصفحة الأولى";
+"[Return to first page].description" = "العودة إلى صفحة واجهة النظام الأولى عند قفل الجهاز.";
+"Prevent Rotation" = "منع الدوران";
+"[Prevent Rotation].description" = "منع دوران الشاشة الرئيسية.";
+"Disable Parallax" = "تعطيل المنظر";
+"[Disable Parallax].description" = "تعطيل تأثير المنظر كليًا.";
+"Disable Reachability" = "تعطيل إمكانية الوصول";
+"[Disable Reachability].description" = "تعطيل إمكانية الوصول. يمكنك العثور على هذا الخيار في إعدادات iOS أيضًا.";
+"Disable Search Blur" = "تعطيل ضبابية البحث";
+"[Disable Search Blur].description" = "تعطيل الخلفية الضبابية التي تكون خلف البحث.";
+"Hide Context Menu Blur" = "إخفاء ضبابية قائمة السياق";
+"[Hide Context Menu Blur].description" = "إخفاء الخلفية الضبابية لقائمة 3D Touch وقائمة السياق في واجهة النظام.";
+"Disable Status Bar" = "تعطيل شريط الحالة";
+"[Disable Status Bar].description" = "تعطيل شريط الحالة في الصفحة الرئيسية.";
 
 /* Status Bar */
 "Custom Carrier" = "Custom Carrier";
