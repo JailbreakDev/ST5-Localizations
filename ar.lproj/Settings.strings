@@ -319,45 +319,45 @@
 "Perspective" = "المنظور";
 
 /* Lock Screen / Notification Center */
-"Information" = "Information";
-"[LS / NC - %@].info" = "Lockscreen and Notification Center are the same on iOS 13. Therefore changing settings here might also show up in %@.";
+"Information" = "معلومات";
+"[LS / NC - %@].info" = "شاشة القفل ومركز الإشعارات هما نفس الشيء على iOS 13. لذلك فإن أي تغيير في الإعدادات هنا قد يظهر أيضًا في %@.";
 
 /* Lock Screen */
-"Camera" = "Camera";
-"Today View" = "Today View / Spotlight";
-"Now Playing" = "Now Playing";
-"Face ID Lock" = "Face ID Lock";
-"Large Battery" = "Large Battery";
-"Flashlight Quick Action" = "Flashlight Quick Action";
-"Camera Quick Action" = "Camera Quick Action";
-"[Hide Items].description" = "Hide / Disable Lockscreen items if enabled";
-"Label Style" = "Label Style";
+"Camera" = "الكاميرا";
+"Today View" = "موجز اليوم / مركز البحث";
+"Now Playing" = "مشغل الموسيقى";
+"Face ID Lock" = "قفل Face ID";
+"Large Battery" = "البطارية الكبيرة";
+"Flashlight Quick Action" = "إجراء الفلاش السريع";
+"Camera Quick Action" = "إجراء الكاميرا السريع";
+"[Hide Items].description" = "إخفاء / تعطيل عناصر شاشة القفل إذا كانت مفعلة.";
+"Label Style" = "شكل التسمية";
 
 /* Label Style */
-"Current Time" = "Current Time";
+"Current Time" = "الوقت الحالي";
 
-"[Label Style].description" = "Choose a text for the 'Press home to unlock' label.";
-"Hide Grabber" = "Hide Grabber";
-"[Hide Grabber].description" = "Hide the grabber in Notification Center / Lockscreen. If you have the Home Bar disabled, it may not show up.";
-"Hide CC Grabber" = "Hide CC Grabber";
-"[Hide CC Grabber].description" = "Hide the CC Grabber on the top right.";
-"Auto Dismiss" = "Auto Dismiss";
-"[Auto Dismiss].description" = "Automatically dismisses the Lockscreen once unlocked.";
-"Light Time Color" = "Light Time Color";
-"Dark Time Color" = "Dark Time Color";
-"Time Font Size" = "Time Font Size";
-"Time Style" = "Time Style";
-"[Time].description" = "Customize the looks of the time on Lockscreen";
+"[Label Style].description" = "اختر نصًا لتسمية 'اضغط الرئيسية لفتح القفل'";
+"Hide Grabber" = "إخفاء اللاقط";
+"[Hide Grabber].description" = "إخفاء اللاقط في مركز الإشعارات / شاشة القفل. إذا كنت قد عطلت شريط الرئيسية، فقد لا يظهر.";
+"Hide CC Grabber" = "إخفاء لاقط مركز التحكم";
+"[Hide CC Grabber].description" = "إخفاء لاقط مركز التحكم الموجود أعلى اليسار.";
+"Auto Dismiss" = "تجاهل تلقائي";
+"[Auto Dismiss].description" = "تجاهل شاشة القفل تلقائيًا بمجرد فتح القفل.";
+"Light Time Color" = "لون الوقت الفاتح";
+"Dark Time Color" = "لون الوقت الغامق";
+"Time Font Size" = "حجم خط الوقت";
+"Time Style" = "شكل الخط";
+"[Time].description" = "تخصيص مظهر الوقت على شاشة القفل.";
 
 /* Time Style */
-"Display Seconds" = "Display Seconds";
+"Display Seconds" = "عرض الثواني";
 
-"Date" = "Date";
-"Hide Date" = "Hide Date";
-"Light Date Color" = "Light Date Color";
-"Dark Date Color" = "Dark Date Color";
-"Date Font Size" = "Date Font Size";
-"Date Style" = "Date Style";
+"Date" = "التاريخ";
+"Hide Date" = "إخفاء التاريخ";
+"Light Date Color" = "لون التاريخ الفاتح";
+"Dark Date Color" = "لون التاريخ الداكن";
+"Date Font Size" = "حجم خط التاريخ";
+"Date Style" = "شكل التاريخ";
 
 /* Date Style */
 "Compact Date Format" = "Compact Date Format";
