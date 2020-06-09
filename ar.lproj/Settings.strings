@@ -54,7 +54,7 @@
 
 /* Main View Header */
 "Respring" = "إعادة تشغيل سريع";
-"[Springtomize].description" = "قم بتخصيص جهاز iOS الخاص بشكل لم يسبق له مثيل";
+"[Springtomize].description" = "قم بتخصيص جهاز iOS الخاص بك بشكل لم يسبق له مثيل";
 
 /* Sections */
 "Settings" = "الإعدادات";
@@ -183,7 +183,7 @@
 "Now Playing" = "الوسائط والموسيقى";
 "Rotation Lock" = "قفل تدوير الشاشة";
 "Volume" = "الصوت";
-"[CC Sections].description" = "إخفاء الأقسام في مركز التحكم عن طريق تشغيل المفاتيح.";
+"[CC Sections].description" = "قم بإخفاء الأقسام في مركز التحكم عن طريق تشغيل المفاتيح.";
 
 "Blur Effect" = "تأثير ضبابي";
 "Disable Blur" = "تعطيل الضبابية";
@@ -218,7 +218,7 @@
 "Hide Grid Icon" = "إخفاء أيقونة الشبكة";
 "[Hide Grid Icon].description" = "إخفاء أيقونة الشبكة التي تكون داخل أيقونات المجلدات.";
 "Squared Background" = "خلفية مربعة";
-"[Squared Background].description" = "جعل حلفية المجلد مربعة.";
+"[Squared Background].description" = "جعل خلفية المجلد مربعة.";
 "Hide Blur Background" = "إخفاء الخلفية الضبابية.";
 "[Hide Blur Background].description" = "إخفاء خلفية المجلد الضبابية التي تظهر عند فتحه.";
 "Fast Open / Close Folders" = "فتح / إغلاق سريع للمجلدات";
@@ -348,7 +348,7 @@
 "Light Time Color" = "لون الوقت الفاتح";
 "Dark Time Color" = "لون الوقت الغامق";
 "Time Font Size" = "حجم خط الوقت";
-"Time Style" = "شكل الخط";
+"Time Style" = "شكل الوقت";
 "[Time].description" = "تخصيص مظهر الوقت على شاشة القفل.";
 
 /* Time Style */
@@ -468,7 +468,7 @@
 "[Profile Name Empty].message" = "يجب ألا يكون حقل اسم ملف التعريف فارغًا";
 "[Profile Name Reserved].message" = "الاسم الذي اخترته محجوز بواسطة Springtomize، يرجى استخدام اسم مختلف";
 "[Profile Name Exists].message" = "يوجد ملف تعريف يحمل هذا الاسم بالفعل، يرجى اختيار اسم آخر";
-"[Profile Action].message %@" = "اختر ماذا تريد أن تفعل '%@'";
+"[Profile Action].message %@" = "اختر ماذا تريد أن تفعل مع '%@'";
 "Profile Actions" = "إجراءات ملف التعريف";
 
 /* More Section */
