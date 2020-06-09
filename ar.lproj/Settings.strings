@@ -16,6 +16,7 @@
 "Continue" = "استمرار";
 "Dismiss" = "تجاهل";
 "[Springtomize].thanks" = "شكرًا لاستخدامك Springtomize 5";
+"Hide Background" = "إخفاء الخلفية";
 
 /* Versions */
 "Unsupported Version" = "إصدار غير مدعوم";
@@ -191,7 +192,6 @@
 /* Dock */
 "Hide Dock" = "إخفاء الـ Dock";
 "[Hide Dock].description" = "إخفاء الـ Dock من واجهة النظام.";
-"Hide Background" = "إخفاء الخلفية";
 "[Hide Background].description" = "إخفاء خلفية الـ Dock.";
 "Dock on Top" = "الـ Dock في الأعلى";
 "[Dock on Top].description" = "جعل الـ Dock في أعلى الشاشة.";
@@ -214,8 +214,7 @@
 "Close Folder on Launch" = "إغلاق المجلد عند التشغيل";
 "[Close Folder on Launch].description" = "إغلاق المجلد عند تشغيل تطبيق منه.";
 "[Folder Background Color].description" = "تخصيص لون خلفية المجلدات المفتوحة.";
-"Hide Background" = "إخفاء الخلفية";
-"[Hide Background].description" = "إخفاء خلفية الـ Dock.";
+"[Folder Hide Background].description" = "إخفاء خلفية المجلد كليًا.";
 "Hide Grid Icon" = "إخفاء أيقونة الشبكة";
 "[Hide Grid Icon].description" = "إخفاء أيقونة الشبكة التي تكون داخل أيقونات المجلدات.";
 "Squared Background" = "خلفية مربعة";
@@ -252,6 +251,8 @@
 "[Lock Layout].description" = "منع تحريك الأيقونات.";
 "Disable Jittering" = "تعطيل الارتعاش";
 "[Disable Jittering].description" = "تعطيل تأثير الارتعاش الحركي الذي يحدث عند الدخول في وضع تحرير الأيقونات.";
+"Disable Uninstall" = "تعطيل الإزالة";
+"[Disable Uninstall].description" = "منع إزالة كل التطبيقات.";
 "Hide Badge Text" = "إخفاء نص الشارة";
 "[Hide Badge Text].description" = "إخفاء نص الشارة مع الإبقاء على الخلفية.";
 "Badge Colors" = "ألوان الشارات.";
@@ -276,6 +277,7 @@
 "Light Label Color" = "لون التسمية الفاتح";
 "Dark Label Color" = "لون التسمية الداكن";
 "Custom Font Type" = "نوع خط مخصص";
+"Custom Font" = "خط مخصص";
 "[Icon Labels].description" = "تخصيص جوانب مختلفة من تسميات الأيقونات.";
 "Hide Icons" = "إخفاء الأيقونات";
 "Hide Apps" = "إخفاء التطبيقات";
@@ -488,3 +490,10 @@
 "Designer" = "المصمم";
 "Translators" = "المترجمون";
 "Beta Testers" = "مختبرين النسخ التجريبية";
+
+/* Version 5.1.7 */
+"Folder Icon" = "أيقونة المجلد";
+"Folder Icon Rows" = "صفوف أيقونة المجلد";
+"Folder Icon Columns" = "أعمدة أيقونة المجلد";
+"Hide Beta Feedback Item" = "إخفاء عنصر Feedback التجريبي";
+"Save automatically" = "حفظ تلقائيًا";
