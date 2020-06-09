@@ -409,82 +409,82 @@
 "[Disable Status Bar].description" = "تعطيل شريط الحالة في الصفحة الرئيسية.";
 
 /* Status Bar */
-"Custom Carrier" = "Custom Carrier";
-"[Custom Carrier].description" = "Insert a custom string to be displayed in place of the name of your carrier.";
-"Custom Time Mode" = "Custom Time Mode";
+"Custom Carrier" = "تخصيص شركة الاتصالات";
+"[Custom Carrier].description" = "أدخل نص مخصص لعرضه بدلًا من اسم شركة الاتصالات الخاصة بك.";
+"Custom Time Mode" = "تخصيص نمط الوقت";
 
 /* Custom Time Mode */
-"IP Address" = "IP Address";
+"IP Address" = "عنوان IP";
 "WiFi SSID" = "WiFi SSID";
-"Lowercase AM / PM Symbol" = "Lowercase AM/PM Symbol";
-"No AM / PM" = "No AM/PM";
-"Display Free RAM" = "Display Free RAM";
-"Custom Time Format" = "Custom Time Format";
+"Lowercase AM / PM Symbol" = "رمز AM/PM صغير";
+"No AM / PM" = "بدون AM/PM";
+"Display Free RAM" = "عرض ذاكرة الوصول العشوائية الحرة";
+"Custom Time Format" = "تنسيق وقت مخصص";
 
-"[Time Mode].description" = "Select what to show in the Status Bar as the time string.";
-"Breadcrumbs" = "Breadcrumbs";
-"Disable Breadcrumbs" = "Disable Breadcrumbs";
-"Hide Text" = "Hide Text";
-"[Disable Breadcrumbs].description" = "Disables the breadcrumbs in the Status Bar or just hide the text";
-"Temperature" = "Temperature";
-"Weather Conditions" = "Weather Conditions";
-"Weather (Conditions + Temperature)" = "Weather (Conditions + Temperature)";
+"[Time Mode].description" = "حدد مالذي تريده أن يظهر في شريط الحالة كمتسلسلة زمنية.";
+"Breadcrumbs" = "زر العودة";
+"Disable Breadcrumbs" = "تعطيل زر العودة";
+"Hide Text" = "إخفاء النص";
+"[Disable Breadcrumbs].description" = "تعطيل زر العودة في شريط الحالة أو إخفاء النص فقط.";
+"Temperature" = "درجة الحرارة";
+"Weather Conditions" = "أحوال الطقس";
+"Weather (Conditions + Temperature)" = "الطقس (الأحوال + درجة الحرارة)";
 
 /* Status Bar Items */
-"Airplane" = "Airplane";
-"AirPlay" = "AirPlay";
-"Alarm" = "Alarm";
-"Battery Image" = "Battery Image";
-"Battery Percentage" = "Battery Percentage";
-"Bluetooth Battery" = "Battery Battery";
-"Bluetooth Signal" = "Battery Signal";
-"Call Forwarding" = "Call Forwarding";
-"Carrier" = "Carrier";
-"Location" = "Location";
-"Lock" = "Lock";
-"Network Activity" = "Network Activity";
-"Network Type" = "Network Type";
+"Airplane" = "نمط الطيران";
+"AirPlay" = "عكس الشاشة";
+"Alarm" = "المنبه";
+"Battery Image" = "صورة البطارية";
+"Battery Percentage" = "نسبة البطارية المئوية";
+"Bluetooth Battery" = "بطارية الـ Bluetooth";
+"Bluetooth Signal" = "إشارة الـ Bluetooth";
+"Call Forwarding" = "تحويل المكالكة";
+"Carrier" = "شركة الاتصالات";
+"Location" = "الموقع";
+"Lock" = "القفل";
+"Network Activity" = "نشاط الشبكة";
+"Network Type" = "نوع الشبكة";
 "Nike+" = "Nike+";
-"Rotation Lock" = "Rotation Lock";
-"Signal Strength" = "Signal Strength";
+"Rotation Lock" = "قفل الدوران";
+"Signal Strength" = "قوة الإشارة";
 "TTY" = "TTY";
 "VPN" = "VPN";
 
-"[Status Bar Items].description" = "Enable an item to hide it from the Status Bar.";
+"[Status Bar Items].description" = "قم بتفعيل عنصر لإخفائه من شريط الحالة.";
 
 /* Profiles */
-"Add Profile" = "Add Profile";
-"Save" = "Save";
-"Profile Name" = "Profile Name";
-"Apply" = "Apply";
-"Duplicate" = "Duplicate";
-"Copy" = "Copy";
-"Delete" = "Delete";
-"[Profile Respring].message" = "Please respring to activate this Profile";
-"Error" = "Error";
-"Okay" = "Okay";
-"[Profile Name Empty].message" = "Profile name field must not be empty";
-"[Profile Name Reserved].message" = "The name you have chosen is reserved by Springtomize, please use a different one.";
-"[Profile Name Exists].message" = "A profile with this name already exists, please choose a different one.";
-"[Profile Action].message %@" = "Choose what to do with '%@'";
-"Profile Actions" = "Profile Actions";
+"Add Profile" = "إضافة ملف تعريف";
+"Save" = "حفظ";
+"Profile Name" = "اسم ملف التعريف";
+"Apply" = "تطبيق";
+"Duplicate" = "تكرار";
+"Copy" = "نسخ";
+"Delete" = "حذف";
+"[Profile Respring].message" = "يرجى عمل إعادة تشغيل سريع لتنشيط ملف التعريف هذا";
+"Error" = "خطأ";
+"Okay" = "حسنًا";
+"[Profile Name Empty].message" = "يجب ألا يكون حقل اسم ملف التعريف فارغًا";
+"[Profile Name Reserved].message" = "الاسم الذي اخترته محجوز بواسطة Springtomize، يرجى استخدام اسم مختلف";
+"[Profile Name Exists].message" = "يوجد ملف تعريف يحمل هذا الاسم بالفعل، يرجى اختيار اسم آخر";
+"[Profile Action].message %@" = "اختر ماذا تريد أن تفعل '%@'";
+"Profile Actions" = "إجراءات ملف التعريف";
 
 /* More Section */
-"Version %@" = "Version %@";
-"Mail not configured" = "Mail not configured";
-"[Mail not configured].message" = "It seems that you do not have any mail account configured on this device.";
-"Error sending Email" = "Error sending Email";
-"[Error sending Email].message" = "We were unable to send your email. Please try again later.";
-"Bug Report Options" = "Bug Report Options";
-"[Bug Report Options].message" = "Choose an option for reporting bugs";
-"Mail" = "Mail";
+"Version %@" = "إصدار %@";
+"Mail not configured" = "لم يتم تكوين البريد";
+"[Mail not configured].message" = "يبدو أنه ليس لديك أي حساب بريد تم تكوينه على هذا الجهاز.";
+"Error sending Email" = "خطأ في إرسال البريد الإلكتروني";
+"[Error sending Email].message" = "لم نتمكن من إرسال بريدك الإلكتروني. يرجى معاودة المحاولة في وقت لاحق.";
+"Bug Report Options" = "خيارات الإبلاغ عن الأخطاء";
+"[Bug Report Options].message" = "حدد خيار للإبلاغ عن الأخطاء";
+"Mail" = "البريد";
 "Discord" = "Discord";
-"Request a Feature Options" = "Request a Feature options";
-"[Request a Feature Options].message" = "Choose an option for requesting a feature";
+"Request a Feature Options" = "خيارات طلب ميزة";
+"[Request a Feature Options].message" = "اختر خيارًا لطلب ميزة";
 
 /* Credits */
-"Developer" = "Developer";
-"Previous Developer" = "Previous Developer";
-"Designer" = "Designer";
-"Translators" = "Translators";
-"Beta Testers" = "Beta Testers";
+"Developer" = "المطور";
+"Previous Developer" = "المطور السابق";
+"Designer" = "المصمم";
+"Translators" = "المترجمون";
+"Beta Testers" = "مختبرين النسخ التجريبية";
