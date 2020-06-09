@@ -35,8 +35,8 @@
 /* Colors & Color Picker */
 "Light Color" = "اللون الفاتح";
 "Dark Color" = "اللون الداكن";
-"Light Background Color" = "لون خلفية فاتح";
-"Dark Background Color" = "لون خلفية داكن";
+"Light Background Color" = "لون الخلفية الفاتح";
+"Dark Background Color" = "لون الخلفية الداكن";
 "Color Picker" = "انتقاء الألوان";
 "Red" = "الأحمر";
 "Green" = "الأخضر";
@@ -140,8 +140,8 @@
 "[Page Scroll Animation].description" = "حدد التأثير الحركي المفضل لديك الذي تريده أن يحدث عند التمرير من صفحة إلى صفحة أخرى.";
 
 "Use Old Screenshot Style" = "استخدام شكل لقطة الشاشة القديم";
-"Light Screenshot Color" = "لون لقطة شاشة فاتح";
-"Dark Screenshot Color" = "لون لقطة شاشة داكن";
+"Light Screenshot Color" = "لون لقطة الشاشة الفاتح";
+"Dark Screenshot Color" = "لون لقطة الشاشة الداكن";
 "[Flash Color].description" = "حدد لونًا مخصصًا للفلاش الذي يظهر عند أخذ لقطة شاشة.";
 
 /* App Switcher */
@@ -149,8 +149,8 @@
 "[Hide Stuff].description" = "إخفاء الأيقونات والنصوص الموجودة فوق بطاقات مبدل التطبيقات.";
 "Label Appearance" = "مظهر التسمية";
 "Title Font Size" = "حجم خط العنوان";
-"Light Title Color" = "لون عنوان فاتح";
-"Dark Title Color" = "لون عنوان داكن";
+"Light Title Color" = "لون العنوان الفاتح";
+"Dark Title Color" = "لون العنوان الداكن";
 "Subtitle Font Size" = "حجم خط العنوان الفرعي";
 "Custom Subtitle" = "عنوان فرعي مخصص";
 "[App Switcher Title Label].description" = "حدد كيف تريد أن تبدو التسمية.";
@@ -170,8 +170,8 @@
 /* Control Center */
 "[Disable CC].description" = "تعطيل مركز التحكم في كل مكان.";
 "[CC Background Color].description" = "تغيير لون خلفية مركز التحكم.";
-"Light Toggle Color" = "لون وحدات فاتح";
-"Dark Toggle Color" = "لون وحدات داكن";
+"Light Toggle Color" = "لون الوحدات الفاتح";
+"Dark Toggle Color" = "لون الوحدات الداكن";
 "[CC Toggle Color].description" = "تغيير لون الخلفية لوحدات مركز التحكم.";
 "Hide Sections" = "إخفاء الأقسام";
 
@@ -200,7 +200,7 @@
 "Nested Folders" = "المجلدات المتداخلة";
 "[Nested Folders].description" = "إنشاء مجلدات داخل المجلدات.";
 "Experimental Nested Folders" = "المجلدات المتداخلة التجريبية";
-"[Experimental Nested Folders].description" = "إنشاء مجلدات داخل مجلدات. قد تواجه أخطاء في الواجهة الرسومية عند فتح / إغلاق مجلد داخل مجلد. لذلك أقترح حفظ حالة الأيقونة قبل الاستخدام.";
+"[Experimental Nested Folders].description" = "إنشاء مجلدات داخل المجلدات. قد تواجه أخطاء في الواجهة الرسومية عند فتح / إغلاق مجلد داخل مجلد. لذلك أقترح حفظ حالة الأيقونات قبل الاستخدام.";
 "Show Status Bar" = "إظهار شريط الحالة";
 "[Show Status Bar].description" = "إظهار شريط الحالة في المجلدات.";
 "Lock Folder Names" = "قفل أسماء المجلدات";
@@ -248,15 +248,15 @@
 "Hide Newly Installed Dot" = "إخفاء نقطة المثبتة حديثًا";
 "Hide Beta Dot" = "إخفاء نقطة التطبيقات التجريبية";
 "[Hide Dot].description" = "إخفاء نقطة 'المحدثة مؤخرًا' أو نقطة 'المثبتة حديثًا' أو نقطة 'التطبيقات التجريبية'.";
-"Lock Layout" = "قفل التخطيط";
+"Lock Layout" = "قفل الترتيب";
 "[Lock Layout].description" = "منع تحريك الأيقونات.";
 "Disable Jittering" = "تعطيل الارتعاش";
 "[Disable Jittering].description" = "تعطيل تأثير الارتعاش الحركي الذي يحدث عند الدخول في وضع تحرير الأيقونات.";
 "Hide Badge Text" = "إخفاء نص الشارة";
 "[Hide Badge Text].description" = "إخفاء نص الشارة مع الإبقاء على الخلفية.";
 "Badge Colors" = "ألوان الشارات.";
-"Light Text Color" = "لون نص فاتح";
-"Dark Text Color" = "لون نص داكن";
+"Light Text Color" = "لون النص الفاتح";
+"Dark Text Color" = "لون النص الداكن";
 "[Badge Colors].description" = "تخصيص لون الخلفية ولون النص لشعارات الأيقونات.";
 "Icon Image Effect" = "تأثير صورة الأيقونة";
 "[Icon Image Effect].description" = "تطبيق تأثيرات مختلفة على صور الأيقونات.";
