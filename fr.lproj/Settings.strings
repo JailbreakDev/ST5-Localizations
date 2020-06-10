@@ -92,7 +92,7 @@
 "Disable Icons Fly In" = "Désactiver le survol des icônes";
 "[Disable Icons Fly In].description" = "Désactive le survol des icônes au déverrouillage.";
 "Only perform on Lock" = "Seulement au verrouillage";
-"[Lock Animation].description" = "Sélectionnez une animation de verrouillage et changez la vitesse à l'aide du curseur. "Seulement au verrouillage" signifie que l'animation ne s'active que lorsque vous utilisez le bouton de verrouillage physique.";
+"[Lock Animation].description" = "Sélectionnez une animation de verrouillage et changez la vitesse à l'aide du curseur. 'Seulement au verrouillage' signifie que l'animation ne s'active que lorsque vous utilisez le bouton de verrouillage physique.";
 "Page Scroll Animation" = "Défilement de page";
 
 "Disable Battery Animation" = "Désactiver l'anim. de charge";
