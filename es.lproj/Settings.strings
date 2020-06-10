@@ -19,8 +19,7 @@
 
 /* Versions */
 "Unsupported Version" = "Versión no Admitida";
-"[Unsupported Version].description %@ %f" = "iOS %@ (%f) no es compatible actualmente. Si su versión es demasiado nueva, estoy trabajando en ella.
-😎. Si su versión es demasiado antigua, echa un vistazo a otras versiones de Springtomize.";
+"[Unsupported Version].description %@ %f" = "iOS %@ (%f) no es compatible actualmente. Si su versión es demasiado nueva, estoy trabajando en ella 😎. Si su versión es demasiado antigua, echa un vistazo a otras versiones de Springtomize.";
 
 /* Reset & Respring */
 "[Reset].description" = "Esto restablecerá la configuración de esta sección";
@@ -279,7 +278,6 @@
 "Light Label Color" = "Color etiqueta ligero";
 "Dark Label Color" = "Color etiqueta oscuro";
 "Custom Font Type" = "Tipo de fuente personalizada";
-"Custom Font" = "Fuente personalizada";
 "[Icon Labels].description" = "Personalizar diferentes aspectos de las etiquetas de iconos.";
 "Hide Icons" = "Ocultar iconos";
 "Hide Apps" = "Ocultar apps";
@@ -381,8 +379,8 @@
 "Background Color" = "Color de fondo";
 "[Background Color].description" = "Personalice el color de fondo del centro de notificaciones";
 "Hide Label" = "Ocultar etiqueta";
-"No Notifications Label" = "Etiqueta "Sin notificaciones"";
-"[No Notifications Label].description" = "Cambie el texto "Sin notificaciones" y su tamaño.";
+"No Notifications Label" = "Etiqueta 'Sin notificaciones'";
+"[No Notifications Label].description" = "Cambie el texto 'Sin notificaciones' y su tamaño.";
 "[Blur strength].description" = "Cambiar fuerza de desenfoque";
 "Today View" = "Hoy Ver";
 "Hide Edit Button" = "Ocultar botón editar";
@@ -487,15 +485,8 @@
 "[Request a Feature Options].message" = "Elija una opción para solicitar una función";
 
 /* Credits */
-"Developer" = "Desarrollador"; #desarrollador (male), desarrolladora (female) For if you wish to personalize it
+"Developer" = "Desarrollador"; /* desarrollador (male), desarrolladora (female) For if you wish to personalize it */
 "Previous Developer" = "Desarrollador anterior";
-"Designer" = "Diseñador"; # Diseñador (male), Diseñadora (female) For if you wish to personalize it
+"Designer" = "Diseñador"; /* Diseñador (male), Diseñadora (female) For if you wish to personalize it */
 "Translators" = "Traductores";
 "Beta Testers" = "Beta Testers";
-
-/* Version 5.1.7 */
-"Folder Icon" = "Icono carpeta";
-"Folder Icon Rows" = "Filas iconos carpeta";
-"Folder Icon Columns" = "Columnas iconos carpeta";
-"Hide Beta Feedback Item" = "Ocultar elemento de comentarios beta";
-"Save automatically" = "Guardar automáticamente";
