@@ -34,11 +34,11 @@
 "User Apps" = "Benutzer-Apps";
 
 /* Colors & Color Picker */
-"Light Color" = "Helle Farbe";
-"Dark Color" = "Dunkle Farbe";
-"Light Background Color" = "Helle Hintergrundfarbe";
-"Dark Background Color" = "Dunkle Hintergrundfarbe";
-"Color Picker" = "Farb-Wähler";
+"Light Color" = "Hellmodus-Farbe";
+"Dark Color" = "Dunkelmodus-Farbe";
+"Light Background Color" = "Hellmodus-Hintergrundfarbe";
+"Dark Background Color" = "Dunkelmodus-Hintergrundfarbe";
+"Color Picker" = "Farbe wählen";
 "Red" = "Rot";
 "Green" = "Grün";
 "Blue" = "Blau";
@@ -78,10 +78,10 @@
 "Credits" = "Danksagungen";
 
 /* Animations */
-"Custom Speed" = "Custom Speed";
-"Affect App Switcher" = "Affect App Switcher";
-"[Custom Speed].description" = "Change the speed of animations";
-"Lock Animation" = "Lock Animation";
+"Custom Speed" = "Benutzerdefinierte Geschwindigkeit";
+"Affect App Switcher" = "Beeinflusse den App-Switcher";
+"[Custom Speed].description" = "Ändern der Geschwindigkeit der Animationen";
+"Lock Animation" = "Sperr-Animation";
 
 /* Lock Animations */
 "Explode" = "Explodieren";
@@ -99,69 +99,69 @@
 "[Disable Battery Animation].description" = "Deaktiviert die Animation auf dem Sperrbildschirm, wenn ein Ladegerät angeschlossen wird. Es wird sofort angezeigt.";
 
 /* Page Scroll Animations */
-"Alternate Pulse" = "Alternate Pulse";
-"Alternate Roll" = "Alternate Roll";
-"Alternate Shuffle" = "Alternate Shuffle";
-"Bubble" = "Bubble";
-"Clash" = "Clash";
-"Come in and go down" = "Come in and go down";
-"Come in and go up" = "Come in and go up";
-"Compress" = "Compress";
-"Cube Inside" = "Cube Inside";
-"Cube Outside" = "Cube Outside";
-"Fade In Place" = "Fade In Place";
-"Interlace" = "Interlace";
-"Light Fade" = "Light Fade";
-"Long Leap" = "Long Leap";
+"Alternate Pulse" = "Alternativer Impuls";
+"Alternate Roll" = "Alternative Rolle";
+"Alternate Shuffle" = "Alternatives Mischen";
+"Bubble" = "Blase";
+"Clash" = "Zusammenprall";
+"Come in and go down" = "Rein & Runter";
+"Come in and go up" = "Rein & Rauf";
+"Compress" = "Kompresse";
+"Cube Inside" = "Würfel innen";
+"Cube Outside" = "Würfel aussen";
+"Fade In Place" = "Einblenden";
+"Interlace" = "Verschachteln";
+"Light Fade" = "Leicht verblassen";
+"Long Leap" = "Langer Sprung";
 "Magic Flip Icons" = "Magic Flip Icons";
-"Magic Flip Page" = "Magic Flip Page";
-"Pulse" = "Pulse";
-"Railway Horizontal" = "Railway Horizontal";
-"Railway Vertical" = "Railway Vertical";
-"Random" = "Random";
+"Magic Flip Page" = "Magic Flip Seite";
+"Pulse" = "Impuls";
+"Railway Horizontal" = "Eisenbahn horizontal";
+"Railway Vertical" = "Eisenbahn vertikal";
+"Random" = "Zufällig";
 "Rollerblade" = "Rollerblade";
-"Roll Page" = "Roll Page";
-"Rotate Clockwise" = "Rotate Clockwise";
-"Rotate Counter Clockwise" = "Rotate Counter Clockwise";
-"Seaside" = "Seaside";
-"Shrink" = "Shrink";
-"Shuffle" = "Shuffle";
-"Slide and Zoom" = "Slide and Zoom";
-"Spread" = "Spread";
-"Stairway Down" = "Stairway Down";
-"Stairway Up" = "Stairway Up";
-"Stretch" = "Stretch";
-"Tear Apart" = "Tear Apart";
-"Time Machine" = "Time Machine";
-"Vertical Down" = "Vertical Down";
-"Vertical Up" = "Vertical Up";
-"Windmill" = "Windmill";
-"Zoom In" = "Zoom In";
-"Zoom Out" = "Zoom Out";
-"[Page Scroll Animation].description" = "Select your favorite animation when scrolling from one page to another.";
+"Roll Page" = "Seite rollen";
+"Rotate Clockwise" = "Drehen im Uhrzeigersinn";
+"Rotate Counter Clockwise" = "Drehen gegen Uhrzeigersinn";
+"Seaside" = "Strand";
+"Shrink" = "Schrumpfen";
+"Shuffle" = "Mischen";
+"Slide and Zoom" = "Schieben und Zoomen";
+"Spread" = "Streuen";
+"Stairway Down" = "Treppe runter";
+"Stairway Up" = "Treppe rauf";
+"Stretch" = "Strecken";
+"Tear Apart" = "Zerreißen";
+"Time Machine" = "Zeitmaschine";
+"Vertical Down" = "Vertikal nach unten";
+"Vertical Up" = "Vertikal nach oben";
+"Windmill" = "Windmühle";
+"Zoom In" = "Hineinzoomen";
+"Zoom Out" = "Hinauszoomen";
+"[Page Scroll Animation].description" = "Wähle deine Lieblingsanimation aus, beim Wischen von einer Seite zur anderen.";
 
-"Use Old Screenshot Style" = "Use Old Screenshot Style";
-"Light Screenshot Color" = "Light Screenshot Color";
-"Dark Screenshot Color" = "Dark Screenshot Color";
-"[Flash Color].description" = "Specify a custom color for the flash shown when taking a screenshot.";
+"Use Old Screenshot Style" = "Alten Screenshot-Stil verwenden";
+"Light Screenshot Color" = "Hellmodus-Screenshotfarbe";
+"Dark Screenshot Color" = "Dunkelmodus-Screenshotfarbe";
+"[Flash Color].description" = "Benutzerdefinierte Farbe für den Blitz, der beim Aufnehmen eines Screenshots angezeigt wird.";
 
 /* App Switcher */
-"Hide Icons" = "Hide Icons";
-"[Hide Stuff].description" = "Hide the icons and text above App Switcher cards";
-"Label Appearance" = "Label Appearance";
-"Title Font Size" = "Title Font Size";
-"Light Title Color" = "Light Title Color";
-"Dark Title Color" = "Dark Title Color";
-"Subtitle Font Size" = "Subtitle Font Size";
-"Custom Subtitle" = "Custom Subtitle";
-"[App Switcher Title Label].description" = "Define how the label looks like";
-"Use Grid Switcher" = "Use Grid Switcher";
-"Hide Suggestions" = "Hide Suggestions";
-"Card Corner Radius" = "Card Corner Radius";
-"Corner Radius" = "Corner Radius";
-"Resize Percentage" = "Resize Percentage";
-"[Resize Pages].description" = "Resizes the App Switcher Cards";
-"Inactive Apps" = "Inactive Apps";
+"Hide Icons" = "Icons ausblenden";
+"[Hide Stuff].description" = "Blende die Icons und den Text über den App-Switcher-Karten aus";
+"Label Appearance" = "Erscheinungsbild der Beschriftung";
+"Title Font Size" = "Titel-Schriftgröße";
+"Light Title Color" = "Hellmodus-Titelfarbe";
+"Dark Title Color" = "Dunkelmodus-Titelfarbe";
+"Subtitle Font Size" = "Untertitel-Schriftgröße";
+"Custom Subtitle" = "Benutzerdefinierter Untertitel";
+"[App Switcher Title Label].description" = "Definiere, wie das Etikett aussehen soll";
+"Use Grid Switcher" = "Verwende Grid-Switcher";
+"Hide Suggestions" = "Vorschläge ausblenden";
+"Card Corner Radius" = "Karten-Eckenradius";
+"Corner Radius" = "Eckenradius";
+"Resize Percentage" = "Größenänderung in Prozent";
+"[Resize Pages].description" = "Ändert die Größe der App-Switcher-Karten";
+"Inactive Apps" = "Inaktive Apps";
 
 /* Inactive Apps mode */
 "Darken" = "Darken";
