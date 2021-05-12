@@ -1,81 +1,81 @@
 /* General - Everything that appears in multiple places */
-"None" = "None";
-"Default" = "Default";
+"None" = "Keine Änderung";
+"Default" = "Standard";
 "Blur" = "Blur";
-"Reset" = "Reset";
-"Hide Labels" = "Hide Labels";
+"Reset" = "Zurücksetzen";
+"Hide Labels" = "Beschriftungen ausblenden";
 "Original" = "Original";
-"Hidden" = "Hidden";
-"Custom Text" = "Custom Text";
-"Disable" = "Disable";
-"Font Size" = "Font Size";
-"Hide Items" = "Hide Items";
-"Do Not Disturb" = "Do Not Disturb";
-"Time" = "Time";
-"Cancel" = "Cancel";
-"Continue" = "Continue";
-"Dismiss" = "Dismiss";
-"[Springtomize].thanks" = "Thank you for using Springtomize 5";
-"Hide Background" = "Hide Background";
+"Hidden" = "ausblenden";
+"Custom Text" = "Eigener Text";
+"Disable" = "Deaktiviere";
+"Font Size" = "Schriftgröße";
+"Hide Items" = "Objekte ausblenden";
+"Do Not Disturb" = "Nicht stören";
+"Time" = "Zeit";
+"Cancel" = "Abbrechen";
+"Continue" = "Fortsetzen";
+"Dismiss" = "Verwerfen";
+"[Springtomize].thanks" = "Vielen Dank für die Verwendung von Springtomize 5";
+"Hide Background" = "Hintergrund ausblenden";
 
 /* Versions */
-"Unsupported Version" = "Unsupported Version";
-"[Unsupported Version].description %@ %f" = "iOS %@ (%f) is currently not supported. If your version is too new, I am working on it 😎. If it is too old, please check out other Springtomize versions.";
+"Unsupported Version" = "Nicht unterstützte Version";
+"[Unsupported Version].description %@ %f" = "iOS %@ (%f) wird derzeit nicht unterstützt. Wenn Ihre Version zu neu ist, arbeite ich daran 😎. Wenn es zu alt ist, schauen Sie sich bitte andere Springtomize-Versionen an.";
 
 /* Reset & Respring */
-"[Reset].description" = "This will reset the settings for this section";
-"[Reset].message" = "Please respring after a reset";
-"'%@' requires a respring" = "'%@' requires a respring";
-"[Respring].message" = "Do you really want to respring?";
+"[Reset].description" = "Dadurch werden die Einstellungen für diesen Abschnitt zurückgesetzt";
+"[Reset].message" = "Bitte nach einem Reset einen Respring durchführen";
+"'%@' requires a respring" = "'%@' benötigt einen Respring";
+"[Respring].message" = "Willst du wirklich einen Respring durchführen?";
 
 /* Application List */
-"Available Applications" = "Available Applications";
-"System Apps" = "System Apps";
-"User Apps" = "User Apps";
+"Available Applications" = "Verfügbare Apps";
+"System Apps" = "System-Apps";
+"User Apps" = "Benutzer-Apps";
 
 /* Colors & Color Picker */
-"Light Color" = "Light Color";
-"Dark Color" = "Dark Color";
-"Light Background Color" = "Light Background Color";
-"Dark Background Color" = "Dark Background Color";
-"Color Picker" = "Color Picker";
-"Red" = "Red";
-"Green" = "Green";
-"Blue" = "Blue";
+"Light Color" = "Helle Farbe";
+"Dark Color" = "Dunkle Farbe";
+"Light Background Color" = "Helle Hintergrundfarbe";
+"Dark Background Color" = "Dunkle Hintergrundfarbe";
+"Color Picker" = "Farb-Wähler";
+"Red" = "Rot";
+"Green" = "Grün";
+"Blue" = "Blau";
 "Alpha" = "Alpha";
-"[Alpha].description" = "The alpha level of your color";
+"[Alpha].description" = "Das Alpha-Level ihrer Farbe";
 "Hex" = "Hex";
-"[Hex].description" = "Enter a hex value";
+"[Hex].description" = "Hex-Wert eingeben";
 
 /* App List */
-"Available Apps" = "Available Apps";
-"System Apps" = "System Apps";
-"User Apps" = "User Apps";
+"Available Apps" = "Verfügbare Apps";
+"System Apps" = "System-Apps";
+"User Apps" = "Benutzer-Apps";
 
 /* Main View Header */
 "Respring" = "Respring";
-"[Springtomize].description" = "Customize your iOS Device like never before";
+"[Springtomize].description" = "Passen Sie Ihr iOS-Gerät an, wie nie zuvor";
 
 /* Sections */
-"Settings" = "Settings";
-"Enabled" = "Enabled";
-"Animations" = "Animations";
-"App Switcher" = "App Switcher";
-"Control Center" = "Control Center";
+"Settings" = "Einstellungen";
+"Enabled" = "Aktiviert";
+"Animations" = "Animationen";
+"App Switcher" = "App-Switcher";
+"Control Center" = "Kontrollzentrum";
 "Dock" = "Dock";
-"Folders" = "Folders";
+"Folders" = "Ordner";
 "Icons" = "Icons";
-"Lock Screen" = "Lock Screen";
-"Miscellaneous" = "Miscellaneous";
-"Notification Center" = "Notification Center";
-"Pages" = "Pages";
-"Status Bar" = "Status Bar";
-"Profiles" = "Profiles";
-"[Profiles].description" = "Save configurations into profiles";
-"More" = "More";
-"Bug Reporting" = "Bug Reporting";
-"Request a Feature" = "Request a Feature";
-"Credits" = "Credits";
+"Lock Screen" = "Sperrbildschirm";
+"Miscellaneous" = "Sonstiges";
+"Notification Center" = "Benachrichtigungszentrum";
+"Pages" = "Seiten";
+"Status Bar" = "Statusleiste";
+"Profiles" = "Profile";
+"[Profiles].description" = "Konfigurationen in Profilen speichern";
+"More" = "Mehr";
+"Bug Reporting" = "Fehler melden;
+"Request a Feature" = "Funktion anfragen";
+"Credits" = "Danksagungen";
 
 /* Animations */
 "Custom Speed" = "Custom Speed";
