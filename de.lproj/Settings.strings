@@ -1,5 +1,5 @@
 /* General - Everything that appears in multiple places */
-"None" = "Keine Änderung";
+"None" = "Nichts";
 "Default" = "Standard";
 "Blur" = "Blur";
 "Reset" = "Zurücksetzen";
@@ -84,19 +84,19 @@
 "Lock Animation" = "Lock Animation";
 
 /* Lock Animations */
-"Explode" = "Explode";
-"Old TV" = "Old TV";
-"Slide Away" = "Slide Away";
-"Slide left to right" = "Slide left to right";
-"Zoom out" = "Zoom out";
-"Disable Icons Fly In" = "Disable Icons Fly In";
-"[Disable Icons Fly In].description" = "Disables the icons flying in after unlocking";
-"Only perform on Lock" = "Only perform on lock";
-"[Lock Animation].description" = "Select a lock animation and change the speed using the slider. Only performing on Lock means that the lock animation only activates when using the physical lock button.";
-"Page Scroll Animation" = "Page Scroll Animation";
+"Explode" = "Explodieren";
+"Old TV" = "Alter TV";
+"Slide Away" = "Davon schweben";
+"Slide left to right" = "Schieben von links nach rechts";
+"Zoom out" = "Rauszoomen";
+"Disable Icons Fly In" = "Deaktiviere Icons Fly-In";
+"[Disable Icons Fly In].description" = "Deaktiviert das Einfliegen der Icons nach dem Entsperren";
+"Only perform on Lock" = "Nur beim Sperren ausführen";
+"[Lock Animation].description" = "Wähle eine Sperranimation und ändere die Geschwindigkeit mit dem Schieberegler. Nur beim Sperren ausführen bedeutet, dass die Sperr-Animation nur aktiviert wird, wenn die physische Sperrtaste verwendet wird.";
+"Page Scroll Animation" = "Seiten-Scroll-Animation";
 
-"Disable Battery Animation" = "Disable Battery Animation";
-"[Disable Battery Animation].description" = "Disables the animation on Lockscreen when plugging in a charger. It will show instantly.";
+"Disable Battery Animation" = "Deaktiviere Batterieanimation";
+"[Disable Battery Animation].description" = "Deaktiviert die Animation auf dem Sperrbildschirm, wenn ein Ladegerät angeschlossen wird. Es wird sofort angezeigt.";
 
 /* Page Scroll Animations */
 "Alternate Pulse" = "Alternate Pulse";
