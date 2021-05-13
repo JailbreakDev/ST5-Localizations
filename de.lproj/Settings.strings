@@ -1,7 +1,7 @@
 /* General - Everything that appears in multiple places */
 "None" = "Nichts";
 "Default" = "Standard";
-"Blur" = "Blur";
+"Blur" = "Unschärfe";
 "Reset" = "Zurücksetzen";
 "Hide Labels" = "Beschriftungen ausblenden";
 "Original" = "Original";
@@ -88,14 +88,14 @@
 "Old TV" = "Alter TV";
 "Slide Away" = "Davon schweben";
 "Slide left to right" = "Schieben von links nach rechts";
-"Zoom out" = "Rauszoomen";
+"Zoom out" = "Raus zoomen";
 "Disable Icons Fly In" = "Deaktiviere Icons Fly-In";
 "[Disable Icons Fly In].description" = "Deaktiviert das Einfliegen der Icons nach dem Entsperren";
 "Only perform on Lock" = "Nur beim Sperren ausführen";
 "[Lock Animation].description" = "Wähle eine Sperranimation und ändere die Geschwindigkeit mit dem Schieberegler. Nur beim Sperren ausführen bedeutet, dass die Sperr-Animation nur aktiviert wird, wenn die physische Sperrtaste verwendet wird.";
 "Page Scroll Animation" = "Seiten-Scroll-Animation";
 
-"Disable Battery Animation" = "Deaktiviere Batterieanimation";
+"Disable Battery Animation" = "Batterieanimation deaktivieren";
 "[Disable Battery Animation].description" = "Deaktiviert die Animation auf dem Sperrbildschirm, wenn ein Ladegerät angeschlossen wird. Es wird sofort angezeigt.";
 
 /* Page Scroll Animations */
@@ -164,35 +164,35 @@
 "Inactive Apps" = "Inaktive Apps";
 
 /* Inactive Apps mode */
-"Darken" = "Darken";
-"Hide" = "Hide";
-"Mark as inactive" = "Mark as inactive";
+"Darken" = "Verdunkeln";
+"Hide" = "Verstecken";
+"Mark as inactive" = "Als inaktiv markieren";
 
 /* Control Center */
-"[Disable CC].description" = "Disable the Control Center everywhere";
-"[CC Background Color].description" = "Change the background color of the Control Center.";
-"Light Toggle Color" = "Light Toggle Color";
-"Dark Toggle Color" = "Dark Toggle Color";
-"[CC Toggle Color].description" = "Change the background color of the Control Center toggles.";
-"Hide Sections" = "Hide Sections";
+"[Disable CC].description" = "Kontrollzentrum überall deaktivieren";
+"[CC Background Color].description" = "Ändert die Hintergrundfarbe des Kontrollzentrums.";
+"Light Toggle Color" = "Hellmodus-Tastenfarbe";
+"Dark Toggle Color" = "Dunkelmodus-Tastenfarbe";
+"[CC Toggle Color].description" = "Ändert die Hintergrundfarbe des Kontrollzentrums.";
+"Hide Sections" = "Abschnitte ausblenden";
 
 /* CC Sections */
-"AirPlay Mirroring" = "AirPlay Mirroring";
-"Brightness" = "Brightness";
-"Connectivity" = "Connectivity";
-"Now Playing" = "Now Playing";
-"Rotation Lock" = "Rotation Lock";
-"Volume" = "Volume";
-"[CC Sections].description" = "Hide sections in Control Center by turning the switch on.";
+"AirPlay Mirroring" = "AirPlay Spiegelung";
+"Brightness" = "Helligkeit";
+"Connectivity" = "Konnektivität";
+"Now Playing" = "Aktuelle Wiedergabe";
+"Rotation Lock" = "Ausrichtungssperre";
+"Volume" = "Lautstärke";
+"[CC Sections].description" = "Verstecke Abschnitte im Kontrollzentrum, durch Aktivieren dieses Schalters.";
 
-"Blur Effect" = "Blur Effect";
-"Disable Blur" = "Disable Blur";
-"[CC Disable Blur].description" = "Disable the blur effect on Control Center.";
+"Blur Effect" = "Unschärfe-Effekt";
+"Disable Blur" = "Unschärfe deaktivieren";
+"[CC Disable Blur].description" = "Deaktiviere den Unschärfe-Effekt im Kontrollzentrum.";
 
 /* Dock */
-"Hide Dock" = "Hide Dock";
-"[Hide Dock].description" = "Hide the Dock from SpringBoard.";
-"[Hide Background].description" = "Hide the Dock background.";
+"Hide Dock" = ""Verstecke das Dock vor SpringBoard."";
+"[Hide Dock].description" = "Verstecke das Dock im SpringBoard.";
+"[Hide Background].description" = ""Verstecke das Dock vor SpringBoard."";
 "Dock on Top" = "Dock on Top";
 "[Dock on Top].description" = "Puts the dock on top of the screen.";
 
