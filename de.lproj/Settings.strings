@@ -225,18 +225,19 @@
 "[Fast Open / Close Folders].description" = "Ordner sofort öffnen und schließen.";
 
 /* Icons */
-"Dock Settings" = "Dock Settings";
-"Folder Settings" = "Folder Settings";
-"Page Settings" = "Page Settings";
-"Sort alphabetically" = "Sort alphabetically";
-"[Sort alphabetically].description" = "Sorts your apps alphabetically. Be aware that if you turn it off, your apps will still be sorted alphabetically until you manually change the layout. You should save the icon state before reapply it later.";
-"Icon State" = "Icon State";
-"Save Icon State" = "Save Icon State";
-"[Save Icon State].message" = "Do you really want to save your current icon state?";
-"[Save Icon State].hud" = "Icon State saved!";
-"Apply Icon State" = "Apply Icon State";
-"[Apply Icon State].message" = "Do you really want to apply the saved icon state?";
-"[Apply Icon State].hud" = "Icon State applied!";
+"Dock Settings" = "Dock-Einstellungen";
+"Folder Settings" = "Ordner-Einstellungen";
+"Page Settings" = "Seiten-Einstellungen";
+"Sort alphabetically" = "Alphabetisch sortieren";
+"[Sort alphabetically].description" = "Sortiert Ihre Apps alphabetisch. Beachte, dass Ihre Apps beim Deaktivieren weiterhin alphabetisch sortiert werden, bis das Layout manuell geändert wird. Speichere voher dein Icon-Layout.";
+"Icon State" = "Icon-Layout";
+"Save Icon State" = "Icon-Layout speichern";
+"[Save Icon State].message" = "Möchten Sie wirklich ihr aktuelles Icon-Layout speichern?";
+"[Save Icon State].hud" = "Icon-Layout gespeichert!";
+"Apply Icon State" = "Icon-Layout anwenden";
+"[Apply Icon State].message" = "Möchten Sie das gespeicherte Icon-Layout wirklich anwenden?";
+"[Apply Icon State].hud" = "Icon-Layout
+angewendet!";
 "[Icon State].description" = "Save icon state if you are happy with it and in case you need to rejailbreak or if you get into safe mode, you can later apply the previously saved state instead of reordering icons manually.";
 "App Context Menus (3D Touch)" = "App Context Menus (3D Touch)";
 "Hide Delete Item" = "Hide Delete Item";
