@@ -236,14 +236,13 @@
 "[Save Icon State].hud" = "Icon-Layout gespeichert!";
 "Apply Icon State" = "Icon-Layout anwenden";
 "[Apply Icon State].message" = "Möchten Sie das gespeicherte Icon-Layout wirklich anwenden?";
-"[Apply Icon State].hud" = "Icon-Layout
-angewendet!";
-"[Icon State].description" = "Save icon state if you are happy with it and in case you need to rejailbreak or if you get into safe mode, you can later apply the previously saved state instead of reordering icons manually.";
-"App Context Menus (3D Touch)" = "App Context Menus (3D Touch)";
-"Hide Delete Item" = "Hide Delete Item";
-"Hide Share Item" = "Hide Share Item";
-"Hide Edit Homescreen Item" = "Hide Edit Homescreen Item";
-"[Hide Context Menu Items].description" = "Hide different items from the context menu";
+"[Apply Icon State].hud" = "Icon-Layout angewendet!";
+"[Icon State].description" = "Speichern Sie ihr Icon-Layout, wenn Sie damit zufrieden sind und falls Sie erneut einen Jailbreak durchführen müssen oder wenn Sie in den abgesicherten Modus wechseln, können Sie das zuvor gespeicherte Layout später anwenden, anstatt die Icons manuell neu anzuordnen.";
+"App Context Menus (3D Touch)" = "App-Kontextmenüs (3D Touch)";
+"Hide Delete Item" = "App entfernen ausblenden";
+"Hide Share Item" = "App teilen ausblenden";
+"Hide Edit Homescreen Item" = "Home-Bildschirm bearbeiten ausblenden";
+"[Hide Context Menu Items].description" = "Verschiedene Elemente aus dem Kontextmenü ausblenden";
 "Hide Updated Dot" = "Hide Updated Dot";
 "Hide Newly Installed Dot" = "Hide Newly Installed Dot";
 "Hide Beta Dot" = "Hide Beta Dot";
