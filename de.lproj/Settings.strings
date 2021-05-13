@@ -190,11 +190,11 @@
 "[CC Disable Blur].description" = "Deaktiviere den Unschärfe-Effekt im Kontrollzentrum.";
 
 /* Dock */
-"Hide Dock" = ""Verstecke das Dock vor SpringBoard."";
-"[Hide Dock].description" = "Verstecke das Dock im SpringBoard.";
-"[Hide Background].description" = ""Verstecke das Dock vor SpringBoard."";
-"Dock on Top" = "Dock on Top";
-"[Dock on Top].description" = "Puts the dock on top of the screen.";
+"Hide Dock" = "Dock ausblenden";
+"[Hide Dock].description" = "Verstecke das Dock auf dem SpringBoard.";
+"[Hide Background].description" = "Verstecke den Dock-Hintergrund.";
+"Dock on Top" = "Dock nach oben";
+"[Dock on Top].description" = "Setzt das Dock ganz nach oben auf den Bildschirm.";
 
 /* Folders */
 "Nested Folders" = "Nested Folders";
