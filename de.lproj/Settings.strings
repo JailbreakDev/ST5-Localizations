@@ -473,27 +473,27 @@
 
 /* More Section */
 "Version %@" = "Version %@";
-"Mail not configured" = "Mail not configured";
-"[Mail not configured].message" = "It seems that you do not have any mail account configured on this device.";
-"Error sending Email" = "Error sending Email";
-"[Error sending Email].message" = "We were unable to send your email. Please try again later.";
-"Bug Report Options" = "Bug Report Options";
-"[Bug Report Options].message" = "Choose an option for reporting bugs";
-"Mail" = "Mail";
+"Mail not configured" = "Mail nicht konfiguriert";
+"[Mail not configured].message" = "Es scheint, dass auf diesem Gerät kein E-Mail-Konto konfiguriert ist.";
+"Error sending Email" = "Fehler beim Senden der E-Mail";
+"[Error sending Email].message" = "Wir konnten Ihre E-Mail nicht senden. Bitte versuchen Sie es später erneut.";
+"Bug Report Options" = "Möglichkeiten zur Fehlermeldung";
+"[Bug Report Options].message" = "Wähle eine Option zum Melden von Fehlern";
+"Mail" = "E-Mail";
 "Discord" = "Discord";
-"Request a Feature Options" = "Request a Feature options";
-"[Request a Feature Options].message" = "Choose an option for requesting a feature";
+"Request a Feature Options" = "Möglichkeiten zur Anfrage neuer Funktionen";
+"[Request a Feature Options].message" = "Wähle eine Option zum Anfragen neuer Funktionen";
 
 /* Credits */
-"Developer" = "Developer";
-"Previous Developer" = "Previous Developer";
+"Developer" = "Entwickler";
+"Previous Developer" = "Vorheriger Entwickler";
 "Designer" = "Designer";
-"Translators" = "Translators";
-"Beta Testers" = "Beta Testers";
+"Translators" = "Übersetzer";
+"Beta Testers" = "Beta-Tester";
 
 /* Version 5.1.7 */
-"Folder Icon" = "Folder Icon";
-"Folder Icon Rows" = "Folder Icon Rows";
-"Folder Icon Columns" = "Folder Icon Columns";
-"Hide Beta Feedback Item" = "Hide Beta Feedback Item";
-"Save automatically" = "Save automatically";
+"Folder Icon" = "Ordner-Icon";
+"Folder Icon Rows" = "Ordner-Iconreihen";
+"Folder Icon Columns" = "Ordner-Iconspalten";
+"Hide Beta Feedback Item" = "Beta-Feedback-App ausblenden";
+"Save automatically" = "Automatisch speichern";
