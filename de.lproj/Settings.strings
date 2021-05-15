@@ -272,20 +272,20 @@
 "Red Ascendant" = "Roter Aszendent";
 "Green Ascendant" = "Grüner Aszendent";
 
-"[Transparency].description" = "Change to transparency of icon images.";
-"Icon Labels" = "Icon Labels";
-"Light Label Color" = "Light Label Color";
-"Dark Label Color" = "Dark Label Color";
-"Custom Font Type" = "Custom Font Type";
-"Custom Font" = "Custom Font";
-"[Icon Labels].description" = "Customize different aspects of icon labels.";
-"Hide Icons" = "Hide Icons";
-"Hide Apps" = "Hide Apps";
-"[Hide Apps].description" = "Hide any installed application.";
-"Disable Live Icons" = "Disable Live Icons";
-"Live Clock" = "Live Clock";
-"All Live Icons" = "All Live Icons";
-"[Live Icons].description" = "Disables the live icons on SpringBoard. Note that disabling the live clock will stop it at the current time, while disabling all live icons uses the default static icon for that app, which might look better.";
+"[Transparency].description" = "Wechseln Sie zur Transparenz von Iconbildern.";
+"Icon Labels" = "Icon-Beschriftungen";
+"Light Label Color" = "Hellmodus-Textfarbe";
+"Dark Label Color" = "Dunkelmodus-Textfarbe";
+"Custom Font Type" = "Benutzerdefinierte Schriftart";
+"Custom Font" = "Benutzerdefinierte Schrift";
+"[Icon Labels].description" = "Passen Sie verschiedene Aspekte von Icon-Beschriftungen an.";
+"Hide Icons" = "Icons ausblenden";
+"Hide Apps" = "Apps ausblenden";
+"[Hide Apps].description" = "Verstecke jede beliebige installierte Anwendung.";
+"Disable Live Icons" = "Live-Icons deaktivieren";
+"Live Clock" = "Live-Uhr";
+"All Live Icons" = "Alle Live-Icons";
+"[Live Icons].description" = "Deaktiviert die Live-Icons auf dem SpringBoard. Wenn Sie die Live-Uhr deaktivieren, wird sie zum aktuellen Zeitpunkt gestoppt. Beim Deaktivieren aller Live-Icons wird das statische Standard-Icon für diese App verwendet, das möglicherweise besser aussieht.";
 
 /* Dock / Folder / Pages Settings */
 "Tweak Information" = "Tweak Information";
