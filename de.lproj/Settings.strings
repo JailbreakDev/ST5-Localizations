@@ -289,7 +289,7 @@
 
 /* Dock / Folder / Pages Settings */
 "Tweak Information" = "Tweak Information";
-"[Tweak Installed] %@" = "Es scheint, dass Sie %@ installiert haben. Aufgrund bekannter UI-Fehler zwischen Tweak und Springtomize werden Einstellungen wie Zeilen / Spalten und Einsätze deaktiviert, um Probleme zu vermeiden. Wenn Springtomize eine spezifische Einstellung bereitstellt, die fälschlicherweise deaktiviert wurde, können Sie es mit dem Schalter überschreiben. ";
+"[Tweak Installed] %@" = "Es scheint, dass Sie %@ installiert haben. Aufgrund bekannter UI-Fehler zwischen Tweak und Springtomize werden Einstellungen wie Zeilen / Spalten und Einschübe deaktiviert, um Probleme zu vermeiden. Wenn Springtomize eine spezifische Einstellung bereitstellt, die fälschlicherweise deaktiviert wurde, können Sie es mit dem Schalter überschreiben. ";
 "Override" = "Überschreiben";
 "Icon Settings" = "Icon-Einstellungen";
 "[Icon Settings].description" = "Wenn die Option 'Beim Bearbeiten ignorieren' aktiv ist, wird während der Bearbeitung auf die normale Größe zurückgesetzt, um das Verschieben zu erleichtern.";
@@ -300,76 +300,76 @@
 "Hide Badges" = "Kennzeichen verstecken";
 "[Hide Badges Moved].description" = "Das Ausblenden von Kennzeichen bei allen Icons wurde in die einzelnen Abschnitte für Dock, Ordner und Seiten verschoben.";
 "Coverflow" = "Cover Flow";
-"Landscape Icons" = "Landscape Icons"; /* Dock */
-"Columns" = "Columns";
-"Rows" = "Rows";
-"Landscape Columns" = "Landscape Columns";
-"Landscape Rows" = "Landscape Rows";
-"Insets" = "Insets";
-"[Insets].description" = "Change the distance from the edges of the screen.";
-"Change Top Inset" = "Change Top Inset";
-"Change Left Inset" = "Change Left Inset";
-"Change Bottom Inset" = "Change Bottom Inset";
-"Change Right Inset" = "Change Right Inset";
-"Top Inset" = "Top Inset";
-"Left Inset" = "Left Inset";
-"Bottom Inset" = "Bottom Inset";
-"Right Inset" = "Right Inset";
-"Invert" = "Invert";
-"[Coverflow].description" = "Change several settings for the Coverflow effect";
-"Factor" = "Factor";
-"Perspective" = "Perspective";
+"Landscape Icons" = "Querformat-Icons"; /* Dock */
+"Columns" = "Spalten";
+"Rows" = "Reihen";
+"Landscape Columns" = "Querformat-Spalten";
+"Landscape Rows" = "Querformat-Reihen";
+"Insets" = "Einschübe";
+"[Insets].description" = "Ändert die Abstände der Bildschirmränder.";
+"Change Top Inset" = "Oberen Einschub ändern";
+"Change Left Inset" = "Linken Einschub ändern";
+"Change Bottom Inset" = "Unteren Einschub ändern";
+"Change Right Inset" = "Rechten Einschub ändern";
+"Top Inset" = "Oberer Einschub";
+"Left Inset" = "Linker Einschub";
+"Bottom Inset" = "Unterer Einschub";
+"Right Inset" = "Rechter Einschub";
+"Invert" = "Umkehren";
+"[Coverflow].description" = "Mehrere Einstellungen für den Cover-Flow-Effekt ändern";
+"Factor" = "Faktor";
+"Perspective" = "Perspektive";
 
 /* Lock Screen / Notification Center */
 "Information" = "Information";
-"[LS / NC - %@].info" = "Lockscreen and Notification Center are the same on iOS 13. Therefore changing settings here might also show up in %@.";
+"[LS / NC - %@].info" = "Sperrbildschirm und Benachrichtigungszentrum sind unter iOS 13 identisch. Daher werden möglicherweise auch Änderungen der Einstellungen hier unter %@ angezeigt.";
 
 /* Lock Screen */
-"Camera" = "Camera";
-"Today View" = "Today View / Spotlight";
-"Now Playing" = "Now Playing";
-"Face ID Lock" = "Face ID Lock";
-"Large Battery" = "Large Battery";
-"Flashlight Quick Action" = "Flashlight Quick Action";
-"Camera Quick Action" = "Camera Quick Action";
-"[Hide Items].description" = "Hide / Disable Lockscreen items if enabled";
-"Label Style" = "Label Style";
+"Camera" = "Kamera";
+"Today View" = "Heute-Ansicht / Suche";
+"Now Playing" = "Gerade gespielt";
+"Face ID Lock" = "Face ID Sperre";
+"Large Battery" = "Große Batterie";
+"Flashlight Quick Action" = "Taschenlampe Schnell-Aktion";
+"Camera Quick Action" = "Kamera Schnell-Aktion";
+"[Hide Items].description" = "Sperrbildschirm-Elemente ausblenden / deaktivieren, falls aktiviert";
+"Label Style" = "Beschriftungs-Stil";
 
 /* Label Style */
-"Current Time" = "Current Time";
+"Current Time" = "Aktuelle Uhrzeit";
 
-"[Label Style].description" = "Choose a text for the 'Press home to unlock' label.";
-"Hide Grabber" = "Hide Grabber";
-"[Hide Grabber].description" = "Hide the grabber in Notification Center / Lockscreen. If you have the Home Bar disabled, it may not show up.";
-"Hide CC Grabber" = "Hide CC Grabber";
-"[Hide CC Grabber].description" = "Hide the CC Grabber on the top right.";
-"Auto Dismiss" = "Auto Dismiss";
-"[Auto Dismiss].description" = "Automatically dismisses the Lockscreen once unlocked.";
-"Light Time Color" = "Light Time Color";
-"Dark Time Color" = "Dark Time Color";
-"Time Font Size" = "Time Font Size";
-"Time Style" = "Time Style";
-"[Time].description" = "Customize the looks of the time on Lockscreen";
+"[Label Style].description" = "Wählen Sie einen eigenen Entsperrtext aus.";
+"Hide Grabber" = "Grabber ausblenden";
+"[Hide Grabber].description" = "Versteckt den Grabber im Benachrichtigungszentrum / Sperrbildschirm. Wenn Sie die Home Bar deaktiviert haben, wird sie möglicherweise nicht angezeigt.";
+"Hide CC Grabber" = "Kontrollzentrum-Grabber ausblenden";
+"[Hide CC Grabber].description" = "Versteckt den Kontrollzentrum-Grabber oben rechts.";
+"Auto Dismiss" = "Automatisches Schließen";
+"[Auto Dismiss].description" = "Schließt den Sperrbildschirm automatisch, sobald er entsperrt ist.";
+"Light Time Color" = "Hellmodus-Uhrzeitfarbe";
+"Dark Time Color" = "Dunkelmodus-Uhrzeitfarbe";
+"Time Font Size" = "'Uhrzeit-Schriftgröße";
+"Time Style" = "Uhrzeit-Stil";
+"[Time].description" = "Passen Sie das Aussehen der Uhrzeit auf dem Sperrbildschirm an";
 
 /* Time Style */
-"Display Seconds" = "Display Seconds";
+"Display Seconds" = "Sekunden anzeigen";
 
-"Date" = "Date";
-"Hide Date" = "Hide Date";
-"Light Date Color" = "Light Date Color";
-"Dark Date Color" = "Dark Date Color";
-"Date Font Size" = "Date Font Size";
-"Date Style" = "Date Style";
+"Date" = "Datum";
+"Hide Date" = "Datum ausblenden";
+"Light Date Color" = "Hellmodus-Datumsfarbe";
+"Dark Date Color" = "Dunkelmodus-Datumsfarbe";
+"Date Font Size" = "Datum-Schriftgröße";
+"Date Style" = "Datum-Styl";
 
 /* Date Style */
-"Compact Date Format" = "Compact Date Format";
+"Compact Date Format" = "Kompaktes Datumsformat";
 
-"[Date].description" = "Customize the looks of the date on Lockscreen";
+"[Date].description" = "Passen Sie das Aussehen des Datums auf dem Sperrbildschirm an";
 
 /* Miscellaneous */
-"Disable Charging Sound" = "Disable Charging Sound";
-"[Disable Charging Sound].description" = "Disable the Chime sound when connecting a charger";
-"Disable Screenshot Sound" = "Disable Screenshot Sound";
+"Disable Charging Sound" = "Ladesound deaktivieren";
+"[Disable Charging Sound].description" = "Deaktiviert den Sound, wenn ein Ladegerät angeschlossen wird.";
+"Disable Screenshot Sound" = "Screenshot-Sound deaktivieren";
 
 /* Notification Center */
 "Disable in Apps" = "Disable in Apps";
