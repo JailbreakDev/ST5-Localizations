@@ -289,17 +289,17 @@
 
 /* Dock / Folder / Pages Settings */
 "Tweak Information" = "Tweak Information";
-"[Tweak Installed] %@" = "It seems that you have %@ installed. Due to known UI Bugs between the Tweak and Springtomize, settings such as rows / columns and insets are disabled to avoid problems. If there is a unique setting that Springtomize provides which falsely has been disabled, you can overwrite it above with the switch.";
-"Override" = "Override";
-"Icon Settings" = "Icon Settings";
-"[Icon Settings].description" = "Ignoring while editing will snap back to normal size to make moving easier.";
-"Resize" = "Resize";
-"Choose A Size" = "Choose A Size";
-"Ignore while editing" = "Ignore while editing";
-"Hide Things" = "Hide Things";
-"Hide Badges" = "Hide Badges";
-"[Hide Badges Moved].description" = "Hide badges on all icons has been moved to individual sections for Dock, Folders and Pages.";
-"Coverflow" = "Coverflow";
+"[Tweak Installed] %@" = "Es scheint, dass Sie %@ installiert haben. Aufgrund bekannter UI-Fehler zwischen Tweak und Springtomize werden Einstellungen wie Zeilen / Spalten und Einsätze deaktiviert, um Probleme zu vermeiden. Wenn Springtomize eine spezifische Einstellung bereitstellt, die fälschlicherweise deaktiviert wurde, können Sie es mit dem Schalter überschreiben. ";
+"Override" = "Überschreiben";
+"Icon Settings" = "Icon-Einstellungen";
+"[Icon Settings].description" = "Wenn die Option 'Beim Bearbeiten ignorieren' aktiv ist, wird während der Bearbeitung auf die normale Größe zurückgesetzt, um das Verschieben zu erleichtern.";
+"Resize" = "Größe ändern";
+"Choose A Size" = "Wähle eine Größe";
+"Ignore while editing" = "Beim Bearbeiten ignorieren";
+"Hide Things" = "Verstecken";
+"Hide Badges" = "Kennzeichen verstecken";
+"[Hide Badges Moved].description" = "Das Ausblenden von Kennzeichen bei allen Icons wurde in die einzelnen Abschnitte für Dock, Ordner und Seiten verschoben.";
+"Coverflow" = "Cover Flow";
 "Landscape Icons" = "Landscape Icons"; /* Dock */
 "Columns" = "Columns";
 "Rows" = "Rows";
