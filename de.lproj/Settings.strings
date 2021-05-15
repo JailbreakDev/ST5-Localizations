@@ -347,7 +347,7 @@
 "[Auto Dismiss].description" = "Schließt den Sperrbildschirm automatisch, sobald er entsperrt ist.";
 "Light Time Color" = "Hellmodus-Uhrzeitfarbe";
 "Dark Time Color" = "Dunkelmodus-Uhrzeitfarbe";
-"Time Font Size" = "'Uhrzeit-Schriftgröße";
+"Time Font Size" = "Uhrzeit-Schriftgröße";
 "Time Style" = "Uhrzeit-Stil";
 "[Time].description" = "Passet das Aussehen der Uhrzeit auf dem Sperrbildschirm an";
 
