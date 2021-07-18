@@ -15,7 +15,7 @@
 "Cancel" = "Abbrechen";
 "Continue" = "Fortsetzen";
 "Dismiss" = "Verwerfen";
-"[Springtomize].thanks" = "Vielen Dank für die Verwendung von Springtomize 5";
+"[Springtomize].thanks" = "Vielen Dank für die Verwendung von Springtomize 5.";
 "Hide Background" = "Hintergrund ausblenden";
 
 /* Versions */
@@ -23,8 +23,8 @@
 "[Unsupported Version].description %@ %f" = "iOS %@ (%f) wird derzeit nicht unterstützt. Wenn Ihre Version zu neu ist, arbeite ich daran 😎. Wenn es zu alt ist, schauen Sie sich bitte andere Springtomize-Versionen an.";
 
 /* Reset & Respring */
-"[Reset].description" = "Dadurch werden die Einstellungen für diesen Abschnitt zurückgesetzt";
-"[Reset].message" = "Bitte nach einem Reset einen Respring durchführen";
+"[Reset].description" = "Dadurch werden die Einstellungen für diesen Abschnitt zurückgesetzt.";
+"[Reset].message" = "Bitte nach einem Reset einen Respring durchführen.";
 "'%@' requires a respring" = "'%@' benötigt einen Respring";
 "[Respring].message" = "Willst du wirklich einen Respring durchführen?";
 
@@ -43,9 +43,9 @@
 "Green" = "Grün";
 "Blue" = "Blau";
 "Alpha" = "Alpha";
-"[Alpha].description" = "Das Alpha-Level ihrer Farbe";
+"[Alpha].description" = "Das Alpha-Level ihrer Farbe.";
 "Hex" = "Hex";
-"[Hex].description" = "Hex-Wert eingeben";
+"[Hex].description" = "Hex-Wert eingeben.";
 
 /* App List */
 "Available Apps" = "Verfügbare Apps";
@@ -71,7 +71,7 @@
 "Pages" = "Seiten";
 "Status Bar" = "Statusleiste";
 "Profiles" = "Profile";
-"[Profiles].description" = "Konfigurationen in Profilen speichern";
+"[Profiles].description" = "Konfigurationen in Profilen speichern.";
 "More" = "Mehr";
 "Bug Reporting" = "Fehler melden;
 "Request a Feature" = "Funktion anfragen";
@@ -80,7 +80,7 @@
 /* Animations */
 "Custom Speed" = "Eigene Geschwindigkeit";
 "Affect App Switcher" = "Beeinflusse den App-Switcher";
-"[Custom Speed].description" = "Ändern der Geschwindigkeit der Animationen";
+"[Custom Speed].description" = "Ändern der Geschwindigkeit der Animationen.";
 "Lock Animation" = "Sperr-Animation";
 
 /* Lock Animations */
@@ -90,7 +90,7 @@
 "Slide left to right" = "Schieben von links nach rechts";
 "Zoom out" = "Raus zoomen";
 "Disable Icons Fly In" = "Deaktiviere Icon-Einfliegen";
-"[Disable Icons Fly In].description" = "Deaktiviert das Einfliegen der Icons nach dem Entsperren";
+"[Disable Icons Fly In].description" = "Deaktiviert das Einfliegen der Icons nach dem Entsperren.";
 "Only perform on Lock" = "Nur beim Sperren ausführen";
 "[Lock Animation].description" = "Wähle eine Sperranimation und ändere die Geschwindigkeit mit dem Schieberegler. Nur beim Sperren ausführen bedeutet, dass die Sperr-Animation nur aktiviert wird, wenn die physische Sperrtaste verwendet wird.";
 "Page Scroll Animation" = "Seiten-Scroll-Animation";
@@ -147,20 +147,20 @@
 
 /* App Switcher */
 "Hide Icons" = "Icons ausblenden";
-"[Hide Stuff].description" = "Blende die Icons und den Text über den App-Switcher-Karten aus";
+"[Hide Stuff].description" = "Blende die Icons und den Text über den App-Switcher-Karten aus.";
 "Label Appearance" = "Erscheinungsbild der Beschriftung";
 "Title Font Size" = "Titel-Schriftgröße";
 "Light Title Color" = "Hellmodus-Titelfarbe";
 "Dark Title Color" = "Dunkelmodus-Titelfarbe";
 "Subtitle Font Size" = "Untertitel-Schriftgröße";
 "Custom Subtitle" = "Eigener Untertitel";
-"[App Switcher Title Label].description" = "Definiere, wie die Beschriftung aussehen soll";
+"[App Switcher Title Label].description" = "Definiere, wie die Beschriftung aussehen soll.";
 "Use Grid Switcher" = "Verwende Grid-Switcher";
 "Hide Suggestions" = "Vorschläge ausblenden";
 "Card Corner Radius" = "Karten-Eckenradius";
 "Corner Radius" = "Eckenradius";
 "Resize Percentage" = "Größenänderung in Prozent";
-"[Resize Pages].description" = "Ändert die Größe der App-Switcher-Karten";
+"[Resize Pages].description" = "Ändert die Größe der App-Switcher-Karten.";
 "Inactive Apps" = "Inaktive Apps";
 
 /* Inactive Apps mode */
@@ -169,7 +169,7 @@
 "Mark as inactive" = "Als inaktiv markieren";
 
 /* Control Center */
-"[Disable CC].description" = "Kontrollzentrum überall deaktivieren";
+"[Disable CC].description" = "Kontrollzentrum überall deaktivieren.";
 "[CC Background Color].description" = "Ändert die Hintergrundfarbe des Kontrollzentrums.";
 "Light Toggle Color" = "Hellmodus-Tastenfarbe";
 "Dark Toggle Color" = "Dunkelmodus-Tastenfarbe";
@@ -218,9 +218,9 @@
 "Hide Grid Icon" = "Icon-Raster ausblenden";
 "[Hide Grid Icon].description" = "Blendet das Icon-Raster in Ordner-Icons aus.";
 "Squared Background" = "Quadratischer Hintergrund";
-"[Squared Background].description" = "Macht den Ordner-Hintergrund quadratisch";
+"[Squared Background].description" = "Macht den Ordner-Hintergrund quadratisch.";
 "Hide Blur Background" = "Unscharfen Hintergrund ausblenden";
-"[Hide Blur Background].description" = "Blendet den unscharfen Hintergrund eines geöffneten Ordners aus";
+"[Hide Blur Background].description" = "Blendet den unscharfen Hintergrund eines geöffneten Ordners aus.";
 "Fast Open / Close Folders" = "Schnelles Öffnen / Schließen von Ordnern";
 "[Fast Open / Close Folders].description" = "Ordner sofort öffnen und schließen.";
 
@@ -242,7 +242,7 @@
 "Hide Delete Item" = "App entfernen ausblenden";
 "Hide Share Item" = "App teilen ausblenden";
 "Hide Edit Homescreen Item" = "Home-Bildschirm bearbeiten ausblenden";
-"[Hide Context Menu Items].description" = "Verschiedene Elemente aus dem Kontextmenü ausblenden";
+"[Hide Context Menu Items].description" = "Verschiedene Elemente aus dem Kontextmenü ausblenden.";
 "Hide Updated Dot" = "Update-Punkt ausblenden";
 "Hide Newly Installed Dot" = "Neu Installiert-Punkt ausblenden";
 "Hide Beta Dot" = "Beta-Punkt ausblenden";
@@ -260,7 +260,7 @@
 "Dark Text Color" = "Dunkelmodus-Textfarbe";
 "[Badge Colors].description" = "Passen Sie den Hintergrund und die Textfarbe der Kennzeichen an.";
 "Icon Image Effect" = "Icon-Bildeffekt";
-"[Icon Image Effect].description" = "Wenden Sie verschiedene Effekte auf Iconbilder an";
+"[Icon Image Effect].description" = "Wenden Sie verschiedene Effekte auf Iconbilder an.";
 
 /* Icon Image Effect */
 "Invert Colors" = "Farben umkehren";
@@ -316,7 +316,7 @@
 "Bottom Inset" = "Unterer Einschub";
 "Right Inset" = "Rechter Einschub";
 "Invert" = "Umkehren";
-"[Coverflow].description" = "Mehrere Einstellungen für den Cover-Flow-Effekt ändern";
+"[Coverflow].description" = "Mehrere Einstellungen für den Cover-Flow-Effekt ändern.";
 "Factor" = "Faktor";
 "Perspective" = "Perspektive";
 
@@ -332,7 +332,7 @@
 "Large Battery" = "Große Batterie";
 "Flashlight Quick Action" = "Taschenlampe Schnell-Aktion";
 "Camera Quick Action" = "Kamera Schnell-Aktion";
-"[Hide Items].description" = "Sperrbildschirm-Elemente ausblenden / deaktivieren, falls aktiviert";
+"[Hide Items].description" = "Sperrbildschirm-Elemente ausblenden / deaktivieren, falls aktiviert.";
 "Label Style" = "Beschriftungs-Stil";
 
 /* Label Style */
@@ -349,7 +349,7 @@
 "Dark Time Color" = "Dunkelmodus-Uhrzeitfarbe";
 "Time Font Size" = "Uhrzeit-Schriftgröße";
 "Time Style" = "Uhrzeit-Stil";
-"[Time].description" = "Passet das Aussehen der Uhrzeit auf dem Sperrbildschirm an";
+"[Time].description" = "Passet das Aussehen der Uhrzeit auf dem Sperrbildschirm an.";
 
 /* Time Style */
 "Display Seconds" = "Sekunden anzeigen";
@@ -364,7 +364,7 @@
 /* Date Style */
 "Compact Date Format" = "Kompaktes Datumsformat";
 
-"[Date].description" = "Passt das Aussehen des Datums auf dem Sperrbildschirm an";
+"[Date].description" = "Passt das Aussehen des Datums auf dem Sperrbildschirm an.";
 
 /* Miscellaneous */
 "Disable Charging Sound" = "Ladeton deaktivieren";
@@ -377,11 +377,11 @@
 "Disable DND Notification" = "Nicht stören-Benachrichtigung deaktivieren";
 "[Disable DND Notification].description" = "Deaktiviert den Banner Nicht stören.";
 "Background Color" = "Hintergrundfarbe";
-"[Background Color].description" = "Passt die Hintergrundfarbe für das Benachrichtigungscenter an";
+"[Background Color].description" = "Passt die Hintergrundfarbe für das Benachrichtigungscenter an.";
 "Hide Label" = "Beschriftung ausblenden";
 "No Notifications Label" = "'Keine Benachrichtigungen'-Beschriftung";
 "[No Notifications Label].description" = "Ändert den 'Keine Benachrichtigungen'-Text und deren Größe.";
-"[Blur strength].description" = "Ändert die Unschärfe-Stärke";
+"[Blur strength].description" = "Ändert die Unschärfe-Stärke.";
 "Today View" = "Heute-Ansicht";
 "Hide Edit Button" = "Bearbeiten-Taste ausblenden";
 "[Today View].description" = "Anpassung für die Widgets-Ansicht.";
@@ -465,10 +465,10 @@
 "[Profile Respring].message" = "Bitte einen Respring ausführen, um dieses Profil zu aktivieren";
 "Error" = "Fehler";
 "Okay" = "Okay";
-"[Profile Name Empty].message" = "Profil-Namenfeld darf nicht leer sein";
+"[Profile Name Empty].message" = "Profil-Namenfeld darf nicht leer sein.";
 "[Profile Name Reserved].message" = "Der von Ihnen gewählte Name ist Springtomize vorbehalten. Bitte verwenden Sie einen anderen.";
 "[Profile Name Exists].message" = "Ein Profil mit diesem Namen existiert bereits. Bitte wählen Sie einen anderen aus.";
-"[Profile Action].message %@" = "Wählen Sie aus, was mit '%@' geschehen soll";
+"[Profile Action].message %@" = "Wählen Sie aus, was mit '%@' geschehen soll.";
 "Profile Actions" = "Profil-Aktionen";
 
 /* More Section */
@@ -478,11 +478,11 @@
 "Error sending Email" = "Fehler beim Senden der E-Mail";
 "[Error sending Email].message" = "Wir konnten Ihre E-Mail nicht senden. Bitte versuchen Sie es später erneut.";
 "Bug Report Options" = "Möglichkeiten zur Fehlermeldung";
-"[Bug Report Options].message" = "Wähle eine Option zum Melden von Fehlern";
+"[Bug Report Options].message" = "Wähle eine Option zum Melden von Fehlern.";
 "Mail" = "E-Mail";
 "Discord" = "Discord";
 "Request a Feature Options" = "Möglichkeiten zur Anfrage neuer Funktionen";
-"[Request a Feature Options].message" = "Wähle eine Option zum Anfragen neuer Funktionen";
+"[Request a Feature Options].message" = "Wähle eine Option zum Anfragen neuer Funktionen.";
 
 /* Credits */
 "Developer" = "Entwickler";
