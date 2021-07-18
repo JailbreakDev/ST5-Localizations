@@ -473,7 +473,7 @@
 
 /* More Section */
 "Version %@" = "Version %@";
-"Mail not configured" = "Mail nicht konfiguriert";
+"Mail not configured" = "E-Mail nicht konfiguriert";
 "[Mail not configured].message" = "Es scheint, dass auf diesem Gerät kein E-Mail-Konto konfiguriert ist.";
 "Error sending Email" = "Fehler beim Senden der E-Mail";
 "[Error sending Email].message" = "Wir konnten Ihre E-Mail nicht senden. Bitte versuchen Sie es später erneut.";
