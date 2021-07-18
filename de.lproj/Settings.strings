@@ -153,7 +153,7 @@
 "Light Title Color" = "Hellmodus-Titelfarbe";
 "Dark Title Color" = "Dunkelmodus-Titelfarbe";
 "Subtitle Font Size" = "Untertitel-Schriftgröße";
-"Custom Subtitle" = "Eignener Untertitel";
+"Custom Subtitle" = "Eigener Untertitel";
 "[App Switcher Title Label].description" = "Definiere, wie die Beschriftung aussehen soll";
 "Use Grid Switcher" = "Verwende Grid-Switcher";
 "Hide Suggestions" = "Vorschläge ausblenden";
