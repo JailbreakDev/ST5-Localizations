@@ -244,7 +244,7 @@
 "Hide Edit Homescreen Item" = "Home-Bildschirm bearbeiten ausblenden";
 "[Hide Context Menu Items].description" = "Verschiedene Elemente aus dem Kontextmenü ausblenden";
 "Hide Updated Dot" = "Update-Punkt ausblenden";
-"Hide Newly Installed Dot" = "Neu Installiert-Punkte ausblenden";
+"Hide Newly Installed Dot" = "Neu Installiert-Punkt ausblenden";
 "Hide Beta Dot" = "Beta-Punkt ausblenden";
 "[Hide Dot].description" = "Verstecke die Punkte für kürzlich aktualisierte, neu installierte oder Beta-Apps.'";
 "Lock Layout" = "Layout sperren";
