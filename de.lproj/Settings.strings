@@ -143,7 +143,7 @@
 "Use Old Screenshot Style" = "Alten Screenshot-Stil verwenden";
 "Light Screenshot Color" = "Hellmodus-Screenshotfarbe";
 "Dark Screenshot Color" = "Dunkelmodus-Screenshotfarbe";
-"[Flash Color].description" = "Benutzerdefinierte Farbe für den Blitz, der beim Aufnehmen eines Screenshots angezeigt wird.";
+"[Flash Color].description" = "Eigene Farbe für den Blitz, der beim Aufnehmen eines Screenshots angezeigt wird.";
 
 /* App Switcher */
 "Hide Icons" = "Icons ausblenden";
