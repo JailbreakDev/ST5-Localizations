@@ -89,7 +89,7 @@
 "Slide Away" = "Davon schweben";
 "Slide left to right" = "Schieben von links nach rechts";
 "Zoom out" = "Raus zoomen";
-"Disable Icons Fly In" = "Deaktiviere Icons Fly-In";
+"Disable Icons Fly In" = "Deaktiviere Icon-Einfliegen";
 "[Disable Icons Fly In].description" = "Deaktiviert das Einfliegen der Icons nach dem Entsperren";
 "Only perform on Lock" = "Nur beim Sperren ausführen";
 "[Lock Animation].description" = "Wähle eine Sperranimation und ändere die Geschwindigkeit mit dem Schieberegler. Nur beim Sperren ausführen bedeutet, dass die Sperr-Animation nur aktiviert wird, wenn die physische Sperrtaste verwendet wird.";
