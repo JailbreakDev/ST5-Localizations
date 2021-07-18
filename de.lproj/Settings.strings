@@ -296,8 +296,8 @@
 "Resize" = "Größe ändern";
 "Choose A Size" = "Wähle eine Größe";
 "Ignore while editing" = "Beim Bearbeiten ignorieren";
-"Hide Things" = "Verstecken";
-"Hide Badges" = "Kennzeichen verstecken";
+"Hide Things" = "Dinge ausblenden";
+"Hide Badges" = "Kennzeichen ausblenden";
 "[Hide Badges Moved].description" = "Das Ausblenden von Kennzeichen bei allen Icons wurde in die einzelnen Abschnitte für Dock, Ordner und Seiten verschoben.";
 "Coverflow" = "Cover Flow";
 "Landscape Icons" = "Querformat-Icons"; /* Dock */
