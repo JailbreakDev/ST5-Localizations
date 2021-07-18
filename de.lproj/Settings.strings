@@ -276,8 +276,8 @@
 "Icon Labels" = "Icon-Beschriftungen";
 "Light Label Color" = "Hellmodus-Textfarbe";
 "Dark Label Color" = "Dunkelmodus-Textfarbe";
-"Custom Font Type" = "Benutzerdefinierte Schriftart";
-"Custom Font" = "Benutzerdefinierte Schrift";
+"Custom Font Type" = "Eigene Schriftart";
+"Custom Font" = "Eigene Schrift";
 "[Icon Labels].description" = "Passen Sie verschiedene Aspekte von Icon-Beschriftungen an.";
 "Hide Icons" = "Icons ausblenden";
 "Hide Apps" = "Apps ausblenden";
