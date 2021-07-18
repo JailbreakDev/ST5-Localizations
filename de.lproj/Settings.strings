@@ -256,8 +256,8 @@
 "Hide Badge Text" = "Kennzeichen-Text ausblenden";
 "[Hide Badge Text].description" = "Versteckt den Text des Abzeichens unter Beibehaltung des Hintergrunds.";
 "Badge Colors" = "Kennzeichen-Farben";
-"Light Text Color" = "Hellmodus-Farbe";
-"Dark Text Color" = "Dunkelmodus-Farbe";
+"Light Text Color" = "Hellmodus-Textfarbe";
+"Dark Text Color" = "Dunkelmodus-Textfarbe";
 "[Badge Colors].description" = "Passen Sie den Hintergrund und die Textfarbe der Kennzeichen an.";
 "Icon Image Effect" = "Icon-Bildeffekt";
 "[Icon Image Effect].description" = "Wenden Sie verschiedene Effekte auf Iconbilder an";
@@ -274,8 +274,8 @@
 
 "[Transparency].description" = "Wechseln Sie zur Transparenz von Iconbildern.";
 "Icon Labels" = "Icon-Beschriftungen";
-"Light Label Color" = "Hellmodus-Textfarbe";
-"Dark Label Color" = "Dunkelmodus-Textfarbe";
+"Light Label Color" = "Hellmodus-Beschriftungsfarbe";
+"Dark Label Color" = "Dunkelmodus-Beschriftungsfarbe";
 "Custom Font Type" = "Eigene Schriftart";
 "Custom Font" = "Eigene Schrift";
 "[Icon Labels].description" = "Passen Sie verschiedene Aspekte von Icon-Beschriftungen an.";
