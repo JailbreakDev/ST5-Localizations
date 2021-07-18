@@ -173,7 +173,7 @@
 "[CC Background Color].description" = "Ändert die Hintergrundfarbe des Kontrollzentrums.";
 "Light Toggle Color" = "Hellmodus-Tastenfarbe";
 "Dark Toggle Color" = "Dunkelmodus-Tastenfarbe";
-"[CC Toggle Color].description" = "Ändert die Hintergrundfarbe des Kontrollzentrums.";
+"[CC Toggle Color].description" = "Ändert die Hintergrundfarbe der Tasten des Kontrollzentrums.";
 "Hide Sections" = "Abschnitte ausblenden";
 
 /* CC Sections */
