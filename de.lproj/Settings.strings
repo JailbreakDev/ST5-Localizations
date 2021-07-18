@@ -367,9 +367,9 @@
 "[Date].description" = "Passt das Aussehen des Datums auf dem Sperrbildschirm an";
 
 /* Miscellaneous */
-"Disable Charging Sound" = "Ladesound deaktivieren";
-"[Disable Charging Sound].description" = "Deaktiviert den Sound, wenn ein Ladegerät angeschlossen wird.";
-"Disable Screenshot Sound" = "Screenshot-Sound deaktivieren";
+"Disable Charging Sound" = "Ladeton deaktivieren";
+"[Disable Charging Sound].description" = "Deaktiviert den Ton, wenn ein Ladegerät angeschlossen wird.";
+"Disable Screenshot Sound" = "Screenshot-Ton deaktivieren";
 
 /* Notification Center */
 "Disable in Apps" = "In Apps deaktivieren";
