@@ -20,7 +20,7 @@
 
 /* Versions */
 "Unsupported Version" = "Nicht unterstützte Version";
-"[Unsupported Version].description %@ %f" = "iOS %@ (%f) wird derzeit nicht unterstützt. Wenn Ihre Version zu neu ist, arbeite ich daran 😎. Wenn es zu alt ist, schauen Sie sich bitte andere Springtomize-Versionen an.";
+"[Unsupported Version].description %@ %f" = "iOS %@ (%f) wird derzeit nicht unterstützt. Wenn deine Version zu neu ist, arbeite ich daran 😎. Wenn es zu alt ist, schaue dir bitte andere Springtomize-Versionen an.";
 
 /* Reset & Respring */
 "[Reset].description" = "Dadurch werden die Einstellungen für diesen Abschnitt zurückgesetzt.";
@@ -229,15 +229,15 @@
 "Folder Settings" = "Ordner-Einstellungen";
 "Page Settings" = "Seiten-Einstellungen";
 "Sort alphabetically" = "Alphabetisch sortieren";
-"[Sort alphabetically].description" = "Sortiert Ihre Apps alphabetisch. Beachte, dass Ihre Apps beim Deaktivieren weiterhin alphabetisch sortiert werden, bis das Layout manuell geändert wird. Speichere voher dein Icon-Layout.";
+"[Sort alphabetically].description" = "Sortiert deine Apps alphabetisch. Beachte, dass deine Apps beim Deaktivieren weiterhin alphabetisch sortiert werden, bis das Layout manuell geändert wird. Speichere voher dein Icon-Layout.";
 "Icon State" = "Icon-Layout";
 "Save Icon State" = "Icon-Layout speichern";
-"[Save Icon State].message" = "Möchten Sie wirklich ihr aktuelles Icon-Layout speichern?";
+"[Save Icon State].message" = "Möchtest du wirklich dein aktuelles Icon-Layout speichern?";
 "[Save Icon State].hud" = "Icon-Layout gespeichert!";
 "Apply Icon State" = "Icon-Layout anwenden";
-"[Apply Icon State].message" = "Möchten Sie das gespeicherte Icon-Layout wirklich anwenden?";
+"[Apply Icon State].message" = "Möchtest du das gespeicherte Icon-Layout wirklich anwenden?";
 "[Apply Icon State].hud" = "Icon-Layout angewandt!";
-"[Icon State].description" = "Speichern Sie ihr Icon-Layout, wenn Sie damit zufrieden sind und falls Sie erneut einen Jailbreak durchführen müssen oder wenn Sie in den abgesicherten Modus wechseln, können Sie das zuvor gespeicherte Layout später anwenden, anstatt die Icons manuell neu anzuordnen.";
+"[Icon State].description" = "Speichere dein Icon-Layout, wenn du damit zufrieden bist und falls du erneut einen Jailbreak durchführen musst oder wenn du in den abgesicherten Modus wechselst, kannst du das zuvor gespeicherte Layout später anwenden, anstatt die Icons manuell neu anzuordnen.";
 "App Context Menus (3D Touch)" = "App-Kontextmenüs (3D Touch)";
 "Hide Delete Item" = "App entfernen aus";
 "Hide Share Item" = "App teilen aus";
@@ -260,7 +260,7 @@
 "Dark Text Color" = "Dunkel-Textfarbe";
 "[Badge Colors].description" = "Passt den Hintergrund und die Textfarbe der Kennzeichen an.";
 "Icon Image Effect" = "Icon-Bildeffekt";
-"[Icon Image Effect].description" = "Wenden Sie verschiedene Effekte auf Iconbilder an.";
+"[Icon Image Effect].description" = "Wende verschiedene Effekte auf Iconbilder an.";
 
 /* Icon Image Effect */
 "Invert Colors" = "Farben umkehren";
@@ -278,7 +278,7 @@
 "Dark Label Color" = "Dunkel-Beschriftungsfarbe";
 "Custom Font Type" = "Eigene Schriftart";
 "Custom Font" = "Eigene Schrift";
-"[Icon Labels].description" = "Passet die verschiedenen Aspekte von Icon-Beschriftungen an.";
+"[Icon Labels].description" = "Passt die verschiedenen Aspekte von Icon-Beschriftungen an.";
 "Hide Icons" = "Icons ausblenden";
 "Hide Apps" = "Apps ausblenden";
 "[Hide Apps].description" = "Verstecke jede beliebige installierte Anwendung.";
@@ -289,7 +289,7 @@
 
 /* Dock / Folder / Pages Settings */
 "Tweak Information" = "Tweak Information";
-"[Tweak Installed] %@" = "Es scheint, dass Sie %@ installiert haben. Aufgrund bekannter UI-Fehler zwischen Tweak und Springtomize werden Einstellungen wie Zeilen / Spalten und Einschübe deaktiviert, um Probleme zu vermeiden. Wenn Springtomize eine spezifische Einstellung bereitstellt, die fälschlicherweise deaktiviert wurde, können Sie diese mit dem Schalter überschreiben. ";
+"[Tweak Installed] %@" = "Es scheint, dass du %@ installiert hast. Aufgrund bekannter UI-Fehler zwischen Tweak und Springtomize werden Einstellungen wie Zeilen / Spalten und Einschübe deaktiviert, um Probleme zu vermeiden. Wenn Springtomize eine spezifische Einstellung bereitstellt, die fälschlicherweise deaktiviert wurde, kannst du diese mit dem Schalter überschreiben. ";
 "Override" = "Überschreiben";
 "Icon Settings" = "Icon-Einstellungen";
 "[Icon Settings].description" = "Wenn die Option 'Beim Bearbeiten ignorieren' aktiv ist, wird während der Bearbeitung auf die normale Größe zurückgesetzt, um das Verschieben zu erleichtern.";
@@ -338,9 +338,9 @@
 /* Label Style */
 "Current Time" = "Aktuelle Uhrzeit";
 
-"[Label Style].description" = "Wählen Sie einen eigenen Entsperrtext aus.";
+"[Label Style].description" = "Wähle einen eigenen Entsperrtext aus.";
 "Hide Grabber" = "Grabber ausblenden";
-"[Hide Grabber].description" = "Versteckt den Grabber im Benachrichtigungszentrum / Sperrbildschirm. Wenn Sie die Home Bar deaktiviert haben, wird sie möglicherweise nicht angezeigt.";
+"[Hide Grabber].description" = "Versteckt den Grabber im Benachrichtigungszentrum / Sperrbildschirm. Wenn du die Home Bar deaktiviert hast, wird sie möglicherweise nicht angezeigt.";
 "Hide CC Grabber" = "Kontrollzentrum-Grabber aus";
 "[Hide CC Grabber].description" = "Versteckt den Kontrollzentrum-Grabber oben rechts.";
 "Auto Dismiss" = "Automatisches Schließen";
@@ -394,7 +394,7 @@
 "Disable Spotlight" = "Suche / Heute-Ansicht aus";
 "[Disable Spotlight].description" = "Verhindert die Aktivierung der Suche, der Widgets-Ansicht oder der Heute-Ansicht.";
 "Disable Search" = "Suche deaktivieren";
-"[Disable Search].description" = "Sie können zum Suchen nicht mehr herunterziehen, wenn Sie diese Option aktivieren.";
+"[Disable Search].description" = "Du kannst zum Suchen nicht mehr herunterziehen, wenn du diese Option aktivierst.";
 "Return to first page" = "Zur ersten Seite zurück";
 "[Return to first page].description" = "Kehren Sie zur ersten SpringBoard-Seite zurück, wenn Sie das Gerät sperren.";
 "Prevent Rotation" = "Rotation verhindern";
