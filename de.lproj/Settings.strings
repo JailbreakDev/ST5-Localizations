@@ -285,7 +285,7 @@
 "Disable Live Icons" = "Live-Icons deaktivieren";
 "Live Clock" = "Live-Uhr";
 "All Live Icons" = "Alle Live-Icons";
-"[Live Icons].description" = "Deaktiviert die Live-Icons auf dem SpringBoard. Wenn Sie die Live-Uhr deaktivieren, wird sie zum aktuellen Zeitpunkt gestoppt. Beim Deaktivieren aller Live-Icons wird das statische Standard-Icon für diese App verwendet, das möglicherweise besser aussieht.";
+"[Live Icons].description" = "Deaktiviert die Live-Icons auf dem SpringBoard. Wenn du die Live-Uhr deaktivierst, wird sie zum aktuellen Zeitpunkt gestoppt. Beim Deaktivieren aller Live-Icons wird das statische Standard-Icon für diese App verwendet, das möglicherweise besser aussieht.";
 
 /* Dock / Folder / Pages Settings */
 "Tweak Information" = "Tweak Information";
