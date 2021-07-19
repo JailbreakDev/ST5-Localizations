@@ -25,7 +25,7 @@
 /* Reset & Respring */
 "[Reset].description" = "Dadurch werden die Einstellungen für diesen Abschnitt zurückgesetzt.";
 "[Reset].message" = "Bitte nach einem Reset einen Respring durchführen.";
-"'%@' requires a respring" = "'%@' benötigt einen Respring";
+"'%@' requires a respring" = "'%@' benötigt einen Respring.";
 "[Respring].message" = "Willst du wirklich einen Respring durchführen?";
 
 /* Application List */
@@ -36,14 +36,14 @@
 /* Colors & Color Picker */
 "Light Color" = "Hellmodus-Farbe";
 "Dark Color" = "Dunkelmodus-Farbe";
-"Light Background Color" = "Hellmodus-Hintergrundfarbe";
-"Dark Background Color" = "Dunkelmodus-Hintergrundfarbe";
+"Light Background Color" = "Hell-Hintergrundfarbe";
+"Dark Background Color" = "Dunkel-Hintergrundfarbe";
 "Color Picker" = "Farbe wählen";
 "Red" = "Rot";
 "Green" = "Grün";
 "Blue" = "Blau";
 "Alpha" = "Alpha";
-"[Alpha].description" = "Das Alpha-Level ihrer Farbe.";
+"[Alpha].description" = "Der Alpha-Level deiner Farbe.";
 "Hex" = "Hex";
 "[Hex].description" = "Hex-Wert eingeben.";
 
@@ -89,7 +89,7 @@
 "Slide Away" = "Davon schweben";
 "Slide left to right" = "Schieben von links nach rechts";
 "Zoom out" = "Raus zoomen";
-"Disable Icons Fly In" = "Deaktiviere Icon-Einfliegen";
+"Disable Icons Fly In" = "Icon-Einfliegen deaktivieren";
 "[Disable Icons Fly In].description" = "Deaktiviert das Einfliegen der Icons nach dem Entsperren.";
 "Only perform on Lock" = "Nur beim Sperren ausführen";
 "[Lock Animation].description" = "Wähle eine Sperranimation und ändere die Geschwindigkeit mit dem Schieberegler. Nur beim Sperren ausführen bedeutet, dass die Sperr-Animation nur aktiviert wird, wenn die physische Sperrtaste verwendet wird.";
@@ -141,8 +141,8 @@
 "[Page Scroll Animation].description" = "Wähle deine Lieblingsanimation aus, beim Wischen von einer Seite zur anderen.";
 
 "Use Old Screenshot Style" = "Alten Screenshot-Stil verwenden";
-"Light Screenshot Color" = "Hellmodus-Screenshotfarbe";
-"Dark Screenshot Color" = "Dunkelmodus-Screenshotfarbe";
+"Light Screenshot Color" = "Hell-Screenshotfarbe";
+"Dark Screenshot Color" = "Dunkel-Screenshotfarbe";
 "[Flash Color].description" = "Eigene Farbe für den Blitz, der beim Aufnehmen eines Screenshots angezeigt wird.";
 
 /* App Switcher */
@@ -150,8 +150,8 @@
 "[Hide Stuff].description" = "Blende die Icons und den Text über den App-Switcher-Karten aus.";
 "Label Appearance" = "Erscheinungsbild der Beschriftung";
 "Title Font Size" = "Titel-Schriftgröße";
-"Light Title Color" = "Hellmodus-Titelfarbe";
-"Dark Title Color" = "Dunkelmodus-Titelfarbe";
+"Light Title Color" = "Hell-Titelfarbe";
+"Dark Title Color" = "Dunkel-Titelfarbe";
 "Subtitle Font Size" = "Untertitel-Schriftgröße";
 "Custom Subtitle" = "Eigener Untertitel";
 "[App Switcher Title Label].description" = "Definiere, wie die Beschriftung aussehen soll.";
@@ -171,8 +171,8 @@
 /* Control Center */
 "[Disable CC].description" = "Kontrollzentrum überall deaktivieren.";
 "[CC Background Color].description" = "Ändert die Hintergrundfarbe des Kontrollzentrums.";
-"Light Toggle Color" = "Hellmodus-Tastenfarbe";
-"Dark Toggle Color" = "Dunkelmodus-Tastenfarbe";
+"Light Toggle Color" = "Hell-Tastenfarbe";
+"Dark Toggle Color" = "Dunkel-Tastenfarbe";
 "[CC Toggle Color].description" = "Ändert die Hintergrundfarbe der Tasten des Kontrollzentrums.";
 "Hide Sections" = "Abschnitte ausblenden";
 
@@ -239,13 +239,13 @@
 "[Apply Icon State].hud" = "Icon-Layout angewendet!";
 "[Icon State].description" = "Speichern Sie ihr Icon-Layout, wenn Sie damit zufrieden sind und falls Sie erneut einen Jailbreak durchführen müssen oder wenn Sie in den abgesicherten Modus wechseln, können Sie das zuvor gespeicherte Layout später anwenden, anstatt die Icons manuell neu anzuordnen.";
 "App Context Menus (3D Touch)" = "App-Kontextmenüs (3D Touch)";
-"Hide Delete Item" = "App entfernen ausblenden";
-"Hide Share Item" = "App teilen ausblenden";
-"Hide Edit Homescreen Item" = "Home-Bildschirm bearbeiten ausblenden";
+"Hide Delete Item" = "App entfernen aus";
+"Hide Share Item" = "App teilen aus";
+"Hide Edit Homescreen Item" = "Home-Bildschirm bearbeiten aus";
 "[Hide Context Menu Items].description" = "Verschiedene Elemente aus dem Kontextmenü ausblenden.";
-"Hide Updated Dot" = "Update-Punkt ausblenden";
-"Hide Newly Installed Dot" = "Neu Installiert-Punkt ausblenden";
-"Hide Beta Dot" = "Beta-Punkt ausblenden";
+"Hide Updated Dot" = "Update-Punkt aus";
+"Hide Newly Installed Dot" = "Neu Installiert-Punkt aus";
+"Hide Beta Dot" = "Beta-Punkt aus";
 "[Hide Dot].description" = "Verstecke die Punkte für kürzlich aktualisierte, neu installierte oder Beta-Apps.'";
 "Lock Layout" = "Layout sperren";
 "[Lock Layout].description" = "Verhindert, dass Icons verschoben werden.";
@@ -256,8 +256,8 @@
 "Hide Badge Text" = "Kennzeichen-Text ausblenden";
 "[Hide Badge Text].description" = "Versteckt den Text des Abzeichens unter Beibehaltung des Hintergrunds.";
 "Badge Colors" = "Kennzeichen-Farben";
-"Light Text Color" = "Hellmodus-Textfarbe";
-"Dark Text Color" = "Dunkelmodus-Textfarbe";
+"Light Text Color" = "Hell-Textfarbe";
+"Dark Text Color" = "Dunkel-Textfarbe";
 "[Badge Colors].description" = "Passen Sie den Hintergrund und die Textfarbe der Kennzeichen an.";
 "Icon Image Effect" = "Icon-Bildeffekt";
 "[Icon Image Effect].description" = "Wenden Sie verschiedene Effekte auf Iconbilder an.";
