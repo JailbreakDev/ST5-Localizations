@@ -340,7 +340,7 @@
 
 "[Label Style].description" = "Wähle einen eigenen Entsperrtext aus.";
 "Hide Grabber" = "Grabber ausblenden";
-"[Hide Grabber].description" = "Versteckt den Grabber im Benachrichtigungszentrum / Sperrbildschirm. Wenn du die Home Bar deaktiviert hast, wird sie möglicherweise nicht angezeigt.";
+"[Hide Grabber].description" = "Versteckt den Grabber im Benachrichtigungszentrum / Sperrbildschirm. Wenn du die Home Bar deaktiviert hast, wird es möglicherweise nicht angezeigt.";
 "Hide CC Grabber" = "Kontrollzentrum-Grabber aus";
 "[Hide CC Grabber].description" = "Versteckt den Kontrollzentrum-Grabber oben rechts.";
 "Auto Dismiss" = "Automatisches Schließen";
