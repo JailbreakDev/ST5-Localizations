@@ -95,7 +95,7 @@
 "[Lock Animation].description" = "Wähle eine Sperranimation und ändere die Geschwindigkeit mit dem Schieberegler. Nur beim Sperren ausführen bedeutet, dass die Sperr-Animation nur aktiviert wird, wenn die physische Sperrtaste verwendet wird.";
 "Page Scroll Animation" = "Seiten-Scroll-Animation";
 
-"Disable Battery Animation" = "Batterieanimation deaktivieren";
+"Disable Battery Animation" = "Batterieanimation aus";
 "[Disable Battery Animation].description" = "Deaktiviert die Animation auf dem Sperrbildschirm, wenn ein Ladegerät angeschlossen wird. Es wird sofort angezeigt.";
 
 /* Page Scroll Animations */
@@ -140,7 +140,7 @@
 "Zoom Out" = "Hinauszoomen";
 "[Page Scroll Animation].description" = "Wähle deine Lieblingsanimation aus, beim Wischen von einer Seite zur anderen.";
 
-"Use Old Screenshot Style" = "Alten Screenshot-Stil verwenden";
+"Use Old Screenshot Style" = "Alter Screenshot-Stil";
 "Light Screenshot Color" = "Hell-Screenshotfarbe";
 "Dark Screenshot Color" = "Dunkel-Screenshotfarbe";
 "[Flash Color].description" = "Eigene Farbe für den Blitz, der beim Aufnehmen eines Screenshots angezeigt wird.";
@@ -199,7 +199,7 @@
 /* Folders */
 "Nested Folders" = "Verschachtelte Ordner";
 "[Nested Folders].description" = "Ordner in Ordnern erstellen.";
-"Experimental Nested Folders" = "Experimentelle verschachtelte Ordner";
+"Experimental Nested Folders" = "Experimentelle Ordner";
 "[Experimental Nested Folders].description" = "Ordner in Ordnern erstellen. Beim Schließen / Öffnen eines Ordners in einem Ordner können UI-Fehler auftreten. Ich empfehle, das Icon-Layout vorher zu speichern.";
 "Show Status Bar" = "Statusleiste anzeigen";
 "[Show Status Bar].description" = "Zeigt die Statusleiste in Ordnern an.";
@@ -219,9 +219,9 @@
 "[Hide Grid Icon].description" = "Blendet das Icon-Raster in Ordner-Icons aus.";
 "Squared Background" = "Quadratischer Hintergrund";
 "[Squared Background].description" = "Macht den Ordner-Hintergrund quadratisch.";
-"Hide Blur Background" = "Unscharfen Hintergrund ausblenden";
+"Hide Blur Background" = "Unscharfen Hintergrund aus";
 "[Hide Blur Background].description" = "Blendet den unscharfen Hintergrund eines geöffneten Ordners aus.";
-"Fast Open / Close Folders" = "Schnelles Öffnen / Schließen von Ordnern";
+"Fast Open / Close Folders" = "Schnelles Öffnen / Schließen";
 "[Fast Open / Close Folders].description" = "Ordner sofort öffnen und schließen.";
 
 /* Icons */
@@ -274,8 +274,8 @@
 
 "[Transparency].description" = "Wechseln Sie zur Transparenz von Iconbildern.";
 "Icon Labels" = "Icon-Beschriftungen";
-"Light Label Color" = "Hellmodus-Beschriftungsfarbe";
-"Dark Label Color" = "Dunkelmodus-Beschriftungsfarbe";
+"Light Label Color" = "Hell-Beschriftungsfarbe";
+"Dark Label Color" = "Dunkel-Beschriftungsfarbe";
 "Custom Font Type" = "Eigene Schriftart";
 "Custom Font" = "Eigene Schrift";
 "[Icon Labels].description" = "Passen Sie verschiedene Aspekte von Icon-Beschriftungen an.";
@@ -341,12 +341,12 @@
 "[Label Style].description" = "Wählen Sie einen eigenen Entsperrtext aus.";
 "Hide Grabber" = "Grabber ausblenden";
 "[Hide Grabber].description" = "Versteckt den Grabber im Benachrichtigungszentrum / Sperrbildschirm. Wenn Sie die Home Bar deaktiviert haben, wird sie möglicherweise nicht angezeigt.";
-"Hide CC Grabber" = "Kontrollzentrum-Grabber ausblenden";
+"Hide CC Grabber" = "Kontrollzentrum-Grabber aus";
 "[Hide CC Grabber].description" = "Versteckt den Kontrollzentrum-Grabber oben rechts.";
 "Auto Dismiss" = "Automatisches Schließen";
 "[Auto Dismiss].description" = "Schließt den Sperrbildschirm automatisch, sobald er entsperrt ist.";
-"Light Time Color" = "Hellmodus-Uhrzeitfarbe";
-"Dark Time Color" = "Dunkelmodus-Uhrzeitfarbe";
+"Light Time Color" = "Hell-Uhrzeitfarbe";
+"Dark Time Color" = "Dunkel-Uhrzeitfarbe";
 "Time Font Size" = "Uhrzeit-Schriftgröße";
 "Time Style" = "Uhrzeit-Stil";
 "[Time].description" = "Passet das Aussehen der Uhrzeit auf dem Sperrbildschirm an.";
@@ -356,8 +356,8 @@
 
 "Date" = "Datum";
 "Hide Date" = "Datum ausblenden";
-"Light Date Color" = "Hellmodus-Datumsfarbe";
-"Dark Date Color" = "Dunkelmodus-Datumsfarbe";
+"Light Date Color" = "Hell-Datumsfarbe";
+"Dark Date Color" = "Dunkel-Datumsfarbe";
 "Date Font Size" = "Datum-Schriftgröße";
 "Date Style" = "Datum-Stil";
 
@@ -495,5 +495,5 @@
 "Folder Icon" = "Ordner-Icon";
 "Folder Icon Rows" = "Ordner-Iconreihen";
 "Folder Icon Columns" = "Ordner-Iconspalten";
-"Hide Beta Feedback Item" = "Beta-Feedback senden ausblenden";
+"Hide Beta Feedback Item" = "Beta-Feedback senden aus";
 "Save automatically" = "Automatisch speichern";
