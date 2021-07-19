@@ -396,13 +396,13 @@
 "Disable Search" = "Suche deaktivieren";
 "[Disable Search].description" = "Du kannst zum Suchen nicht mehr herunterziehen, wenn du diese Option aktivierst.";
 "Return to first page" = "Zur ersten Seite zurück";
-"[Return to first page].description" = "Kehren Sie zur ersten SpringBoard-Seite zurück, wenn Sie das Gerät sperren.";
+"[Return to first page].description" = "Kehrt zur ersten SpringBoard-Seite zurück, wenn das Gerät gesperrt wird.";
 "Prevent Rotation" = "Rotation verhindern";
 "[Prevent Rotation].description" = "Verhindert die Drehung des Home-Bildschirms.";
 "Disable Parallax" = "Parallax deaktivieren";
 "[Disable Parallax].description" = "Deaktiviert den Parallax-Effekt vollständig.";
 "Disable Reachability" = "Einhandmodus deaktivieren";
-"[Disable Reachability].description" = "Deaktiviert den Einhandmodus. Sie finden dies auch in den iOS-Einstellungen.";
+"[Disable Reachability].description" = "Deaktiviert den Einhandmodus. Du findest dies auch in den iOS-Einstellungen.";
 "Disable Search Blur" = "Suche-Unschärfe deaktivieren";
 "[Disable Search Blur].description" = "Deaktiviert den unscharfen Hintergrund der Suche.";
 "Hide Context Menu Blur" = "Menü-Unschärfe ausblenden";
@@ -423,7 +423,7 @@
 "Display Free RAM" = "Freien RAM anzeigen";
 "Custom Time Format" = "Eigenes Zeitformat";
 
-"[Time Mode].description" = "Wählen aus, was in der Statusleiste als Zeitzeichenfolge angezeigt werden soll.";
+"[Time Mode].description" = "Wähle aus, was in der Statusleiste als Zeitzeichenfolge angezeigt werden soll.";
 "Breadcrumbs" = "Breadcrumbs";
 "Disable Breadcrumbs" = "Breadcrumbs deaktivieren";
 "Hide Text" = "Text ausblenden";
@@ -466,9 +466,9 @@
 "Error" = "Fehler";
 "Okay" = "Okay";
 "[Profile Name Empty].message" = "Profil-Namenfeld darf nicht leer sein.";
-"[Profile Name Reserved].message" = "Der von Ihnen gewählte Name ist Springtomize vorbehalten. Bitte verwenden Sie einen anderen.";
-"[Profile Name Exists].message" = "Ein Profil mit diesem Namen existiert bereits. Bitte wählen Sie einen anderen aus.";
-"[Profile Action].message %@" = "Wählen Sie aus, was mit '%@' geschehen soll.";
+"[Profile Name Reserved].message" = "Der von dir gewählte Name ist Springtomize vorbehalten. Bitte verwende einen anderen.";
+"[Profile Name Exists].message" = "Ein Profil mit diesem Namen existiert bereits. Bitte wähle einen anderen aus.";
+"[Profile Action].message %@" = "Wähle aus, was mit '%@' geschehen soll.";
 "Profile Actions" = "Profil-Aktionen";
 
 /* More Section */
@@ -476,7 +476,7 @@
 "Mail not configured" = "E-Mail nicht konfiguriert";
 "[Mail not configured].message" = "Es scheint, dass auf diesem Gerät kein E-Mail-Konto konfiguriert ist.";
 "Error sending Email" = "Fehler beim Senden der E-Mail";
-"[Error sending Email].message" = "Wir konnten Ihre E-Mail nicht senden. Bitte versuchen Sie es später erneut.";
+"[Error sending Email].message" = "Wir konnten deine E-Mail nicht senden. Bitte versuche es später erneut.";
 "Bug Report Options" = "Möglichkeiten zur Fehlermeldung";
 "[Bug Report Options].message" = "Wähle eine Option zum Melden von Fehlern.";
 "Mail" = "E-Mail";
