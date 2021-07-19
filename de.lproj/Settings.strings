@@ -34,8 +34,8 @@
 "User Apps" = "Benutzer-Apps";
 
 /* Colors & Color Picker */
-"Light Color" = "Hellmodus-Farbe";
-"Dark Color" = "Dunkelmodus-Farbe";
+"Light Color" = "Hell-Farbe";
+"Dark Color" = "Dunkel-Farbe";
 "Light Background Color" = "Hell-Hintergrundfarbe";
 "Dark Background Color" = "Dunkel-Hintergrundfarbe";
 "Color Picker" = "Farbe wählen";
@@ -236,7 +236,7 @@
 "[Save Icon State].hud" = "Icon-Layout gespeichert!";
 "Apply Icon State" = "Icon-Layout anwenden";
 "[Apply Icon State].message" = "Möchten Sie das gespeicherte Icon-Layout wirklich anwenden?";
-"[Apply Icon State].hud" = "Icon-Layout angewendet!";
+"[Apply Icon State].hud" = "Icon-Layout angewandt!";
 "[Icon State].description" = "Speichern Sie ihr Icon-Layout, wenn Sie damit zufrieden sind und falls Sie erneut einen Jailbreak durchführen müssen oder wenn Sie in den abgesicherten Modus wechseln, können Sie das zuvor gespeicherte Layout später anwenden, anstatt die Icons manuell neu anzuordnen.";
 "App Context Menus (3D Touch)" = "App-Kontextmenüs (3D Touch)";
 "Hide Delete Item" = "App entfernen aus";
@@ -254,11 +254,11 @@
 "Disable Uninstall" = "App löschen deaktivieren";
 "[Disable Uninstall].description" = "Verhindert, dass Apps gelöscht werden können.";
 "Hide Badge Text" = "Kennzeichen-Text ausblenden";
-"[Hide Badge Text].description" = "Versteckt den Text des Abzeichens unter Beibehaltung des Hintergrunds.";
+"[Hide Badge Text].description" = "Versteckt den Text des Kennzeichens unter Beibehaltung des Hintergrunds.";
 "Badge Colors" = "Kennzeichen-Farben";
 "Light Text Color" = "Hell-Textfarbe";
 "Dark Text Color" = "Dunkel-Textfarbe";
-"[Badge Colors].description" = "Passen Sie den Hintergrund und die Textfarbe der Kennzeichen an.";
+"[Badge Colors].description" = "Passt den Hintergrund und die Textfarbe der Kennzeichen an.";
 "Icon Image Effect" = "Icon-Bildeffekt";
 "[Icon Image Effect].description" = "Wenden Sie verschiedene Effekte auf Iconbilder an.";
 
@@ -272,13 +272,13 @@
 "Red Ascendant" = "Roter Aszendent";
 "Green Ascendant" = "Grüner Aszendent";
 
-"[Transparency].description" = "Wechseln Sie zur Transparenz von Iconbildern.";
+"[Transparency].description" = "Ändert die Transparenz der Iconbildern.";
 "Icon Labels" = "Icon-Beschriftungen";
 "Light Label Color" = "Hell-Beschriftungsfarbe";
 "Dark Label Color" = "Dunkel-Beschriftungsfarbe";
 "Custom Font Type" = "Eigene Schriftart";
 "Custom Font" = "Eigene Schrift";
-"[Icon Labels].description" = "Passen Sie verschiedene Aspekte von Icon-Beschriftungen an.";
+"[Icon Labels].description" = "Passet die verschiedenen Aspekte von Icon-Beschriftungen an.";
 "Hide Icons" = "Icons ausblenden";
 "Hide Apps" = "Apps ausblenden";
 "[Hide Apps].description" = "Verstecke jede beliebige installierte Anwendung.";
@@ -349,7 +349,7 @@
 "Dark Time Color" = "Dunkel-Uhrzeitfarbe";
 "Time Font Size" = "Uhrzeit-Schriftgröße";
 "Time Style" = "Uhrzeit-Stil";
-"[Time].description" = "Passet das Aussehen der Uhrzeit auf dem Sperrbildschirm an.";
+"[Time].description" = "Passt das Aussehen der Uhrzeit auf dem Sperrbildschirm an.";
 
 /* Time Style */
 "Display Seconds" = "Sekunden anzeigen";
@@ -374,10 +374,10 @@
 /* Notification Center */
 "Disable in Apps" = "In Apps deaktivieren";
 "[Disable NC].description" = "Deaktiviert das Benachrichtigungszentrum vollständig oder nur in bestimmten Apps.";
-"Disable DND Notification" = "Nicht stören-Benachrichtigung deaktivieren";
+"Disable DND Notification" = "Nicht stören-Banner aus";
 "[Disable DND Notification].description" = "Deaktiviert den Banner Nicht stören.";
 "Background Color" = "Hintergrundfarbe";
-"[Background Color].description" = "Passt die Hintergrundfarbe für das Benachrichtigungscenter an.";
+"[Background Color].description" = "Passt die Hintergrundfarbe für das Benachrichtigungszentrum an.";
 "Hide Label" = "Beschriftung ausblenden";
 "No Notifications Label" = "'Keine Benachrichtigungen'-Beschriftung";
 "[No Notifications Label].description" = "Ändert den 'Keine Benachrichtigungen'-Text und deren Größe.";
@@ -391,11 +391,11 @@
 "[Hide Dots].description" = "Versteckt die Seitenpunkte.";
 "Hide Home Bar" = "Home Bar ausblenden";
 "[Hide Home Bar].description" = "Blendet die Home Bar systemweit aus. Wird nach dem Schließen der App wirksam.";
-"Disable Spotlight" = "Suche / Heute-Ansicht deaktivieren";
-"[Disable Spotlight].description" = "Verhindert die Aktivierung der Suche, Widgets-Ansicht oder die Heute-Ansicht.";
+"Disable Spotlight" = "Suche / Heute-Ansicht aus";
+"[Disable Spotlight].description" = "Verhindert die Aktivierung der Suche, der Widgets-Ansicht oder der Heute-Ansicht.";
 "Disable Search" = "Suche deaktivieren";
 "[Disable Search].description" = "Sie können zum Suchen nicht mehr herunterziehen, wenn Sie diese Option aktivieren.";
-"Return to first page" = "Zur ersten Seite zurückkehren";
+"Return to first page" = "Zur ersten Seite zurück";
 "[Return to first page].description" = "Kehren Sie zur ersten SpringBoard-Seite zurück, wenn Sie das Gerät sperren.";
 "Prevent Rotation" = "Rotation verhindern";
 "[Prevent Rotation].description" = "Verhindert die Drehung des Home-Bildschirms.";
@@ -405,10 +405,10 @@
 "[Disable Reachability].description" = "Deaktiviert den Einhandmodus. Sie finden dies auch in den iOS-Einstellungen.";
 "Disable Search Blur" = "Suche-Unschärfe deaktivieren";
 "[Disable Search Blur].description" = "Deaktiviert den unscharfen Hintergrund der Suche.";
-"Hide Context Menu Blur" = "Unschärfe des Kontextmenüs ausblenden";
+"Hide Context Menu Blur" = "Menü-Unschärfe ausblenden";
 "[Hide Context Menu Blur].description" = "Blendet den unscharfen Hintergrund für 3D-Touch / Kontextmenüs auf dem SpringBoard aus.";
 "Disable Status Bar" = "Statusleiste deaktivieren";
-"[Disable Status Bar].description" = "Deaktiviert die Statusleiste auf dem Homes-Bildschirm.";
+"[Disable Status Bar].description" = "Deaktiviert die Statusleiste auf dem Home-Bildschirm.";
 
 /* Status Bar */
 "Custom Carrier" = "Eigener Netzbetreiber";
@@ -423,7 +423,7 @@
 "Display Free RAM" = "Freien RAM anzeigen";
 "Custom Time Format" = "Eigenes Zeitformat";
 
-"[Time Mode].description" = "Wählen Sie aus, was in der Statusleiste als Zeitzeichenfolge angezeigt werden soll.";
+"[Time Mode].description" = "Wählen aus, was in der Statusleiste als Zeitzeichenfolge angezeigt werden soll.";
 "Breadcrumbs" = "Breadcrumbs";
 "Disable Breadcrumbs" = "Breadcrumbs deaktivieren";
 "Hide Text" = "Text ausblenden";
